@@ -1,0 +1,17 @@
+Retail Sales and Customer Behavior Analysis
+
+Overview:
+This project analyzes retail sales and customer behavior across multiple stores. The analysis provides insights into:
+
+Sales trends and customer segmentation.
+1.Drivers of high sales and low-performing categories.
+2.Impact of external factors like holidays and weather on sales.
+3.Actionable recommendations for improving sales and optimizing product placements.
+
+The project also includes an interactive Tableau dashboard that visualizes key findings : https://public.tableau.com/app/profile/sushant.k8220/viz/RetailSalesDashboard_17373267818180/RetailPulse
+
+Project Objectives
+1.Analyze sales trends over time and across locations.
+2.Perform customer segmentation to identify high-value customers.
+3.Evaluate the impact of holidays and weather on sales.
+4.Create an interactive dashboard for stakeholders to explore insights.

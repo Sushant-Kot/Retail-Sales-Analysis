@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,Store_ID,Location,Size,Category,Year,Month,Day,Weekday,Is_Weekend,onetime_customers,repeat_customers,latitude,longitude,is_holiday,holiday_name,temperature,season,weather_condition
+1,11/24/2024,1,Male,34,Beauty,3,50,150,S010,New Orleans,Large,online,2024,11,24,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,73,Autumn,Overcast
+2,12/13/2024,1,Male,63,Electronics,2,300,2600,S010,New Orleans,Large,online,2024,12,13,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Friday the 13th,86,Winter,Foggy
+3,2/17/2024,1,Male,19,Clothing,3,500,1500,S010,New Orleans,Large,online,2024,2,17,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,82,Winter,Sunny
+4,4/12/2024,1,Female,35,Clothing,4,30,1120,S010,New Orleans,Large,online,2024,4,12,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Human Space Flight,92,Spring,Cloudy
+5,11/22/2024,1,Female,18,Beauty,4,500,2000,S010,New Orleans,Large,online,2024,11,22,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,71,Autumn,Foggy
+6,7/1/2024,1,Female,47,Clothing,3,500,1500,S010,New Orleans,Large,online,2024,7,1,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,72,Summer,Clear Skies
+7,4/18/2024,1,Male,34,Beauty,1,300,300,S010,New Orleans,Large,online,2024,4,18,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for Monuments and Sites,70,Spring,Sunny
+8,10/3/2024,1,Male,64,Electronics,4,30,120,S010,New Orleans,Large,online,2024,10,3,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Navratri,65,Autumn,Windy
+9,11/2/2024,1,Female,22,Electronics,1,50,50,S010,New Orleans,Large,online,2024,11,2,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,All Souls' Day,82,Autumn,Foggy
+10,8/28/2024,1,Male,38,Clothing,4,50,200,S010,New Orleans,Large,online,2024,8,28,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,61,Summer,Clear Skies
+11,10/2/2024,1,Male,51,Electronics,3,300,900,S010,New Orleans,Large,online,2024,10,2,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Non-Violence,69,Autumn,Cloudy
+12,6/24/2024,1,Male,62,Electronics,4,500,2000,S010,New Orleans,Large,online,2024,6,24,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,65,Summer,Sunny
+13,8/11/2024,1,Female,43,Clothing,2,50,100,S010,New Orleans,Large,online,2024,8,11,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,53,Summer,Clear Skies
+14,9/14/2024,1,Female,60,Clothing,4,300,1200,S010,New Orleans,Large,online,2024,9,14,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,92,Autumn,Windy
+15,11/17/2024,1,Male,18,Beauty,3,500,1500,S010,New Orleans,Large,online,2024,11,17,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,World Day of Remembrance for Road Traffic Victims,75,Autumn,Foggy
+16,2/2/2024,1,Female,64,Clothing,1,25,25,S010,New Orleans,Large,online,2024,2,2,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Wetlands Day,60,Winter,Sunny
+17,6/19/2024,1,Male,38,Electronics,3,500,1500,S010,New Orleans,Large,online,2024,6,19,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for the Elimination of Sexual Violence in Conflict,54,Summer,Drizzle
+18,9/6/2024,1,Male,47,Clothing,3,30,90,S010,New Orleans,Large,online,2024,9,6,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Ganesh Chaturthi,82,Autumn,Windy
+19,10/4/2024,1,Male,41,Electronics,2,30,60,S010,New Orleans,Large,online,2024,10,4,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Feast of St Francis of Assisi,57,Autumn,Foggy
+20,7/28/2024,1,Male,41,Electronics,1,500,500,S010,New Orleans,Large,online,2024,7,28,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,World Hepatitis Day,73,Summer,Clear Skies
+21,12/4/2024,1,Female,37,Clothing,1,50,50,S010,New Orleans,Large,online,2024,12,4,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Banks,80,Winter,Sunny
+22,8/15/2024,1,Female,31,Electronics,1,25,25,S010,New Orleans,Large,online,2024,8,15,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Assumption of Mary,60,Summer,Heatwave
+23,10/9/2024,1,Male,55,Electronics,2,25,50,S010,New Orleans,Large,online,2024,10,9,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Post Day,67,Autumn,Windy
+24,1/30/2024,1,Male,22,Electronics,3,30,90,S010,New Orleans,Large,online,2024,1,30,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,70,Winter,Snow
+25,10/27/2024,1,Female,52,Electronics,3,50,1150,S010,New Orleans,Large,online,2024,10,27,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,World Day for Audiovisual Heritage,86,Autumn,Cloudy
+26,9/18/2024,1,Female,25,Beauty,4,50,200,S010,New Orleans,Large,online,2024,9,18,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Equal Pay Day,57,Autumn,Foggy
+27,2/11/2024,1,Male,28,Electronics,3,30,90,S010,New Orleans,Large,online,2024,2,11,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Women and Girls in Science,94,Winter,Sunny
+28,2/5/2024,1,Female,54,Electronics,4,300,1200,S010,New Orleans,Large,online,2024,2,5,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,94,Winter,Foggy
+29,11/14/2024,1,Male,62,Electronics,1,30,30,S010,New Orleans,Large,online,2024,11,14,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Diabetes Day,64,Autumn,Cloudy
+30,8/3/2024,1,Male,42,Electronics,1,25,25,S010,New Orleans,Large,online,2024,8,3,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,73,Summer,Heatwave
+31,12/3/2024,1,Female,35,Electronics,2,300,600,S010,New Orleans,Large,online,2024,12,3,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Persons with Disabilities,74,Winter,Overcast
+32,10/16/2024,1,Male,23,Electronics,2,30,60,S010,New Orleans,Large,online,2024,10,16,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Food Day,75,Autumn,Rainy
+33,9/17/2024,1,Male,32,Clothing,1,50,50,S010,New Orleans,Large,online,2024,9,17,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Patient Safety Day,63,Autumn,Windy
+34,5/6/2024,1,Male,56,Electronics,2,300,600,S010,New Orleans,Large,online,2024,5,6,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Yom HaShoah,84,Spring,Sunny
+35,3/22/2024,1,Female,46,Beauty,3,30,90,S010,New Orleans,Large,online,2024,3,22,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Water Day,91,Spring,Sunny
+36,11/10/2024,1,Male,50,Electronics,1,25,25,S010,New Orleans,Large,online,2024,11,10,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,World Science Day for Peace and Development,74,Autumn,Rainy
+37,12/1/2024,1,Male,21,Clothing,2,25,50,S010,New Orleans,Large,online,2024,12,1,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,First Sunday of Advent,72,Winter,Sunny
+38,1/5/2024,1,Male,19,Beauty,2,25,50,S010,New Orleans,Large,online,2024,1,5,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,77,Winter,Sunny
+39,2/24/2024,1,Male,53,Clothing,4,50,200,S010,New Orleans,Large,online,2024,2,24,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,53,Winter,Snow
+40,10/10/2024,1,Female,40,Electronics,4,50,200,S010,New Orleans,Large,online,2024,10,10,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Mental Health Day,87,Autumn,Cloudy
+41,10/26/2024,1,Male,64,Clothing,2,300,600,S010,New Orleans,Large,online,2024,10,26,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,81,Autumn,Foggy
+42,7/6/2024,1,Male,22,Beauty,4,500,2000,S010,New Orleans,Large,online,2024,7,6,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Cooperatives,71,Summer,Sunny
+43,10/14/2024,1,Male,57,Electronics,2,30,60,S010,New Orleans,Large,online,2024,10,14,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Columbus Day,85,Autumn,Cloudy
+44,3/21/2024,1,Male,28,Clothing,4,300,1200,S010,New Orleans,Large,online,2024,3,21,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for the Elimination of Racial Discrimination,53,Spring,Sunny
+45,3/25/2024,1,Female,18,Beauty,2,500,1500,S010,New Orleans,Large,online,2024,3,25,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Holi,58,Spring,Hazy
+46,7/30/2024,1,Female,53,Electronics,3,50,150,S010,New Orleans,Large,online,2024,7,30,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Friendship,62,Summer,Sunny
+47,12/26/2024,1,Female,38,Beauty,3,300,900,S010,New Orleans,Large,online,2024,12,26,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Chanukah/Hanukkah (first day),92,Winter,Sunny
+48,6/29/2024,1,Female,42,Beauty,4,500,2000,S010,New Orleans,Large,online,2024,6,29,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of the Tropics,89,Summer,Heatwave
+49,6/19/2024,1,Female,50,Clothing,4,25,100,S010,New Orleans,Large,online,2024,6,19,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for the Elimination of Sexual Violence in Conflict,82,Summer,Drizzle
+50,1/15/2024,1,Male,46,Beauty,2,30,1160,S010,New Orleans,Large,online,2024,1,15,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Martin Luther King Jr. Day,82,Winter,Overcast
+51,2/25/2024,1,Male,34,Beauty,3,500,1500,S010,New Orleans,Large,online,2024,2,25,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,African-American Scientist and Inventor Day,82,Winter,Snow
+52,6/10/2024,1,Male,45,Clothing,2,500,1000,S010,New Orleans,Large,online,2024,6,10,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,63,Summer,Drizzle
+53,9/17/2024,1,Male,18,Clothing,3,50,150,S010,New Orleans,Large,online,2024,9,17,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Patient Safety Day,92,Autumn,Rainy
+54,4/20/2024,1,Male,31,Clothing,4,500,2000,S010,New Orleans,Large,online,2024,4,20,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,Chinese Language Day,70,Spring,Hazy
+55,2/13/2024,1,Male,21,Beauty,4,500,2000,S010,New Orleans,Large,online,2024,2,13,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Radio Day,87,Winter,Overcast
+56,2/7/2024,1,Female,64,Electronics,1,300,300,S010,New Orleans,Large,online,2024,2,7,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,National Girls and Women in Sports Day,66,Winter,Overcast
+57,8/19/2024,1,Male,46,Electronics,1,500,500,S010,New Orleans,Large,online,2024,8,19,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Raksha Bandhan,91,Summer,Hazy
+58,5/22/2024,1,Female,54,Clothing,4,25,100,S010,New Orleans,Large,online,2024,5,22,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for Biological Diversity,89,Spring,Sunny
+59,1/1/2024,1,Male,55,Electronics,1,30,30,S010,New Orleans,Large,online,2024,1,1,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,New Year's Day,79,Winter,Snow
+60,2/2/2024,1,Male,51,Electronics,3,50,150,S010,New Orleans,Large,online,2024,2,2,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Wetlands Day,85,Winter,Foggy
+61,7/19/2024,1,Male,63,Electronics,3,500,1500,S010,New Orleans,Large,online,2024,7,19,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,53,Summer,Hazy
+62,4/23/2024,1,Male,41,Beauty,3,500,1500,S010,New Orleans,Large,online,2024,4,23,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Passover (first day),72,Spring,Light Rain
+63,5/20/2024,1,Female,39,Electronics,2,25,50,S010,New Orleans,Large,online,2024,5,20,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Whit Monday,55,Spring,Showers
+64,2/12/2024,1,Female,18,Clothing,1,500,5500,S010,New Orleans,Large,online,2024,2,12,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Lincoln's Birthday,68,Winter,Foggy
+65,6/22/2024,1,Male,55,Beauty,3,300,900,S010,New Orleans,Large,online,2024,6,22,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,89,Summer,Clear Skies
+66,4/25/2024,1,Male,41,Clothing,2,50,100,S010,New Orleans,Large,online,2024,4,25,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Girls in ICT Day,60,Spring,Hazy
+67,2/5/2024,1,Female,25,Beauty,4,50,200,S010,New Orleans,Large,online,2024,2,5,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,73,Winter,Snow
+68,11/7/2024,1,Female,24,Electronics,2,25,50,S010,New Orleans,Large,online,2024,11,7,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Return Day,70,Autumn,Cloudy
+69,8/8/2024,1,Male,62,Clothing,1,25,25,S010,New Orleans,Large,online,2024,8,8,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,89,Summer,Sunny
+70,6/22/2024,1,Female,64,Clothing,3,50,150,S010,New Orleans,Large,online,2024,6,22,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,FALSE,,59,Summer,Hazy
+71,9/11/2024,1,Male,47,Beauty,4,500,2000,S010,New Orleans,Large,online,2024,9,11,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,First Responders Day,71,Autumn,Windy
+72,4/19/2024,1,Female,22,Clothing,1,50,50,S010,New Orleans,Large,online,2024,4,19,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Arbor Day,79,Spring,Hazy
+73,5/24/2024,1,Male,62,Clothing,2,25,50,S010,New Orleans,Large,online,2024,5,24,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,85,Spring,Cloudy
+74,10/12/2024,1,Female,41,Clothing,1,300,300,S010,New Orleans,Large,online,2024,10,12,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,Dussehra,82,Autumn,Windy
+75,5/5/2024,1,Male,24,Electronics,1,50,50,S010,New Orleans,Large,online,2024,5,5,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,Orthodox Easter,71,Spring,Hazy
+76,12/6/2024,1,Female,25,Electronics,1,300,300,S010,New Orleans,Large,online,2024,12,6,Friday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,St Nicholas Day,50,Winter,Snow
+77,10/9/2024,1,Male,43,Clothing,4,30,120,S010,New Orleans,Large,online,2024,10,9,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,World Post Day,82,Autumn,Windy
+78,6/19/2024,1,Female,58,Clothing,1,25,25,S010,New Orleans,Large,online,2024,6,19,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for the Elimination of Sexual Violence in Conflict,93,Summer,Sunny
+79,5/22/2024,1,Female,55,Clothing,4,30,120,S010,New Orleans,Large,online,2024,5,22,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day for Biological Diversity,86,Spring,Hazy
+80,10/1/2024,1,Male,26,Electronics,1,300,300,S010,New Orleans,Large,online,2024,10,1,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Older Persons,65,Autumn,Foggy
+81,3/6/2024,1,Female,20,Beauty,3,50,150,S010,New Orleans,Large,online,2024,3,6,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,64,Spring,Showers
+82,1/28/2024,1,Male,29,Electronics,3,30,90,S010,New Orleans,Large,online,2024,1,28,Sunday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,World Leprosy Day,94,Winter,Overcast
+83,5/30/2024,1,Female,26,Beauty,3,30,90,S010,New Orleans,Large,online,2024,5,30,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Corpus Christi,63,Spring,Light Rain
+84,3/6/2024,1,Female,57,Electronics,4,50,200,S010,New Orleans,Large,online,2024,3,6,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,57,Spring,Hazy
+85,8/29/2024,1,Male,55,Beauty,2,50,100,S010,New Orleans,Large,online,2024,8,29,Thursday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day against Nuclear Tests,69,Summer,Sunny
+86,3/2/2024,1,Male,50,Beauty,1,300,300,S010,New Orleans,Large,online,2024,3,2,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,Texas Independence Day,58,Spring,Showers
+87,11/13/2024,1,Female,57,Clothing,1,25,25,S010,New Orleans,Large,online,2024,11,13,Wednesday,FALSE,1,FALSE,29.9759983,-90.0782127,FALSE,,51,Autumn,Foggy
+88,10/19/2024,1,Male,44,Clothing,2,30,60,S010,New Orleans,Large,online,2024,10,19,Saturday,TRUE,1,FALSE,29.9759983,-90.0782127,TRUE,Sweetest Day,58,Autumn,Windy
+89,8/19/2024,1,Female,30,Electronics,2,30,60,S010,New Orleans,Large,online,2024,8,19,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Raksha Bandhan,85,Summer,Heatwave
+90,4/29/2024,1,Female,30,Clothing,3,300,900,S010,New Orleans,Large,online,2024,4,29,Monday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,Arbor Day,71,Spring,Sunny
+91,2/6/2024,1,Female,48,Electronics,3,50,150,S010,New Orleans,Large,online,2024,2,6,Tuesday,FALSE,1,FALSE,29.9759983,-90.0782127,TRUE,International Day of Zero Tolerance for Female Genital Mutilation,51,Winter,Sunny
+92,2/27/2024,1,Female,26,Clothing,2,500,1000,S006,Miami,Large,online,2024,2,27,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,73,Winter,Snow
+93,10/30/2024,1,Male,35,Beauty,3,25,75,S006,Miami,Large,online,2024,10,30,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,94,Autumn,Cloudy
+94,4/23/2024,1,Female,43,Beauty,1,500,500,S006,Miami,Large,online,2024,4,23,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Passover (first day),80,Spring,Cloudy
+95,5/23/2024,1,Female,18,Beauty,3,25,75,S006,Miami,Large,online,2024,5,23,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day to End Obstetric Fistula,81,Spring,Sunny
+96,3/5/2024,1,Female,36,Beauty,1,300,300,S006,Miami,Large,online,2024,3,5,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Town Meeting Day,72,Spring,Sunny
+97,10/10/2024,1,Male,31,Beauty,4,30,120,S006,Miami,Large,online,2024,10,10,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Mental Health Day,91,Autumn,Foggy
+98,7/6/2024,1,Male,61,Beauty,4,50,200,S006,Miami,Large,online,2024,7,6,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Cooperatives,93,Summer,Heatwave
+99,12/10/2024,1,Female,64,Clothing,2,30,60,S006,Miami,Large,online,2024,12,10,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Human Rights Day,92,Winter,Snow
+100,6/16/2024,1,Male,41,Electronics,1,30,30,S006,Miami,Large,online,2024,6,16,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Family Remittances,68,Summer,Clear Skies
+101,7/25/2024,1,Female,22,Electronics,1,500,500,S006,Miami,Large,online,2024,7,25,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Drowning Prevention Day,80,Summer,Drizzle
+102,2/3/2024,1,Female,21,Clothing,4,300,1200,S006,Miami,Large,online,2024,2,3,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,FALSE,,69,Winter,Snow
+103,12/15/2024,1,Male,36,Beauty,4,500,2000,S006,Miami,Large,online,2024,12,15,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Bill of Rights Day,87,Winter,Snow
+104,8/5/2024,1,Male,38,Electronics,1,30,30,S006,Miami,Large,online,2024,8,5,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,81,Summer,Drizzle
+105,5/9/2024,1,Male,18,Clothing,2,30,60,S006,Miami,Large,online,2024,5,9,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Ascension Day,66,Spring,Hazy
+106,5/17/2024,1,Male,31,Electronics,4,500,2000,S006,Miami,Large,online,2024,5,17,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Telecommunication and Information Society Day,87,Spring,Hazy
+107,9/8/2024,1,Female,43,Beauty,3,300,900,S006,Miami,Large,online,2024,9,8,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Literacy Day,68,Autumn,Rainy
+108,5/4/2024,1,Female,60,Beauty,3,30,90,S006,Miami,Large,online,2024,5,4,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Orthodox Holy Saturday,72,Spring,Hazy
+109,10/18/2024,1,Male,64,Beauty,1,25,25,S006,Miami,Large,online,2024,10,18,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Alaska Day,70,Autumn,Rainy
+110,5/7/2024,1,Male,39,Beauty,2,300,600,S006,Miami,Large,online,2024,5,7,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,National Teacher Appreciation Day,88,Spring,Cloudy
+111,10/29/2024,1,Female,61,Clothing,1,50,50,S006,Miami,Large,online,2024,10,29,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Stroke Day,81,Autumn,Windy
+112,11/20/2024,1,Female,62,Electronics,2,25,50,S006,Miami,Large,online,2024,11,20,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Universal Children's Day,72,Autumn,Cloudy
+113,2/4/2024,1,Female,50,Beauty,2,500,1000,S006,Miami,Large,online,2024,2,4,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Human Fraternity,63,Winter,Snow
+114,5/2/2024,1,Male,21,Clothing,1,25,25,S006,Miami,Large,online,2024,5,2,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Tuna Day,91,Spring,Hazy
+115,10/23/2024,1,Male,48,Electronics,1,50,50,S006,Miami,Large,online,2024,10,23,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Last Day of Sukkot,69,Autumn,Overcast
+116,7/30/2024,1,Female,32,Beauty,4,30,120,S006,Miami,Large,online,2024,7,30,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Friendship,81,Summer,Heatwave
+117,4/4/2024,1,Female,37,Clothing,3,500,1500,S006,Miami,Large,online,2024,4,4,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,United Nations' Mine Awareness Day,70,Spring,Hazy
+118,2/8/2024,1,Male,43,Clothing,4,50,200,S006,Miami,Large,online,2024,2,8,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Isra and Mi'raj,73,Winter,Snow
+119,1/26/2024,1,Male,28,Clothing,4,30,120,S006,Miami,Large,online,2024,1,26,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Customs Day,70,Winter,Sunny
+120,10/12/2024,1,Female,28,Beauty,1,25,25,S006,Miami,Large,online,2024,10,12,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Dussehra,74,Autumn,Rainy
+121,9/7/2024,1,Male,41,Clothing,4,30,120,S006,Miami,Large,online,2024,9,7,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Clean Air for Blue Skies,69,Autumn,Foggy
+122,10/24/2024,1,Male,61,Clothing,1,25,25,S006,Miami,Large,online,2024,10,24,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Shmini Atzeret,83,Autumn,Rainy
+123,1/26/2024,1,Female,29,Beauty,3,300,900,S006,Miami,Large,online,2024,1,26,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Customs Day,86,Winter,Foggy
+124,3/22/2024,1,Male,39,Beauty,2,50,100,S006,Miami,Large,online,2024,3,22,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Water Day,93,Spring,Sunny
+125,5/1/2024,1,Male,38,Clothing,1,500,500,S006,Miami,Large,online,2024,5,1,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Law Day,90,Spring,Sunny
+126,5/3/2024,1,Female,40,Electronics,3,25,75,S006,Miami,Large,online,2024,5,3,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Orthodox Good Friday,75,Spring,Hazy
+127,7/22/2024,1,Male,50,Clothing,1,50,50,S006,Miami,Large,online,2024,7,22,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,68,Summer,Heatwave
+128,10/3/2024,1,Female,25,Beauty,2,300,600,S006,Miami,Large,online,2024,10,3,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Navratri,88,Autumn,Cloudy
+129,9/28/2024,1,Male,39,Electronics,2,50,100,S006,Miami,Large,online,2024,9,28,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day for Universal Access to Information,85,Autumn,Rainy
+130,2/23/2024,1,Female,55,Beauty,1,30,30,S006,Miami,Large,online,2024,2,23,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,60,Winter,Foggy
+131,3/1/2024,1,Female,64,Beauty,2,30,60,S006,Miami,Large,online,2024,3,1,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Zero Discrimination Day,70,Spring,Hazy
+132,5/25/2024,1,Male,46,Electronics,2,500,1000,S006,Miami,Large,online,2024,5,25,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,African Liberation Day,72,Spring,Cloudy
+133,5/9/2024,1,Male,48,Beauty,4,25,100,S006,Miami,Large,online,2024,5,9,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Ascension Day,65,Spring,Cloudy
+134,3/8/2024,1,Female,27,Clothing,1,25,25,S006,Miami,Large,online,2024,3,8,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Maha Shivaratri,70,Spring,Light Rain
+135,10/15/2024,1,Male,63,Electronics,4,300,1200,S006,Miami,Large,online,2024,10,15,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Rural Women,65,Autumn,Rainy
+136,4/18/2024,1,Female,59,Beauty,2,25,50,S006,Miami,Large,online,2024,4,18,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day for Monuments and Sites,88,Spring,Sunny
+137,7/1/2024,1,Male,31,Electronics,4,25,100,S006,Miami,Large,online,2024,7,1,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,84,Summer,Drizzle
+138,3/23/2024,1,Male,32,Clothing,3,50,150,S006,Miami,Large,online,2024,3,23,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,World Meteorological Day,80,Spring,Hazy
+139,2/25/2024,1,Male,64,Beauty,1,50,50,S006,Miami,Large,online,2024,2,25,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,African-American Scientist and Inventor Day,73,Winter,Snow
+140,5/23/2024,1,Female,60,Electronics,3,300,900,S006,Miami,Large,online,2024,5,23,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day to End Obstetric Fistula,61,Spring,Showers
+141,6/29/2024,1,Male,61,Beauty,4,25,100,S006,Miami,Large,online,2024,6,29,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of the Tropics,81,Summer,Hazy
+142,7/24/2024,1,Male,24,Beauty,2,30,60,S006,Miami,Large,online,2024,7,24,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Pioneer Day,83,Summer,Sunny
+143,3/1/2024,1,Female,60,Beauty,4,25,100,S006,Miami,Large,online,2024,3,1,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Zero Discrimination Day,86,Spring,Sunny
+144,6/26/2024,1,Female,37,Electronics,3,300,900,S006,Miami,Large,online,2024,6,26,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day Against Drug Abuse and Illicit Trafficking,94,Summer,Drizzle
+145,7/26/2024,1,Male,49,Beauty,2,300,600,S006,Miami,Large,online,2024,7,26,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,62,Summer,Heatwave
+146,12/23/2024,1,Female,27,Electronics,1,25,25,S006,Miami,Large,online,2024,12,23,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,82,Winter,Snow
+147,12/2/2024,1,Female,64,Clothing,1,30,30,S006,Miami,Large,online,2024,12,2,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day for the Abolition of Slavery,61,Winter,Overcast
+148,8/1/2024,1,Male,37,Beauty,4,30,1120,S006,Miami,Large,online,2024,8,1,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Colorado Day,94,Summer,Drizzle
+149,12/23/2024,1,Female,20,Electronics,1,300,300,S006,Miami,Large,online,2024,12,23,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,83,Winter,Snow
+150,12/23/2024,1,Female,61,Clothing,4,25,100,S006,Miami,Large,online,2024,12,23,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,64,Winter,Overcast
+151,9/23/2024,1,Male,41,Clothing,2,50,100,S006,Miami,Large,online,2024,9,23,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Sign Languages,80,Autumn,Cloudy
+152,8/22/2024,1,Female,49,Beauty,3,25,75,S006,Miami,Large,online,2024,8,22,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief,74,Summer,Hazy
+153,6/12/2024,1,Male,62,Electronics,2,25,50,S006,Miami,Large,online,2024,6,12,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Shavuot,81,Summer,Sunny
+154,3/23/2024,1,Female,21,Beauty,3,500,1500,S006,Miami,Large,online,2024,3,23,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,World Meteorological Day,89,Spring,Light Rain
+155,6/21/2024,1,Male,42,Clothing,3,25,75,S006,Miami,Large,online,2024,6,21,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Yoga,68,Summer,Drizzle
+156,6/13/2024,1,Female,55,Clothing,1,500,500,S006,Miami,Large,online,2024,6,13,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Albinism Awareness Day,93,Summer,Drizzle
+157,8/27/2024,1,Male,62,Electronics,3,50,150,S006,Miami,Large,online,2024,8,27,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Lyndon Baines Johnson Day,66,Summer,Hazy
+158,2/1/2024,1,Female,43,Clothing,3,500,1500,S006,Miami,Large,online,2024,2,1,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,National Freedom Day,81,Winter,Sunny
+159,12/23/2024,1,Female,60,Electronics,3,300,900,S006,Miami,Large,online,2024,12,23,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,83,Winter,Sunny
+160,4/23/2024,1,Female,51,Clothing,3,30,2290,S006,Miami,Large,online,2024,4,23,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Passover (first day),78,Spring,Hazy
+161,9/6/2024,1,Female,50,Clothing,4,50,200,S006,Miami,Large,online,2024,9,6,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Ganesh Chaturthi,87,Autumn,Overcast
+162,7/19/2024,1,Female,64,Electronics,1,300,300,S006,Miami,Large,online,2024,7,19,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,84,Summer,Drizzle
+163,6/22/2024,1,Female,37,Clothing,4,30,120,S006,Miami,Large,online,2024,6,22,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,FALSE,,67,Summer,Clear Skies
+164,12/14/2024,1,Female,52,Beauty,2,30,60,S006,Miami,Large,online,2024,12,14,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,FALSE,,85,Winter,Overcast
+165,3/11/2024,1,Male,57,Clothing,1,500,500,S006,Miami,Large,online,2024,3,11,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,76,Spring,Hazy
+166,3/27/2024,1,Male,27,Beauty,1,500,500,S006,Miami,Large,online,2024,3,27,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,81,Spring,Hazy
+167,4/12/2024,1,Female,40,Clothing,2,25,50,S006,Miami,Large,online,2024,4,12,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Human Space Flight,91,Spring,Cloudy
+168,2/22/2024,1,Male,52,Electronics,2,25,50,S006,Miami,Large,online,2024,2,22,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,82,Winter,Sunny
+169,11/4/2024,1,Female,34,Electronics,1,500,500,S006,Miami,Large,online,2024,11,4,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,85,Autumn,Rainy
+170,7/9/2024,1,Female,20,Beauty,1,50,50,S006,Miami,Large,online,2024,7,9,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,75,Summer,Heatwave
+171,11/12/2024,1,Male,19,Electronics,3,25,75,S006,Miami,Large,online,2024,11,12,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Pneumonia Day,77,Autumn,Windy
+172,10/3/2024,1,Male,52,Electronics,3,50,150,S006,Miami,Large,online,2024,10,3,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Navratri,74,Autumn,Foggy
+173,6/16/2024,1,Male,42,Beauty,4,50,200,S006,Miami,Large,online,2024,6,16,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Family Remittances,69,Summer,Hazy
+174,9/22/2024,1,Male,42,Beauty,1,50,50,S006,Miami,Large,online,2024,9,22,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Emancipation Day,73,Autumn,Rainy
+175,5/4/2024,1,Male,32,Clothing,2,25,50,S006,Miami,Large,online,2024,5,4,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Orthodox Holy Saturday,76,Spring,Showers
+176,9/9/2024,1,Male,23,Electronics,2,50,100,S006,Miami,Large,online,2024,9,9,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day to Protect Education from Attack,85,Autumn,Rainy
+177,2/17/2024,1,Female,41,Clothing,3,30,90,S006,Miami,Large,online,2024,2,17,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,FALSE,,70,Winter,Foggy
+178,5/31/2024,1,Male,28,Electronics,4,300,1200,S006,Miami,Large,online,2024,5,31,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World No Tobacco Day,93,Spring,Hazy
+179,12/21/2024,1,Female,42,Clothing,1,300,300,S006,Miami,Large,online,2024,12,21,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,FALSE,,67,Winter,Foggy
+180,10/25/2024,1,Male,37,Beauty,3,500,1500,S006,Miami,Large,online,2024,10,25,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Simchat Torah,60,Autumn,Rainy
+181,12/26/2024,1,Male,23,Clothing,1,30,1130,S006,Miami,Large,online,2024,12,26,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Chanukah/Hanukkah (first day),62,Winter,Snow
+182,4/29/2024,1,Female,26,Clothing,2,30,60,S006,Miami,Large,online,2024,4,29,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Arbor Day,63,Spring,Light Rain
+183,3/3/2024,1,Female,52,Clothing,4,30,120,S006,Miami,Large,online,2024,3,3,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,World Wildlife Day,90,Spring,Light Rain
+184,12/20/2024,1,Male,34,Electronics,2,25,50,S006,Miami,Large,online,2024,12,20,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Human Solidarity Day,86,Winter,Snow
+185,9/5/2024,1,Male,52,Electronics,1,30,30,S006,Miami,Large,online,2024,9,5,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Charity,80,Autumn,Rainy
+186,4/10/2024,1,Male,31,Electronics,1,30,30,S006,Miami,Large,online,2024,4,10,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Eid al-Fitr,62,Spring,Cloudy
+187,11/19/2024,1,Male,49,Clothing,4,50,200,S006,Miami,Large,online,2024,11,19,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Toilet Day,94,Autumn,Rainy
+188,1/28/2024,1,Female,20,Electronics,1,30,30,S006,Miami,Large,online,2024,1,28,Sunday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,World Leprosy Day,81,Winter,Sunny
+189,11/14/2024,1,Female,55,Beauty,1,50,50,S006,Miami,Large,online,2024,11,14,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Diabetes Day,94,Autumn,Windy
+190,2/20/2024,1,Male,60,Electronics,2,500,1000,S006,Miami,Large,online,2024,2,20,Tuesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,World Day of Social Justice,84,Winter,Overcast
+191,5/3/2024,1,Male,47,Beauty,1,30,30,S006,Miami,Large,online,2024,5,3,Friday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Orthodox Good Friday,84,Spring,Hazy
+192,3/30/2024,1,Female,56,Clothing,4,50,200,S006,Miami,Large,online,2024,3,30,Saturday,TRUE,1,FALSE,25.7820042,-80.22256439,TRUE,Holy Saturday,61,Spring,Showers
+193,7/29/2024,1,Female,31,Electronics,3,25,75,S006,Miami,Large,online,2024,7,29,Monday,FALSE,1,FALSE,25.7820042,-80.22256439,FALSE,,60,Summer,Drizzle
+194,5/30/2024,1,Female,19,Electronics,2,25,50,S006,Miami,Large,online,2024,5,30,Thursday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,Corpus Christi,90,Spring,Sunny
+195,8/21/2024,1,Female,57,Electronics,2,30,60,S006,Miami,Large,online,2024,8,21,Wednesday,FALSE,1,FALSE,25.7820042,-80.22256439,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,76,Summer,Heatwave
+196,1/13/2024,1,Male,50,Electronics,1,30,30,S009,Oregon,Small,outlet,2024,1,13,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Stephen Foster Memorial Day,47,Winter,Sunny
+197,1/17/2024,1,Male,64,Clothing,4,30,120,S009,Oregon,Small,outlet,2024,1,17,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,61,Winter,Snow
+198,4/30/2024,1,Female,47,Electronics,2,25,50,S009,Oregon,Small,outlet,2024,4,30,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Last Day of Passover,55,Spring,Light Rain
+199,11/29/2024,1,Female,49,Clothing,1,300,300,S009,Oregon,Small,outlet,2024,11,29,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Solidarity with the Palestinian People,55,Autumn,Rainy
+200,3/23/2024,1,Female,50,Electronics,2,50,100,S009,Oregon,Small,outlet,2024,3,23,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Meteorological Day,61,Spring,Light Rain
+201,6/22/2024,1,Male,45,Beauty,1,50,50,S009,Oregon,Small,outlet,2024,6,22,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,67,Summer,Clear Skies
+202,2/10/2024,1,Male,25,Electronics,1,300,300,S009,Oregon,Small,outlet,2024,2,10,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Pulses Day,57,Winter,Overcast
+203,3/29/2024,1,Male,56,Clothing,1,500,500,S009,Oregon,Small,outlet,2024,3,29,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Good Friday,46,Spring,Hazy
+204,12/19/2024,1,Female,44,Clothing,2,300,600,S009,Oregon,Small,outlet,2024,12,19,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,49,Winter,Snow
+205,4/19/2024,1,Female,27,Beauty,3,25,75,S009,Oregon,Small,outlet,2024,4,19,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Arbor Day,66,Spring,Showers
+206,10/18/2024,1,Female,34,Electronics,4,500,2000,S009,Oregon,Small,outlet,2024,10,18,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Alaska Day,60,Autumn,Foggy
+207,7/24/2024,1,Female,33,Clothing,2,25,50,S009,Oregon,Small,outlet,2024,7,24,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Pioneer Day,54,Summer,Clear Skies
+208,9/18/2024,1,Female,21,Beauty,2,300,600,S009,Oregon,Small,outlet,2024,9,18,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Equal Pay Day,69,Autumn,Windy
+209,11/18/2024,1,Male,46,Beauty,2,500,1000,S009,Oregon,Small,outlet,2024,11,18,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,60,Autumn,Foggy
+210,3/23/2024,1,Male,49,Clothing,4,50,200,S009,Oregon,Small,outlet,2024,3,23,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Meteorological Day,66,Spring,Showers
+211,12/16/2024,1,Male,63,Electronics,2,500,1000,S009,Oregon,Small,outlet,2024,12,16,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,60,Winter,Sunny
+212,11/25/2024,1,Female,43,Clothing,4,25,100,S009,Oregon,Small,outlet,2024,11,25,Monday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day for the Elimination of Violence against Women,68,Autumn,Rainy
+213,2/24/2024,1,Male,53,Clothing,1,300,300,S009,Oregon,Small,outlet,2024,2,24,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,52,Winter,Snow
+214,11/24/2024,1,Female,52,Clothing,3,300,900,S009,Oregon,Small,outlet,2024,11,24,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,57,Autumn,Foggy
+215,3/24/2024,1,Male,45,Beauty,2,50,100,S009,Oregon,Small,outlet,2024,3,24,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Palm Sunday,48,Spring,Sunny
+216,5/3/2024,1,Male,40,Clothing,3,25,75,S009,Oregon,Small,outlet,2024,5,3,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Orthodox Good Friday,53,Spring,Showers
+217,3/7/2024,1,Female,54,Beauty,3,300,900,S009,Oregon,Small,outlet,2024,3,7,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,55,Spring,Sunny
+218,10/9/2024,1,Male,56,Electronics,1,25,25,S009,Oregon,Small,outlet,2024,10,9,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Post Day,45,Autumn,Foggy
+219,8/5/2024,1,Male,61,Clothing,1,25,25,S009,Oregon,Small,outlet,2024,8,5,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,65,Summer,Drizzle
+220,1/1/2024,1,Male,42,Beauty,3,500,1500,S009,Oregon,Small,outlet,2024,1,1,Monday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,New Year's Day,48,Winter,Foggy
+221,2/18/2024,1,Male,23,Clothing,2,500,1000,S009,Oregon,Small,outlet,2024,2,18,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,66,Winter,Overcast
+222,4/9/2024,1,Female,23,Clothing,2,500,1000,S009,Oregon,Small,outlet,2024,4,9,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,National Library Workers' Day,69,Spring,Sunny
+223,4/8/2024,1,Male,43,Clothing,2,500,1000,S009,Oregon,Small,outlet,2024,4,8,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,58,Spring,Cloudy
+224,8/5/2024,1,Male,50,Clothing,1,500,500,S009,Oregon,Small,outlet,2024,8,5,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,57,Summer,Clear Skies
+225,3/27/2024,1,Female,23,Clothing,3,30,90,S009,Oregon,Small,outlet,2024,3,27,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,63,Spring,Cloudy
+226,7/14/2024,1,Male,57,Beauty,2,300,600,S009,Oregon,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Bastille Day,50,Summer,Clear Skies
+227,2/1/2024,1,Female,28,Electronics,4,300,1200,S009,Oregon,Small,outlet,2024,2,1,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,National Freedom Day,44,Winter,Foggy
+228,6/11/2024,1,Male,57,Electronics,2,500,1000,S009,Oregon,Small,outlet,2024,6,11,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Kamehameha Day,52,Summer,Clear Skies
+229,12/9/2024,1,Female,55,Electronics,1,500,500,S009,Oregon,Small,outlet,2024,12,9,Monday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Feast of the Immaculate Conception,56,Winter,Snow
+230,2/7/2024,1,Male,57,Clothing,2,50,100,S009,Oregon,Small,outlet,2024,2,7,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,National Girls and Women in Sports Day,69,Winter,Foggy
+231,5/16/2024,1,Female,64,Beauty,1,30,30,S009,Oregon,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Living Together in Peace,54,Spring,Sunny
+232,3/9/2024,1,Female,46,Clothing,4,50,200,S009,Oregon,Small,outlet,2024,3,9,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,60,Spring,Showers
+233,6/4/2024,1,Male,44,Beauty,1,30,30,S009,Oregon,Small,outlet,2024,6,4,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Innocent Children Victims of Aggression,54,Summer,Drizzle
+234,12/6/2024,1,Male,50,Electronics,2,500,1000,S009,Oregon,Small,outlet,2024,12,6,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,St Nicholas Day,69,Winter,Foggy
+235,5/20/2024,1,Male,32,Clothing,2,300,600,S009,Oregon,Small,outlet,2024,5,20,Monday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Whit Monday,69,Spring,Hazy
+236,11/6/2024,1,Female,25,Clothing,4,300,1200,S009,Oregon,Small,outlet,2024,11,6,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day for Preventing the Exploitation of the Environment in War and Armed Conflict,44,Autumn,Rainy
+237,4/18/2024,1,Female,22,Beauty,4,25,100,S009,Oregon,Small,outlet,2024,4,18,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day for Monuments and Sites,41,Spring,Light Rain
+238,11/21/2024,1,Female,29,Clothing,2,50,100,S009,Oregon,Small,outlet,2024,11,21,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Television Day,62,Autumn,Windy
+239,5/16/2024,1,Male,62,Electronics,4,50,200,S009,Oregon,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Living Together in Peace,43,Spring,Showers
+240,12/28/2024,1,Male,64,Electronics,2,25,50,S009,Oregon,Small,outlet,2024,12,28,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,43,Winter,Foggy
+241,8/7/2024,1,Female,43,Electronics,3,300,900,S009,Oregon,Small,outlet,2024,8,7,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Purple Heart Day,55,Summer,Clear Skies
+242,1/5/2024,1,Female,60,Electronics,2,500,1000,S009,Oregon,Small,outlet,2024,1,5,Friday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,64,Winter,Snow
+243,10/10/2024,1,Male,57,Beauty,4,300,1200,S009,Oregon,Small,outlet,2024,10,10,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Mental Health Day,66,Autumn,Foggy
+244,1/22/2024,1,Female,53,Electronics,1,300,300,S009,Oregon,Small,outlet,2024,1,22,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,50,Winter,Overcast
+245,12/16/2024,1,Female,45,Electronics,1,30,30,S009,Oregon,Small,outlet,2024,12,16,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,43,Winter,Foggy
+246,2/22/2024,1,Female,46,Beauty,1,25,25,S009,Oregon,Small,outlet,2024,2,22,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,45,Winter,Snow
+247,7/28/2024,1,Female,58,Beauty,3,300,900,S009,Oregon,Small,outlet,2024,7,28,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Hepatitis Day,48,Summer,Drizzle
+248,4/25/2024,1,Male,55,Clothing,1,30,30,S009,Oregon,Small,outlet,2024,4,25,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Girls in ICT Day,45,Spring,Sunny
+249,12/4/2024,1,Male,24,Electronics,1,30,30,S009,Oregon,Small,outlet,2024,12,4,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Banks,64,Winter,Foggy
+250,4/9/2024,1,Female,35,Electronics,1,25,25,S009,Oregon,Small,outlet,2024,4,9,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,National Library Workers' Day,50,Spring,Sunny
+251,7/24/2024,1,Male,44,Clothing,4,500,2000,S009,Oregon,Small,outlet,2024,7,24,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Pioneer Day,64,Summer,Drizzle
+252,4/8/2024,1,Female,47,Clothing,4,25,100,S009,Oregon,Small,outlet,2024,4,8,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,43,Spring,Cloudy
+253,9/24/2024,1,Female,62,Electronics,1,300,300,S009,Oregon,Small,outlet,2024,9,24,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,41,Autumn,Windy
+254,11/16/2024,1,Male,19,Electronics,3,500,1500,S009,Oregon,Small,outlet,2024,11,16,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day for Tolerance,52,Autumn,Foggy
+255,4/9/2024,1,Female,51,Clothing,2,30,60,S009,Oregon,Small,outlet,2024,4,9,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,National Library Workers' Day,51,Spring,Sunny
+256,8/4/2024,1,Female,50,Beauty,2,50,100,S009,Oregon,Small,outlet,2024,8,4,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Coast Guard Birthday,47,Summer,Drizzle
+257,12/13/2024,1,Female,49,Electronics,3,25,75,S009,Oregon,Small,outlet,2024,12,13,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Friday the 13th,50,Winter,Sunny
+258,10/24/2024,1,Male,50,Electronics,2,50,100,S009,Oregon,Small,outlet,2024,10,24,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Shmini Atzeret,54,Autumn,Windy
+259,8/27/2024,1,Female,51,Electronics,1,300,300,S009,Oregon,Small,outlet,2024,8,27,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Lyndon Baines Johnson Day,40,Summer,Heatwave
+260,8/15/2024,1,Male,49,Clothing,1,500,500,S009,Oregon,Small,outlet,2024,8,15,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Assumption of Mary,66,Summer,Heatwave
+261,3/17/2024,1,Male,54,Clothing,3,25,75,S009,Oregon,Small,outlet,2024,3,17,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,St. Patrick's Day,68,Spring,Showers
+262,12/19/2024,1,Female,47,Clothing,2,50,100,S009,Oregon,Small,outlet,2024,12,19,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,64,Winter,Overcast
+263,8/6/2024,1,Female,61,Electronics,1,500,500,S009,Oregon,Small,outlet,2024,8,6,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,51,Summer,Sunny
+264,4/23/2024,1,Female,52,Clothing,3,30,90,S009,Oregon,Small,outlet,2024,4,23,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Passover (first day),62,Spring,Hazy
+265,3/10/2024,1,Male,34,Clothing,3,50,150,S009,Oregon,Small,outlet,2024,3,10,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Women Judges,42,Spring,Showers
+266,8/26/2024,1,Female,34,Beauty,3,300,900,S009,Oregon,Small,outlet,2024,8,26,Monday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Janmashtami,51,Summer,Drizzle
+267,10/8/2024,1,Male,60,Electronics,4,500,2000,S009,Oregon,Small,outlet,2024,10,8,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,41,Autumn,Cloudy
+268,8/17/2024,1,Female,63,Electronics,3,300,900,S009,Oregon,Small,outlet,2024,8,17,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,52,Summer,Drizzle
+269,11/17/2024,1,Female,35,Electronics,4,30,120,S009,Oregon,Small,outlet,2024,11,17,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Day of Remembrance for Road Traffic Victims,43,Autumn,Windy
+270,2/11/2024,1,Male,40,Clothing,1,25,25,S009,Oregon,Small,outlet,2024,2,11,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Women and Girls in Science,47,Winter,Overcast
+271,4/16/2024,1,Female,38,Clothing,1,300,300,S009,Oregon,Small,outlet,2024,4,16,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Emancipation Day,44,Spring,Showers
+272,10/27/2024,1,Female,19,Beauty,3,500,1500,S009,Oregon,Small,outlet,2024,10,27,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Day for Audiovisual Heritage,47,Autumn,Foggy
+273,6/2/2024,1,Male,57,Electronics,2,25,50,S009,Oregon,Small,outlet,2024,6,2,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Native American Day,47,Summer,Hazy
+274,8/28/2024,1,Female,62,Clothing,3,30,90,S009,Oregon,Small,outlet,2024,8,28,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,68,Summer,Hazy
+275,10/16/2024,1,Male,26,Electronics,3,500,1500,S009,Oregon,Small,outlet,2024,10,16,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Food Day,41,Autumn,Cloudy
+276,12/6/2024,1,Female,57,Beauty,2,25,50,S009,Oregon,Small,outlet,2024,12,6,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,St Nicholas Day,66,Winter,Overcast
+277,8/25/2024,1,Female,59,Beauty,3,25,75,S009,Oregon,Small,outlet,2024,8,25,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,40,Summer,Clear Skies
+278,7/14/2024,1,Male,20,Beauty,3,300,900,S009,Oregon,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Bastille Day,43,Summer,Heatwave
+279,7/14/2024,1,Male,51,Electronics,3,50,150,S009,Oregon,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Bastille Day,51,Summer,Clear Skies
+280,2/11/2024,1,Male,61,Electronics,2,500,1000,S009,Oregon,Small,outlet,2024,2,11,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Women and Girls in Science,47,Winter,Snow
+281,6/29/2024,1,Female,33,Clothing,1,50,50,S009,Oregon,Small,outlet,2024,6,29,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of the Tropics,50,Summer,Hazy
+282,1/11/2024,1,Female,33,Clothing,3,30,90,S009,Oregon,Small,outlet,2024,1,11,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,57,Winter,Sunny
+283,10/16/2024,1,Female,43,Electronics,4,25,100,S009,Oregon,Small,outlet,2024,10,16,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Food Day,40,Autumn,Rainy
+284,8/27/2024,1,Female,62,Electronics,4,300,1200,S009,Oregon,Small,outlet,2024,8,27,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Lyndon Baines Johnson Day,41,Summer,Sunny
+285,12/20/2024,1,Male,48,Electronics,3,50,150,S009,Oregon,Small,outlet,2024,12,20,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Human Solidarity Day,45,Winter,Overcast
+286,3/3/2024,1,Female,31,Beauty,4,50,200,S009,Oregon,Small,outlet,2024,3,3,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,World Wildlife Day,65,Spring,Cloudy
+287,10/31/2024,1,Male,30,Beauty,4,50,200,S009,Oregon,Small,outlet,2024,10,31,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Diwali/Deepavali,64,Autumn,Windy
+288,2/14/2024,1,Male,49,Electronics,1,300,300,S009,Oregon,Small,outlet,2024,2,14,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,Ash Wednesday,51,Winter,Overcast
+289,11/9/2024,1,Male,61,Beauty,3,300,900,S009,Oregon,Small,outlet,2024,11,9,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,54,Autumn,Overcast
+290,9/7/2024,1,Male,37,Clothing,4,50,200,S009,Oregon,Small,outlet,2024,9,7,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Clean Air for Blue Skies,63,Autumn,Cloudy
+291,4/8/2024,1,Female,18,Electronics,4,300,1200,S009,Oregon,Small,outlet,2024,4,8,Monday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,69,Spring,Light Rain
+292,12/31/2024,1,Male,60,Electronics,2,25,50,S009,Oregon,Small,outlet,2024,12,31,Tuesday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,New Year's Eve,68,Winter,Overcast
+293,8/18/2024,1,Female,56,Electronics,3,500,1500,S009,Oregon,Small,outlet,2024,8,18,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,National Navajo Code Talkers Day,43,Summer,Clear Skies
+294,7/27/2024,1,Female,51,Electronics,1,500,500,S009,Oregon,Small,outlet,2024,7,27,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Korean War Veteran Recognition Day,68,Summer,Clear Skies
+295,9/29/2024,1,Female,27,Electronics,4,25,100,S009,Oregon,Small,outlet,2024,9,29,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Awareness of Food Loss and Waste,59,Autumn,Cloudy
+296,4/27/2024,1,Female,51,Beauty,4,50,200,S009,Oregon,Small,outlet,2024,4,27,Saturday,TRUE,1,FALSE,43.9792797,-120.737257,FALSE,,64,Spring,Cloudy
+297,8/14/2024,1,Male,22,Electronics,1,30,30,S009,Oregon,Small,outlet,2024,8,14,Wednesday,FALSE,1,FALSE,43.9792797,-120.737257,FALSE,,43,Summer,Heatwave
+298,5/10/2024,1,Male,54,Clothing,4,50,200,S009,Oregon,Small,outlet,2024,5,10,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Argania,44,Spring,Showers
+299,7/25/2024,1,Male,30,Beauty,1,500,500,S009,Oregon,Small,outlet,2024,7,25,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,World Drowning Prevention Day,60,Summer,Heatwave
+300,7/14/2024,1,Male,58,Clothing,1,25,25,S009,Oregon,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,43.9792797,-120.737257,TRUE,Bastille Day,47,Summer,Drizzle
+301,5/16/2024,1,Male,59,Electronics,4,500,2000,S009,Oregon,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,International Day of Living Together in Peace,50,Spring,Showers
+302,11/1/2024,1,Female,29,Clothing,1,300,300,S009,Oregon,Small,outlet,2024,11,1,Friday,FALSE,1,FALSE,43.9792797,-120.737257,TRUE,All Saints' Day,57,Autumn,Rainy
+303,5/21/2024,1,Male,37,Clothing,1,500,500,S007,Colorado,Small,outlet,2024,5,21,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Day for Cultural Diversity for Dialogue and Development,28,Spring,Sunny
+304,10/7/2024,1,Female,52,Clothing,4,50,200,S007,Colorado,Small,outlet,2024,10,7,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Habitat Day,54,Autumn,Rainy
+305,10/7/2024,1,Female,28,Electronics,2,500,1000,S007,Colorado,Small,outlet,2024,10,7,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Habitat Day,37,Autumn,Cloudy
+306,12/24/2024,1,Female,51,Clothing,3,50,150,S007,Colorado,Small,outlet,2024,12,24,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Christmas Eve,36,Winter,Overcast
+307,3/21/2024,1,Male,38,Beauty,4,50,200,S007,Colorado,Small,outlet,2024,3,21,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for the Elimination of Racial Discrimination,34,Spring,Cloudy
+308,7/14/2024,1,Female,48,Clothing,1,300,300,S007,Colorado,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Bastille Day,34,Summer,Drizzle
+309,7/5/2024,1,Male,62,Clothing,1,50,50,S007,Colorado,Small,outlet,2024,7,5,Friday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,59,Summer,Drizzle
+310,5/17/2024,1,Male,40,Electronics,1,50,50,S007,Colorado,Small,outlet,2024,5,17,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Telecommunication and Information Society Day,46,Spring,Light Rain
+311,11/24/2024,1,Female,32,Clothing,2,30,60,S007,Colorado,Small,outlet,2024,11,24,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,62,Autumn,Windy
+312,4/23/2024,1,Female,55,Beauty,2,50,100,S007,Colorado,Small,outlet,2024,4,23,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Passover (first day),32,Spring,Cloudy
+313,11/26/2024,1,Male,51,Clothing,3,500,1500,S007,Colorado,Small,outlet,2024,11,26,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,35,Autumn,Overcast
+314,5/16/2024,1,Female,30,Electronics,4,500,2000,S007,Colorado,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Living Together in Peace,37,Spring,Showers
+315,10/15/2024,1,Female,28,Electronics,4,50,200,S007,Colorado,Small,outlet,2024,10,15,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Rural Women,26,Autumn,Cloudy
+316,11/2/2024,1,Female,39,Clothing,3,25,75,S007,Colorado,Small,outlet,2024,11,2,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,All Souls' Day,33,Autumn,Overcast
+317,4/2/2024,1,Male,34,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,4,2,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Autism Awareness Day,61,Spring,Light Rain
+318,7/11/2024,1,Female,43,Beauty,2,50,100,S007,Colorado,Small,outlet,2024,7,11,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Population Day,44,Summer,Heatwave
+319,1/1/2024,1,Male,41,Clothing,3,300,900,S007,Colorado,Small,outlet,2024,1,1,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,New Year's Day,36,Winter,Sunny
+320,2/27/2024,1,Male,24,Clothing,1,25,25,S007,Colorado,Small,outlet,2024,2,27,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,44,Winter,Snow
+321,3/6/2024,1,Female,42,Clothing,4,50,200,S007,Colorado,Small,outlet,2024,3,6,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,48,Spring,Showers
+322,9/1/2024,1,Male,27,Beauty,3,50,150,S007,Colorado,Small,outlet,2024,9,1,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,58,Autumn,Foggy
+323,3/26/2024,1,Female,34,Clothing,4,300,1200,S007,Colorado,Small,outlet,2024,3,26,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Prince Jonah Kuhio Kalanianaole Day,60,Spring,Light Rain
+324,5/16/2024,1,Male,56,Clothing,2,500,1000,S007,Colorado,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Living Together in Peace,64,Spring,Sunny
+325,11/7/2024,1,Female,43,Clothing,1,25,25,S007,Colorado,Small,outlet,2024,11,7,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Return Day,49,Autumn,Foggy
+326,10/4/2024,1,Female,34,Electronics,4,50,200,S007,Colorado,Small,outlet,2024,10,4,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Feast of St Francis of Assisi,33,Autumn,Foggy
+327,7/11/2024,1,Male,62,Electronics,2,50,100,S007,Colorado,Small,outlet,2024,7,11,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Population Day,61,Summer,Sunny
+328,4/26/2024,1,Male,51,Clothing,4,30,120,S007,Colorado,Small,outlet,2024,4,26,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Intellectual Property Day,33,Spring,Light Rain
+329,4/28/2024,1,Female,59,Electronics,2,30,60,S007,Colorado,Small,outlet,2024,4,28,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,World Day for Safety and Health at Work,68,Spring,Light Rain
+330,5/23/2024,1,Female,47,Electronics,3,300,900,S007,Colorado,Small,outlet,2024,5,23,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day to End Obstetric Fistula,32,Spring,Sunny
+331,4/20/2024,1,Female,48,Electronics,2,25,50,S007,Colorado,Small,outlet,2024,4,20,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Chinese Language Day,57,Spring,Sunny
+332,8/31/2024,1,Female,57,Beauty,4,50,200,S007,Colorado,Small,outlet,2024,8,31,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for People of African Descent,21,Summer,Clear Skies
+333,8/31/2024,1,Female,53,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,8,31,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for People of African Descent,23,Summer,Heatwave
+334,7/1/2024,1,Male,28,Beauty,2,30,60,S007,Colorado,Small,outlet,2024,7,1,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,45,Summer,Clear Skies
+335,8/18/2024,1,Male,36,Clothing,4,25,100,S007,Colorado,Small,outlet,2024,8,18,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,National Navajo Code Talkers Day,34,Summer,Heatwave
+336,7/28/2024,1,Female,27,Beauty,3,300,900,S007,Colorado,Small,outlet,2024,7,28,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,World Hepatitis Day,27,Summer,Drizzle
+337,1/2/2024,1,Male,19,Electronics,3,30,90,S007,Colorado,Small,outlet,2024,1,2,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,46,Winter,Snow
+338,12/23/2024,1,Female,26,Beauty,1,25,25,S007,Colorado,Small,outlet,2024,12,23,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,43,Winter,Overcast
+339,9/15/2024,1,Female,18,Clothing,3,25,75,S007,Colorado,Small,outlet,2024,9,15,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Democracy,55,Autumn,Overcast
+340,9/29/2024,1,Male,57,Electronics,3,50,150,S007,Colorado,Small,outlet,2024,9,29,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Awareness of Food Loss and Waste,23,Autumn,Rainy
+341,2/11/2024,1,Male,59,Clothing,2,500,1000,S007,Colorado,Small,outlet,2024,2,11,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Women and Girls in Science,69,Winter,Sunny
+342,9/25/2024,1,Female,56,Clothing,3,30,90,S007,Colorado,Small,outlet,2024,9,25,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,69,Autumn,Overcast
+343,5/16/2024,1,Female,32,Beauty,1,300,300,S007,Colorado,Small,outlet,2024,5,16,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Living Together in Peace,39,Spring,Sunny
+344,3/9/2024,1,Male,42,Clothing,4,25,100,S007,Colorado,Small,outlet,2024,3,9,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,41,Spring,Light Rain
+345,1/5/2024,1,Female,57,Electronics,1,50,50,S007,Colorado,Small,outlet,2024,1,5,Friday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,26,Winter,Sunny
+346,8/23/2024,1,Female,56,Clothing,4,300,1200,S007,Colorado,Small,outlet,2024,8,23,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for the Remembrance of the Slave Trade and its Abolition,61,Summer,Heatwave
+347,11/15/2024,1,Male,23,Electronics,3,500,1500,S007,Colorado,Small,outlet,2024,11,15,Friday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,66,Autumn,Foggy
+348,2/21/2024,1,Female,20,Beauty,1,25,25,S007,Colorado,Small,outlet,2024,2,21,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Mother Language Day,30,Winter,Foggy
+349,4/20/2024,1,Female,59,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,4,20,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Chinese Language Day,59,Spring,Showers
+350,6/28/2024,1,Male,50,Beauty,1,300,300,S007,Colorado,Small,outlet,2024,6,28,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Carolina Day,67,Summer,Drizzle
+351,12/27/2024,1,Female,54,Electronics,2,300,600,S007,Colorado,Small,outlet,2024,12,27,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Epidemic Preparedness,65,Winter,Sunny
+352,4/15/2024,1,Female,64,Beauty,1,500,500,S007,Colorado,Small,outlet,2024,4,15,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Art Day,44,Spring,Showers
+353,1/23/2024,1,Female,22,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,1,23,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,61,Winter,Foggy
+354,7/9/2024,1,Male,50,Clothing,3,25,75,S007,Colorado,Small,outlet,2024,7,9,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,48,Summer,Heatwave
+355,3/7/2024,1,Female,61,Clothing,3,30,90,S007,Colorado,Small,outlet,2024,3,7,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,29,Spring,Cloudy
+356,7/15/2024,1,Female,26,Clothing,3,500,1500,S007,Colorado,Small,outlet,2024,7,15,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Youth Skills Day,27,Summer,Clear Skies
+357,4/27/2024,1,Female,28,Clothing,4,300,1200,S007,Colorado,Small,outlet,2024,4,27,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,56,Spring,Hazy
+358,6/18/2024,1,Female,51,Electronics,3,300,900,S007,Colorado,Small,outlet,2024,6,18,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Sustainable Gastronomy Day,21,Summer,Drizzle
+359,11/2/2024,1,Female,37,Electronics,3,500,1500,S007,Colorado,Small,outlet,2024,11,2,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,All Souls' Day,43,Autumn,Cloudy
+360,6/10/2024,1,Female,39,Beauty,4,50,200,S007,Colorado,Small,outlet,2024,6,10,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,62,Summer,Hazy
+361,9/19/2024,1,Male,24,Electronics,4,25,100,S007,Colorado,Small,outlet,2024,9,19,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,29,Autumn,Windy
+362,7/17/2024,1,Female,49,Clothing,3,300,900,S007,Colorado,Small,outlet,2024,7,17,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Ashura,42,Summer,Sunny
+363,12/29/2024,1,Female,49,Electronics,4,25,100,S007,Colorado,Small,outlet,2024,12,29,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,53,Winter,Overcast
+364,4/11/2024,1,Male,57,Clothing,2,25,50,S007,Colorado,Small,outlet,2024,4,11,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,53,Spring,Light Rain
+365,2/5/2024,1,Female,18,Electronics,4,30,120,S007,Colorado,Small,outlet,2024,2,5,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,34,Winter,Overcast
+366,6/19/2024,1,Female,64,Clothing,4,30,120,S007,Colorado,Small,outlet,2024,6,19,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for the Elimination of Sexual Violence in Conflict,63,Summer,Sunny
+367,7/14/2024,1,Male,45,Electronics,3,300,900,S007,Colorado,Small,outlet,2024,7,14,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Bastille Day,60,Summer,Drizzle
+368,7/27/2024,1,Female,20,Beauty,3,30,90,S007,Colorado,Small,outlet,2024,7,27,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Korean War Veteran Recognition Day,36,Summer,Clear Skies
+369,5/26/2024,1,Female,54,Clothing,4,30,120,S007,Colorado,Small,outlet,2024,5,26,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Trinity Sunday,56,Spring,Hazy
+370,2/17/2024,1,Female,27,Beauty,4,50,200,S007,Colorado,Small,outlet,2024,2,17,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,20,Winter,Sunny
+371,6/8/2024,1,Female,40,Beauty,4,300,1200,S007,Colorado,Small,outlet,2024,6,8,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,World Oceans Day,66,Summer,Sunny
+372,5/6/2024,1,Male,35,Electronics,2,30,60,S007,Colorado,Small,outlet,2024,5,6,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Yom HaShoah,55,Spring,Light Rain
+373,9/1/2024,1,Female,19,Electronics,2,300,600,S007,Colorado,Small,outlet,2024,9,1,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,56,Autumn,Overcast
+374,11/9/2024,1,Female,18,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,11,9,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,29,Autumn,Cloudy
+375,11/19/2024,1,Female,28,Beauty,2,50,100,S007,Colorado,Small,outlet,2024,11,19,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Toilet Day,20,Autumn,Cloudy
+376,12/2/2024,1,Female,55,Electronics,3,500,1500,S007,Colorado,Small,outlet,2024,12,2,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for the Abolition of Slavery,28,Winter,Snow
+377,8/15/2024,1,Male,42,Clothing,2,50,100,S007,Colorado,Small,outlet,2024,8,15,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Assumption of Mary,64,Summer,Clear Skies
+378,8/7/2024,1,Male,39,Beauty,4,30,120,S007,Colorado,Small,outlet,2024,8,7,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Purple Heart Day,69,Summer,Clear Skies
+379,5/13/2024,1,Female,62,Beauty,4,50,200,S007,Colorado,Small,outlet,2024,5,13,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,44,Spring,Light Rain
+380,9/6/2024,1,Male,23,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,9,6,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Ganesh Chaturthi,44,Autumn,Rainy
+381,3/20/2024,1,Male,23,Clothing,4,300,1200,S007,Colorado,Small,outlet,2024,3,20,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,French Language Day,37,Spring,Hazy
+382,12/28/2024,1,Female,44,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,12,28,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,43,Winter,Snow
+383,11/5/2024,1,Female,52,Clothing,3,300,900,S007,Colorado,Small,outlet,2024,11,5,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,World Tsunami Awareness Day,20,Autumn,Foggy
+384,1/14/2024,1,Female,43,Beauty,3,300,900,S007,Colorado,Small,outlet,2024,1,14,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Orthodox New Year,45,Winter,Snow
+385,11/26/2024,1,Female,42,Beauty,4,25,100,S007,Colorado,Small,outlet,2024,11,26,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,66,Autumn,Foggy
+386,4/19/2024,1,Male,61,Clothing,3,50,150,S007,Colorado,Small,outlet,2024,4,19,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Arbor Day,59,Spring,Hazy
+387,10/4/2024,1,Female,64,Clothing,4,500,2000,S007,Colorado,Small,outlet,2024,10,4,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Feast of St Francis of Assisi,49,Autumn,Windy
+388,3/6/2024,1,Female,35,Clothing,3,25,75,S007,Colorado,Small,outlet,2024,3,6,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,47,Spring,Showers
+389,4/22/2024,1,Female,58,Clothing,3,25,75,S007,Colorado,Small,outlet,2024,4,22,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Passover Eve,26,Spring,Sunny
+390,2/28/2024,1,Male,34,Clothing,2,25,50,S007,Colorado,Small,outlet,2024,2,28,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Linus Pauling Day,67,Winter,Overcast
+391,10/24/2024,1,Male,39,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,10,24,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Shmini Atzeret,24,Autumn,Rainy
+392,1/14/2024,1,Female,24,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,1,14,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Orthodox New Year,24,Winter,Foggy
+393,10/31/2024,1,Male,35,Clothing,3,30,90,S007,Colorado,Small,outlet,2024,10,31,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Diwali/Deepavali,43,Autumn,Rainy
+394,11/18/2024,1,Female,47,Beauty,4,25,100,S007,Colorado,Small,outlet,2024,11,18,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,35,Autumn,Cloudy
+395,12/23/2024,1,Male,35,Beauty,1,500,500,S007,Colorado,Small,outlet,2024,12,23,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,32,Winter,Overcast
+396,2/5/2024,1,Male,54,Beauty,1,30,30,S007,Colorado,Small,outlet,2024,2,5,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,60,Winter,Snow
+397,11/28/2024,1,Male,57,Electronics,1,300,300,S007,Colorado,Small,outlet,2024,11,28,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Thanksgiving Day,68,Autumn,Overcast
+398,12/29/2024,1,Female,30,Beauty,3,500,1500,S007,Colorado,Small,outlet,2024,12,29,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,35,Winter,Snow
+399,8/11/2024,1,Female,50,Electronics,4,50,200,S007,Colorado,Small,outlet,2024,8,11,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,39,Summer,Hazy
+400,5/6/2024,1,Male,49,Electronics,4,50,200,S007,Colorado,Small,outlet,2024,5,6,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Yom HaShoah,21,Spring,Hazy
+401,4/4/2024,1,Female,56,Beauty,2,30,60,S007,Colorado,Small,outlet,2024,4,4,Thursday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,United Nations' Mine Awareness Day,60,Spring,Hazy
+402,5/22/2024,1,Male,21,Beauty,3,500,1500,S007,Colorado,Small,outlet,2024,5,22,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day for Biological Diversity,52,Spring,Light Rain
+403,7/28/2024,1,Female,26,Beauty,2,500,1000,S007,Colorado,Small,outlet,2024,7,28,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,World Hepatitis Day,40,Summer,Clear Skies
+404,12/20/2024,1,Male,29,Clothing,1,50,50,S007,Colorado,Small,outlet,2024,12,20,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Human Solidarity Day,52,Winter,Sunny
+405,9/1/2024,1,Male,54,Beauty,1,25,25,S007,Colorado,Small,outlet,2024,9,1,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,36,Autumn,Rainy
+406,11/27/2024,1,Male,54,Electronics,4,30,120,S007,Colorado,Small,outlet,2024,11,27,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,22,Autumn,Windy
+407,1/9/2024,1,Male,63,Clothing,4,50,200,S007,Colorado,Small,outlet,2024,1,9,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,58,Winter,Foggy
+408,10/11/2024,1,Female,63,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,10,11,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of the Girl Child,35,Autumn,Cloudy
+409,5/19/2024,1,Male,22,Electronics,1,300,300,S007,Colorado,Small,outlet,2024,5,19,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Pentecost,56,Spring,Showers
+410,6/11/2024,1,Male,59,Clothing,4,25,100,S007,Colorado,Small,outlet,2024,6,11,Tuesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Kamehameha Day,53,Summer,Clear Skies
+411,6/1/2024,1,Female,54,Beauty,1,50,50,S007,Colorado,Small,outlet,2024,6,1,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Global Day of Parents,31,Summer,Drizzle
+412,1/24/2024,1,Male,51,Beauty,3,50,150,S007,Colorado,Small,outlet,2024,1,24,Wednesday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Education,41,Winter,Snow
+413,11/23/2024,1,Female,42,Electronics,3,30,90,S007,Colorado,Small,outlet,2024,11,23,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,FALSE,,28,Autumn,Foggy
+414,9/9/2024,1,Female,22,Beauty,2,25,50,S007,Colorado,Small,outlet,2024,9,9,Monday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,International Day to Protect Education from Attack,25,Autumn,Windy
+415,1/7/2024,1,Male,51,Electronics,3,25,7500,S007,Colorado,Small,outlet,2024,1,7,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Orthodox Christmas Day,29,Winter,Sunny
+416,6/24/2024,1,Male,43,Electronics,4,500,2000,S007,Colorado,Small,outlet,2024,6,24,Monday,FALSE,1,FALSE,38.7251776,-105.607716,FALSE,,46,Summer,Clear Skies
+417,4/5/2024,1,Female,35,Clothing,4,300,1200,S007,Colorado,Small,outlet,2024,4,5,Friday,FALSE,1,FALSE,38.7251776,-105.607716,TRUE,Lailat al-Qadr,64,Spring,Showers
+418,1/27/2024,1,Female,23,Beauty,3,25,75,S007,Colorado,Small,outlet,2024,1,27,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,International Day of Commemoration in Memory of the Victims of the Holocaust,48,Winter,Overcast
+419,6/2/2024,1,Male,62,Electronics,2,25,50,S007,Colorado,Small,outlet,2024,6,2,Sunday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,Native American Day,35,Summer,Hazy
+420,5/25/2024,1,Female,58,Beauty,2,500,1000,S007,Colorado,Small,outlet,2024,5,25,Saturday,TRUE,1,FALSE,38.7251776,-105.607716,TRUE,African Liberation Day,63,Spring,Cloudy
+421,5/6/2024,1,Male,30,Beauty,2,50,100,S005,Atlanta,Medium,flagship,2024,5,6,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,Yom HaShoah,72,Spring,Light Rain
+422,2/22/2024,1,Male,30,Electronics,4,25,100,S005,Atlanta,Medium,flagship,2024,2,22,Thursday,FALSE,1,FALSE,33.749,-84.388,FALSE,,73,Winter,Overcast
+423,10/15/2024,1,Male,18,Clothing,2,50,100,S005,Atlanta,Medium,flagship,2024,10,15,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Rural Women,46,Autumn,Overcast
+424,8/18/2024,1,Female,42,Electronics,1,30,30,S005,Atlanta,Medium,flagship,2024,8,18,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,National Navajo Code Talkers Day,62,Summer,Sunny
+425,1/23/2024,1,Female,54,Electronics,2,500,1000,S005,Atlanta,Medium,flagship,2024,1,23,Tuesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,60,Winter,Foggy
+426,10/2/2024,1,Male,27,Beauty,3,25,75,S005,Atlanta,Medium,flagship,2024,10,2,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Non-Violence,61,Autumn,Windy
+427,4/9/2024,1,Male,21,Beauty,4,50,200,S005,Atlanta,Medium,flagship,2024,4,9,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,National Library Workers' Day,84,Spring,Sunny
+428,2/5/2024,1,Male,57,Electronics,2,25,50,S005,Atlanta,Medium,flagship,2024,2,5,Monday,FALSE,1,FALSE,33.749,-84.388,FALSE,,49,Winter,Foggy
+429,7/14/2024,1,Female,51,Beauty,4,25,100,S005,Atlanta,Medium,flagship,2024,7,14,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Bastille Day,54,Summer,Drizzle
+430,2/6/2024,1,Male,31,Clothing,3,50,150,S005,Atlanta,Medium,flagship,2024,2,6,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Zero Tolerance for Female Genital Mutilation,42,Winter,Overcast
+431,10/13/2024,1,Female,51,Beauty,2,500,1000,S005,Atlanta,Medium,flagship,2024,10,13,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Navy Birthday,61,Autumn,Foggy
+432,5/18/2024,1,Female,46,Clothing,1,50,50,S005,Atlanta,Medium,flagship,2024,5,18,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,Public Lands Day,45,Spring,Light Rain
+433,8/23/2024,1,Female,23,Clothing,1,30,3000,S005,Atlanta,Medium,flagship,2024,8,23,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day for the Remembrance of the Slave Trade and its Abolition,37,Summer,Sunny
+434,9/10/2024,1,Male,42,Electronics,4,50,200,S005,Atlanta,Medium,flagship,2024,9,10,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Suicide Prevention Day,65,Autumn,Rainy
+435,8/21/2024,1,Male,39,Clothing,2,30,60,S005,Atlanta,Medium,flagship,2024,8,21,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,43,Summer,Heatwave
+436,5/15/2024,1,Female,47,Beauty,3,500,1500,S005,Atlanta,Medium,flagship,2024,5,15,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Families,56,Spring,Showers
+437,9/17/2024,1,Female,43,Clothing,3,50,150,S005,Atlanta,Medium,flagship,2024,9,17,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Patient Safety Day,65,Autumn,Windy
+438,9/6/2024,1,Male,55,Clothing,4,50,200,S005,Atlanta,Medium,flagship,2024,9,6,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,Ganesh Chaturthi,33,Autumn,Windy
+439,9/28/2024,1,Male,39,Beauty,1,25,25,S005,Atlanta,Medium,flagship,2024,9,28,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,International Day for Universal Access to Information,57,Autumn,Rainy
+440,8/20/2024,1,Female,53,Electronics,3,30,90,S005,Atlanta,Medium,flagship,2024,8,20,Tuesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,56,Summer,Heatwave
+441,3/3/2024,1,Male,64,Beauty,1,500,500,S005,Atlanta,Medium,flagship,2024,3,3,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,World Wildlife Day,79,Spring,Sunny
+442,5/5/2024,1,Male,54,Electronics,1,300,300,S005,Atlanta,Medium,flagship,2024,5,5,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Orthodox Easter,36,Spring,Cloudy
+443,2/19/2024,1,Male,19,Beauty,4,500,2000,S005,Atlanta,Medium,flagship,2024,2,19,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,Presidents' Day,54,Winter,Foggy
+444,12/1/2024,1,Female,19,Electronics,2,30,60,S005,Atlanta,Medium,flagship,2024,12,1,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,First Sunday of Advent,63,Winter,Foggy
+445,2/20/2024,1,Female,28,Electronics,1,30,30,S005,Atlanta,Medium,flagship,2024,2,20,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Day of Social Justice,34,Winter,Overcast
+446,8/25/2024,1,Female,64,Electronics,4,50,200,S005,Atlanta,Medium,flagship,2024,8,25,Sunday,TRUE,1,FALSE,33.749,-84.388,FALSE,,66,Summer,Clear Skies
+447,1/8/2024,1,Male,60,Clothing,2,300,600,S005,Atlanta,Medium,flagship,2024,1,8,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,Battle of New Orleans,33,Winter,Sunny
+448,2/17/2024,1,Male,20,Beauty,4,300,1200,S005,Atlanta,Medium,flagship,2024,2,17,Saturday,TRUE,1,FALSE,33.749,-84.388,FALSE,,76,Winter,Sunny
+449,9/4/2024,1,Female,40,Electronics,2,500,1000,S005,Atlanta,Medium,flagship,2024,9,4,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Sexual Health Day,53,Autumn,Windy
+450,8/5/2024,1,Female,34,Beauty,4,300,1200,S005,Atlanta,Medium,flagship,2024,8,5,Monday,FALSE,1,FALSE,33.749,-84.388,FALSE,,63,Summer,Heatwave
+451,1/30/2024,1,Female,46,Electronics,4,25,100,S005,Atlanta,Medium,flagship,2024,1,30,Tuesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,62,Winter,Foggy
+452,5/7/2024,1,Male,31,Clothing,4,50,200,S005,Atlanta,Medium,flagship,2024,5,7,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,National Teacher Appreciation Day,80,Spring,Cloudy
+453,11/1/2024,1,Male,21,Electronics,2,25,50,S005,Atlanta,Medium,flagship,2024,11,1,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,All Saints' Day,55,Autumn,Windy
+454,6/10/2024,1,Male,50,Electronics,3,500,1500,S005,Atlanta,Medium,flagship,2024,6,10,Monday,FALSE,1,FALSE,33.749,-84.388,FALSE,,62,Summer,Sunny
+455,11/27/2024,1,Male,50,Clothing,1,25,25,S005,Atlanta,Medium,flagship,2024,11,27,Wednesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,47,Autumn,Cloudy
+456,10/6/2024,1,Male,50,Electronics,3,500,1500,S005,Atlanta,Medium,flagship,2024,10,6,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,World Cerebral Palsy Day,30,Autumn,Rainy
+457,11/21/2024,1,Male,43,Electronics,3,300,900,S005,Atlanta,Medium,flagship,2024,11,21,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Television Day,45,Autumn,Windy
+458,8/5/2024,1,Female,60,Electronics,2,500,1000,S005,Atlanta,Medium,flagship,2024,8,5,Monday,FALSE,1,FALSE,33.749,-84.388,FALSE,,43,Summer,Drizzle
+459,5/22/2024,1,Female,44,Clothing,3,30,90,S005,Atlanta,Medium,flagship,2024,5,22,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day for Biological Diversity,50,Spring,Showers
+460,11/23/2024,1,Male,57,Beauty,4,300,1200,S005,Atlanta,Medium,flagship,2024,11,23,Saturday,TRUE,1,FALSE,33.749,-84.388,FALSE,,34,Autumn,Cloudy
+461,10/7/2024,1,Female,35,Electronics,4,300,1200,S005,Atlanta,Medium,flagship,2024,10,7,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Habitat Day,75,Autumn,Overcast
+462,8/9/2024,1,Male,29,Clothing,2,300,600,S005,Atlanta,Medium,flagship,2024,8,9,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of the World's Indigenous People,76,Summer,Clear Skies
+463,5/8/2024,1,Female,48,Clothing,3,500,1500,S005,Atlanta,Medium,flagship,2024,5,8,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,50,Spring,Sunny
+464,4/2/2024,1,Female,43,Electronics,3,50,150,S005,Atlanta,Medium,flagship,2024,4,2,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Autism Awareness Day,54,Spring,Showers
+465,8/24/2024,1,Male,52,Electronics,4,300,1200,S005,Atlanta,Medium,flagship,2024,8,24,Saturday,TRUE,1,FALSE,33.749,-84.388,FALSE,,37,Summer,Heatwave
+466,11/25/2024,1,Male,41,Beauty,2,25,50,S005,Atlanta,Medium,flagship,2024,11,25,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day for the Elimination of Violence against Women,41,Autumn,Overcast
+467,5/14/2024,1,Male,39,Electronics,2,30,60,S005,Atlanta,Medium,flagship,2024,5,14,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,Yom Ha'atzmaut,60,Spring,Sunny
+468,11/7/2024,1,Female,57,Beauty,1,25,25,S005,Atlanta,Medium,flagship,2024,11,7,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,Return Day,44,Autumn,Cloudy
+469,3/5/2024,1,Female,55,Beauty,4,30,120,S005,Atlanta,Medium,flagship,2024,3,5,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,Town Meeting Day,84,Spring,Light Rain
+470,6/1/2024,1,Male,27,Clothing,2,25,50,S005,Atlanta,Medium,flagship,2024,6,1,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,Global Day of Parents,55,Summer,Heatwave
+471,11/12/2024,1,Female,46,Beauty,3,50,150,S005,Atlanta,Medium,flagship,2024,11,12,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Pneumonia Day,33,Autumn,Rainy
+472,6/21/2024,1,Female,24,Electronics,4,25,100,S005,Atlanta,Medium,flagship,2024,6,21,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Yoga,37,Summer,Hazy
+473,12/11/2024,1,Male,50,Electronics,1,50,50,S005,Atlanta,Medium,flagship,2024,12,11,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Mountain Day,42,Winter,Snow
+474,3/17/2024,1,Male,36,Clothing,3,300,900,S005,Atlanta,Medium,flagship,2024,3,17,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,St. Patrick's Day,53,Spring,Hazy
+475,5/5/2024,1,Male,22,Electronics,1,50,50,S005,Atlanta,Medium,flagship,2024,5,5,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Orthodox Easter,42,Spring,Sunny
+476,1/3/2024,1,Female,26,Beauty,2,300,600,S005,Atlanta,Medium,flagship,2024,1,3,Wednesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,70,Winter,Foggy
+477,10/13/2024,1,Male,47,Electronics,4,25,100,S005,Atlanta,Medium,flagship,2024,10,13,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Navy Birthday,43,Autumn,Cloudy
+478,12/8/2024,1,Male,31,Clothing,1,300,300,S005,Atlanta,Medium,flagship,2024,12,8,Sunday,TRUE,1,FALSE,33.749,-84.388,FALSE,,40,Winter,Sunny
+479,12/22/2024,1,Male,48,Beauty,2,500,1000,S005,Atlanta,Medium,flagship,2024,12,22,Sunday,TRUE,1,FALSE,33.749,-84.388,FALSE,,46,Winter,Snow
+480,10/5/2024,1,Male,27,Beauty,1,30,30,S005,Atlanta,Medium,flagship,2024,10,5,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,World Teachers' Day,67,Autumn,Foggy
+481,1/11/2024,1,Female,18,Beauty,3,30,90,S005,Atlanta,Medium,flagship,2024,1,11,Thursday,FALSE,1,FALSE,33.749,-84.388,FALSE,,35,Winter,Snow
+482,8/12/2024,1,Female,22,Electronics,3,50,150,S005,Atlanta,Medium,flagship,2024,8,12,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Youth Day,75,Summer,Sunny
+483,11/15/2024,1,Male,51,Electronics,4,25,100,S005,Atlanta,Medium,flagship,2024,11,15,Friday,FALSE,1,FALSE,33.749,-84.388,FALSE,,44,Autumn,Overcast
+484,5/23/2024,1,Male,29,Clothing,4,300,1200,S005,Atlanta,Medium,flagship,2024,5,23,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day to End Obstetric Fistula,75,Spring,Cloudy
+485,11/30/2024,1,Male,48,Clothing,1,300,300,S005,Atlanta,Medium,flagship,2024,11,30,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,Day of Remembrance for all Victims of Chemical Warfare,37,Autumn,Foggy
+486,5/3/2024,1,Male,42,Beauty,1,30,30,S005,Atlanta,Medium,flagship,2024,5,3,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,Orthodox Good Friday,58,Spring,Showers
+487,2/28/2024,1,Female,32,Clothing,1,30,30,S005,Atlanta,Medium,flagship,2024,2,28,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,Linus Pauling Day,45,Winter,Overcast
+488,12/5/2024,1,Female,51,Beauty,1,25,25,S005,Atlanta,Medium,flagship,2024,12,5,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Volunteer Day for Economic and Social Development,40,Winter,Overcast
+489,8/4/2024,1,Male,61,Clothing,1,50,50,S005,Atlanta,Medium,flagship,2024,8,4,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Coast Guard Birthday,33,Summer,Sunny
+490,9/5/2024,1,Female,59,Clothing,1,500,500,S005,Atlanta,Medium,flagship,2024,9,5,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Charity,41,Autumn,Windy
+491,6/15/2024,1,Female,35,Beauty,2,50,100,S005,Atlanta,Medium,flagship,2024,6,15,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,World Elder Abuse Awareness Day,75,Summer,Hazy
+492,5/23/2024,1,Female,52,Beauty,3,50,150,S005,Atlanta,Medium,flagship,2024,5,23,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day to End Obstetric Fistula,33,Spring,Light Rain
+493,5/5/2024,1,Male,63,Clothing,4,30,120,S005,Atlanta,Medium,flagship,2024,5,5,Sunday,TRUE,1,FALSE,33.749,-84.388,TRUE,Orthodox Easter,62,Spring,Showers
+494,1/6/2024,1,Male,54,Clothing,1,500,500,S005,Atlanta,Medium,flagship,2024,1,6,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,Epiphany,57,Winter,Overcast
+495,6/26/2024,1,Male,60,Beauty,1,30,30,S005,Atlanta,Medium,flagship,2024,6,26,Wednesday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day Against Drug Abuse and Illicit Trafficking,39,Summer,Drizzle
+496,4/2/2024,1,Male,58,Beauty,1,300,300,S005,Atlanta,Medium,flagship,2024,4,2,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Autism Awareness Day,77,Spring,Cloudy
+497,12/24/2024,1,Female,32,Electronics,1,50,50,S005,Atlanta,Medium,flagship,2024,12,24,Tuesday,FALSE,1,FALSE,33.749,-84.388,TRUE,Christmas Eve,41,Winter,Snow
+498,2/22/2024,1,Female,28,Beauty,3,25,75,S005,Atlanta,Medium,flagship,2024,2,22,Thursday,FALSE,1,FALSE,33.749,-84.388,FALSE,,51,Winter,Overcast
+499,9/9/2024,1,Female,34,Beauty,1,50,50,S005,Atlanta,Medium,flagship,2024,9,9,Monday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day to Protect Education from Attack,67,Autumn,Windy
+500,11/2/2024,1,Male,33,Beauty,2,50,100,S005,Atlanta,Medium,flagship,2024,11,2,Saturday,TRUE,1,FALSE,33.749,-84.388,TRUE,All Souls' Day,71,Autumn,Foggy
+501,9/25/2024,1,Female,50,Electronics,3,300,900,S005,Atlanta,Medium,flagship,2024,9,25,Wednesday,FALSE,1,FALSE,33.749,-84.388,FALSE,,66,Autumn,Overcast
+502,3/22/2024,1,Male,60,Clothing,1,50,50,S005,Atlanta,Medium,flagship,2024,3,22,Friday,FALSE,1,FALSE,33.749,-84.388,TRUE,World Water Day,56,Spring,Cloudy
+503,12/28/2024,1,Female,44,Electronics,1,25,25,S005,Atlanta,Medium,flagship,2024,12,28,Saturday,TRUE,1,FALSE,33.749,-84.388,FALSE,,70,Winter,Snow
+504,5/16/2024,1,Male,62,Clothing,1,50,50,S005,Atlanta,Medium,flagship,2024,5,16,Thursday,FALSE,1,FALSE,33.749,-84.388,TRUE,International Day of Living Together in Peace,84,Spring,Light Rain
+505,4/25/2024,1,Female,45,Beauty,1,30,30,S001,New York,Large,flagship,2024,4,25,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Girls in ICT Day,75,Spring,Hazy
+506,11/5/2024,1,Male,22,Clothing,3,300,900,S001,New York,Large,flagship,2024,11,5,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Tsunami Awareness Day,64,Autumn,Windy
+507,5/23/2024,1,Male,44,Electronics,4,300,1200,S001,New York,Large,flagship,2024,5,23,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day to End Obstetric Fistula,67,Spring,Light Rain
+508,1/4/2024,1,Male,30,Beauty,3,30,90,S001,New York,Large,flagship,2024,1,4,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Braille Day,78,Winter,Overcast
+509,8/5/2024,1,Female,58,Beauty,3,300,900,S001,New York,Large,flagship,2024,8,5,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,34,Summer,Heatwave
+510,2/10/2024,1,Female,38,Electronics,3,500,1500,S001,New York,Large,flagship,2024,2,10,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,World Pulses Day,39,Winter,Foggy
+511,5/31/2024,1,Female,26,Clothing,3,300,900,S001,New York,Large,flagship,2024,5,31,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World No Tobacco Day,42,Spring,Showers
+512,8/25/2024,1,Female,51,Electronics,4,30,120,S001,New York,Large,flagship,2024,8,25,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,FALSE,,47,Summer,Drizzle
+513,7/14/2024,1,Female,35,Beauty,4,500,2000,S001,New York,Large,flagship,2024,7,14,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Bastille Day,55,Summer,Hazy
+514,1/17/2024,1,Female,59,Clothing,1,25,25,S001,New York,Large,flagship,2024,1,17,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,65,Winter,Sunny
+515,6/11/2024,1,Male,27,Clothing,3,300,900,S001,New York,Large,flagship,2024,6,11,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Kamehameha Day,71,Summer,Sunny
+516,3/15/2024,1,Male,19,Electronics,2,500,1000,S001,New York,Large,flagship,2024,3,15,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Long Covid Awareness Day,73,Spring,Cloudy
+517,3/13/2024,1,Female,60,Clothing,3,50,150,S001,New York,Large,flagship,2024,3,13,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,62,Spring,Cloudy
+518,10/26/2024,1,Female,28,Clothing,3,30,90,S001,New York,Large,flagship,2024,10,26,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,FALSE,,56,Autumn,Rainy
+519,1/25/2024,1,Male,49,Electronics,1,50,50,S001,New York,Large,flagship,2024,1,25,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Tu Bishvat/Tu B'Shevat,73,Winter,Overcast
+520,2/28/2024,1,Male,43,Electronics,4,500,2000,S001,New York,Large,flagship,2024,2,28,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Linus Pauling Day,42,Winter,Foggy
+521,3/22/2024,1,Male,64,Beauty,2,500,1000,S001,New York,Large,flagship,2024,3,22,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Water Day,76,Spring,Cloudy
+522,7/5/2024,1,Male,20,Clothing,4,50,200,S001,New York,Large,flagship,2024,7,5,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,37,Summer,Clear Skies
+523,9/22/2024,1,Male,64,Beauty,3,30,90,S001,New York,Large,flagship,2024,9,22,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Emancipation Day,61,Autumn,Cloudy
+524,12/29/2024,1,Female,51,Beauty,2,300,600,S001,New York,Large,flagship,2024,12,29,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,FALSE,,48,Winter,Overcast
+525,4/28/2024,1,Female,54,Clothing,1,25,25,S001,New York,Large,flagship,2024,4,28,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,World Day for Safety and Health at Work,63,Spring,Cloudy
+526,2/6/2024,1,Female,23,Beauty,1,300,300,S001,New York,Large,flagship,2024,2,6,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Zero Tolerance for Female Genital Mutilation,30,Winter,Snow
+527,8/28/2024,1,Male,23,Beauty,2,30,60,S001,New York,Large,flagship,2024,8,28,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,42,Summer,Clear Skies
+528,7/26/2024,1,Male,43,Electronics,1,300,300,S001,New York,Large,flagship,2024,7,26,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,71,Summer,Clear Skies
+529,3/13/2024,1,Female,37,Clothing,4,25,100,S001,New York,Large,flagship,2024,3,13,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,59,Spring,Light Rain
+530,5/23/2024,1,Female,29,Beauty,4,500,2000,S001,New York,Large,flagship,2024,5,23,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day to End Obstetric Fistula,32,Spring,Cloudy
+531,11/30/2024,1,Male,53,Electronics,2,30,60,S001,New York,Large,flagship,2024,11,30,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Day of Remembrance for all Victims of Chemical Warfare,51,Autumn,Windy
+532,10/4/2024,1,Female,30,Beauty,2,300,600,S001,New York,Large,flagship,2024,10,4,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Feast of St Francis of Assisi,60,Autumn,Windy
+533,5/2/2024,1,Male,50,Electronics,3,30,90,S001,New York,Large,flagship,2024,5,2,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Tuna Day,61,Spring,Hazy
+534,7/19/2024,1,Female,37,Electronics,2,30,60,S001,New York,Large,flagship,2024,7,19,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,52,Summer,Drizzle
+535,6/10/2024,1,Female,26,Electronics,2,25,50,S001,New York,Large,flagship,2024,6,10,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,44,Summer,Drizzle
+536,6/3/2024,1,Male,64,Beauty,1,25,25,S001,New York,Large,flagship,2024,6,3,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Bicycle Day,56,Summer,Clear Skies
+537,3/10/2024,1,Female,30,Beauty,1,25,25,S001,New York,Large,flagship,2024,3,10,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Women Judges,58,Spring,Cloudy
+538,6/25/2024,1,Female,46,Electronics,3,300,900,S001,New York,Large,flagship,2024,6,25,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Day of the Seafarer,60,Summer,Drizzle
+539,6/20/2024,1,Female,28,Clothing,3,30,90,S001,New York,Large,flagship,2024,6,20,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Refugee Day,41,Summer,Sunny
+540,6/7/2024,1,Male,21,Electronics,1,50,50,S001,New York,Large,flagship,2024,6,7,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Food Safety Day,64,Summer,Hazy
+541,5/8/2024,1,Male,18,Beauty,3,25,75,S001,New York,Large,flagship,2024,5,8,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,39,Spring,Hazy
+542,4/13/2024,1,Female,58,Clothing,2,30,60,S001,New York,Large,flagship,2024,4,13,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Thomas Jefferson's Birthday,43,Spring,Showers
+543,6/6/2024,1,Female,43,Electronics,4,300,1200,S001,New York,Large,flagship,2024,6,6,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Day of the Russian Language,57,Summer,Drizzle
+544,10/2/2024,1,Male,41,Clothing,4,30,120,S001,New York,Large,flagship,2024,10,2,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Non-Violence,68,Autumn,Foggy
+545,1/23/2024,1,Female,36,Electronics,4,30,120,S001,New York,Large,flagship,2024,1,23,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,43,Winter,Sunny
+546,1/1/2024,1,Male,46,Beauty,3,500,1500,S001,New York,Large,flagship,2024,1,1,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,New Year's Day,62,Winter,Snow
+547,12/7/2024,1,Male,31,Electronics,1,500,500,S001,New York,Large,flagship,2024,12,7,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Civil Aviation Day,79,Winter,Snow
+548,12/6/2024,1,Male,47,Beauty,3,30,90,S001,New York,Large,flagship,2024,12,6,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,St Nicholas Day,69,Winter,Snow
+549,12/7/2024,1,Male,40,Clothing,3,300,900,S001,New York,Large,flagship,2024,12,7,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Civil Aviation Day,60,Winter,Foggy
+550,10/8/2024,1,Female,41,Clothing,1,25,25,S001,New York,Large,flagship,2024,10,8,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,79,Autumn,Foggy
+551,1/1/2024,1,Female,40,Clothing,4,300,1200,S001,New York,Large,flagship,2024,1,1,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,New Year's Day,76,Winter,Overcast
+552,11/7/2024,1,Female,45,Beauty,2,30,60,S001,New York,Large,flagship,2024,11,7,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Return Day,33,Autumn,Rainy
+553,9/21/2024,1,Female,38,Electronics,1,30,30,S001,New York,Large,flagship,2024,9,21,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Peace,60,Autumn,Foggy
+554,4/26/2024,1,Male,38,Electronics,2,30,60,S001,New York,Large,flagship,2024,4,26,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Intellectual Property Day,48,Spring,Sunny
+555,4/12/2024,1,Female,36,Beauty,2,500,1000,S001,New York,Large,flagship,2024,4,12,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Human Space Flight,38,Spring,Sunny
+556,1/13/2024,1,Male,53,Electronics,4,25,100,S001,New York,Large,flagship,2024,1,13,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Stephen Foster Memorial Day,78,Winter,Overcast
+557,10/22/2024,1,Female,59,Beauty,2,500,1000,S001,New York,Large,flagship,2024,10,22,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,55,Autumn,Rainy
+558,5/8/2024,1,Male,63,Electronics,3,25,75,S001,New York,Large,flagship,2024,5,8,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,33,Spring,Sunny
+559,11/1/2024,1,Female,19,Beauty,4,50,200,S001,New York,Large,flagship,2024,11,1,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,All Saints' Day,66,Autumn,Cloudy
+560,5/27/2024,1,Male,51,Clothing,3,50,1500,S001,New York,Large,flagship,2024,5,27,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Memorial Day,33,Spring,Sunny
+561,10/4/2024,1,Male,29,Beauty,3,30,90,S001,New York,Large,flagship,2024,10,4,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Feast of St Francis of Assisi,45,Autumn,Windy
+562,8/4/2024,1,Female,45,Clothing,2,30,60,S001,New York,Large,flagship,2024,8,4,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Coast Guard Birthday,74,Summer,Heatwave
+563,12/9/2024,1,Male,36,Electronics,4,500,2000,S001,New York,Large,flagship,2024,12,9,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Feast of the Immaculate Conception,43,Winter,Snow
+564,1/26/2024,1,Female,56,Beauty,3,500,1500,S001,New York,Large,flagship,2024,1,26,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Customs Day,66,Winter,Snow
+565,8/29/2024,1,Male,34,Beauty,1,30,30,S001,New York,Large,flagship,2024,8,29,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day against Nuclear Tests,77,Summer,Sunny
+566,7/8/2024,1,Male,49,Electronics,2,50,100,S001,New York,Large,flagship,2024,7,8,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Muharram,56,Summer,Hazy
+567,2/8/2024,1,Female,46,Electronics,4,25,100,S001,New York,Large,flagship,2024,2,8,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Isra and Mi'raj,31,Winter,Overcast
+568,5/5/2024,1,Female,56,Electronics,2,500,1000,S001,New York,Large,flagship,2024,5,5,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Orthodox Easter,41,Spring,Cloudy
+569,10/17/2024,1,Male,48,Clothing,4,25,100,S001,New York,Large,flagship,2024,10,17,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,First Day of Sukkot,48,Autumn,Rainy
+570,1/22/2024,1,Male,41,Electronics,1,25,25,S001,New York,Large,flagship,2024,1,22,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,36,Winter,Snow
+571,9/8/2024,1,Male,56,Electronics,2,50,100,S001,New York,Large,flagship,2024,9,8,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Literacy Day,49,Autumn,Windy
+572,8/26/2024,1,Female,46,Beauty,1,25,25,S001,New York,Large,flagship,2024,8,26,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Janmashtami,40,Summer,Drizzle
+573,12/9/2024,1,Female,33,Electronics,4,300,1200,S001,New York,Large,flagship,2024,12,9,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Feast of the Immaculate Conception,38,Winter,Foggy
+574,1/15/2024,1,Male,27,Electronics,4,25,100,S001,New York,Large,flagship,2024,1,15,Monday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Martin Luther King Jr. Day,59,Winter,Overcast
+575,11/2/2024,1,Male,31,Electronics,4,25,100,S001,New York,Large,flagship,2024,11,2,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,All Souls' Day,73,Autumn,Cloudy
+576,8/31/2024,1,Male,62,Beauty,2,30,60,S001,New York,Large,flagship,2024,8,31,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day for People of African Descent,39,Summer,Heatwave
+577,8/21/2024,1,Male,22,Beauty,2,500,10000,S001,New York,Large,flagship,2024,8,21,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,77,Summer,Sunny
+578,4/9/2024,1,Male,37,Electronics,3,300,900,S001,New York,Large,flagship,2024,4,9,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,National Library Workers' Day,59,Spring,Showers
+579,10/29/2024,1,Female,30,Electronics,2,25,50,S001,New York,Large,flagship,2024,10,29,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Stroke Day,54,Autumn,Rainy
+580,11/2/2024,1,Female,42,Clothing,3,30,90,S001,New York,Large,flagship,2024,11,2,Saturday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,All Souls' Day,68,Autumn,Foggy
+581,7/4/2024,1,Male,28,Clothing,1,500,500,S001,New York,Large,flagship,2024,7,4,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Independence Day,51,Summer,Hazy
+582,6/4/2024,1,Female,20,Clothing,1,50,50,S001,New York,Large,flagship,2024,6,4,Tuesday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of Innocent Children Victims of Aggression,61,Summer,Hazy
+583,10/11/2024,1,Female,59,Electronics,1,500,500,S001,New York,Large,flagship,2024,10,11,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,International Day of the Girl Child,48,Autumn,Foggy
+584,10/13/2024,1,Female,23,Electronics,3,25,75,S001,New York,Large,flagship,2024,10,13,Sunday,TRUE,1,FALSE,40.7127281,-74.0060152,TRUE,Navy Birthday,74,Autumn,Overcast
+585,4/26/2024,1,Male,45,Beauty,3,30,90,S001,New York,Large,flagship,2024,4,26,Friday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,World Intellectual Property Day,73,Spring,Showers
+586,1/31/2024,1,Male,24,Clothing,3,300,900,S001,New York,Large,flagship,2024,1,31,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,70,Winter,Overcast
+587,2/8/2024,1,Female,35,Electronics,3,25,75,S001,New York,Large,flagship,2024,2,8,Thursday,FALSE,1,FALSE,40.7127281,-74.0060152,TRUE,Isra and Mi'raj,37,Winter,Sunny
+588,1/17/2024,1,Female,49,Clothing,2,500,1000,S001,New York,Large,flagship,2024,1,17,Wednesday,FALSE,1,FALSE,40.7127281,-74.0060152,FALSE,,37,Winter,Overcast
+589,3/13/2024,1,Male,46,Clothing,2,25,50,S008,San Diego,Large,flagship,2024,3,13,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,53,Spring,Light Rain
+590,8/5/2024,1,Male,22,Electronics,3,500,1500,S008,San Diego,Large,flagship,2024,8,5,Monday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,76,Summer,Hazy
+591,10/29/2024,1,Female,39,Beauty,3,300,900,S008,San Diego,Large,flagship,2024,10,29,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Stroke Day,65,Autumn,Windy
+592,11/6/2024,1,Female,40,Beauty,3,500,1500,S008,San Diego,Large,flagship,2024,11,6,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day for Preventing the Exploitation of the Environment in War and Armed Conflict,51,Autumn,Cloudy
+593,4/30/2024,1,Female,56,Beauty,3,25,75,S008,San Diego,Large,flagship,2024,4,30,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Last Day of Passover,61,Spring,Showers
+594,2/21/2024,1,Female,43,Clothing,1,300,300,S008,San Diego,Large,flagship,2024,2,21,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Mother Language Day,59,Winter,Overcast
+595,5/23/2024,1,Female,20,Electronics,4,500,2000,S008,San Diego,Large,flagship,2024,5,23,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day to End Obstetric Fistula,68,Spring,Light Rain
+596,3/25/2024,1,Female,22,Electronics,2,50,100,S008,San Diego,Large,flagship,2024,3,25,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Holi,57,Spring,Light Rain
+597,7/9/2024,1,Female,47,Clothing,2,50,100,S008,San Diego,Large,flagship,2024,7,9,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,63,Summer,Drizzle
+598,12/26/2024,1,Female,32,Beauty,4,50,200,S008,San Diego,Large,flagship,2024,12,26,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Chanukah/Hanukkah (first day),71,Winter,Snow
+599,3/25/2024,1,Female,55,Electronics,1,500,500,S008,San Diego,Large,flagship,2024,3,25,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Holi,55,Spring,Light Rain
+600,12/17/2024,1,Female,50,Electronics,4,300,1200,S008,San Diego,Large,flagship,2024,12,17,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Pan American Aviation Day,50,Winter,Foggy
+601,4/28/2024,1,Female,47,Beauty,2,25,50,S008,San Diego,Large,flagship,2024,4,28,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Day for Safety and Health at Work,57,Spring,Hazy
+602,8/8/2024,1,Male,48,Clothing,2,50,100,S008,San Diego,Large,flagship,2024,8,8,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,53,Summer,Drizzle
+603,4/23/2024,1,Female,21,Beauty,2,300,600,S008,San Diego,Large,flagship,2024,4,23,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Passover (first day),52,Spring,Cloudy
+604,3/12/2024,1,Female,57,Clothing,1,500,500,S008,San Diego,Large,flagship,2024,3,12,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Ramadan Starts,60,Spring,Showers
+605,7/17/2024,1,Female,45,Clothing,1,50,50,S008,San Diego,Large,flagship,2024,7,17,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Ashura,75,Summer,Sunny
+606,11/8/2024,1,Male,64,Electronics,4,30,120,S008,San Diego,Large,flagship,2024,11,8,Friday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,79,Autumn,Overcast
+607,4/12/2024,1,Female,39,Beauty,1,300,300,S008,San Diego,Large,flagship,2024,4,12,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Human Space Flight,53,Spring,Hazy
+608,10/4/2024,1,Male,40,Clothing,2,30,60,S008,San Diego,Large,flagship,2024,10,4,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Feast of St Francis of Assisi,72,Autumn,Rainy
+609,1/10/2024,1,Male,31,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,1,10,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,53,Winter,Sunny
+610,2/10/2024,1,Male,62,Beauty,2,50,100,S008,San Diego,Large,flagship,2024,2,10,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Pulses Day,72,Winter,Sunny
+611,12/4/2024,1,Male,45,Beauty,3,500,1500,S008,San Diego,Large,flagship,2024,12,4,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Banks,79,Winter,Overcast
+612,4/19/2024,1,Female,42,Beauty,2,25,50,S008,San Diego,Large,flagship,2024,4,19,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Arbor Day,69,Spring,Hazy
+613,12/20/2024,1,Female,30,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,12,20,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Human Solidarity Day,62,Winter,Overcast
+614,12/10/2024,1,Male,20,Beauty,2,30,60,S008,San Diego,Large,flagship,2024,12,10,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Human Rights Day,68,Winter,Foggy
+615,10/20/2024,1,Male,20,Clothing,1,50,50,S008,San Diego,Large,flagship,2024,10,20,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,74,Autumn,Windy
+616,6/23/2024,1,Female,62,Beauty,4,30,5020,S008,San Diego,Large,flagship,2024,6,23,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,Public Service Day,56,Summer,Sunny
+617,5/8/2024,1,Female,18,Electronics,1,500,500,S008,San Diego,Large,flagship,2024,5,8,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,77,Spring,Light Rain
+618,2/20/2024,1,Male,54,Clothing,4,25,100,S008,San Diego,Large,flagship,2024,2,20,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Day of Social Justice,61,Winter,Snow
+619,9/6/2024,1,Female,22,Clothing,4,300,1200,S008,San Diego,Large,flagship,2024,9,6,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Ganesh Chaturthi,50,Autumn,Windy
+620,5/16/2024,1,Female,18,Beauty,1,30,30,S008,San Diego,Large,flagship,2024,5,16,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Living Together in Peace,60,Spring,Sunny
+621,1/30/2024,1,Male,51,Electronics,1,500,500,S008,San Diego,Large,flagship,2024,1,30,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,63,Winter,Foggy
+622,11/1/2024,1,Male,31,Electronics,3,300,900,S008,San Diego,Large,flagship,2024,11,1,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,All Saints' Day,74,Autumn,Overcast
+623,7/26/2024,1,Male,54,Beauty,2,50,100,S008,San Diego,Large,flagship,2024,7,26,Friday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,77,Summer,Drizzle
+624,3/3/2024,1,Female,22,Electronics,2,25,50,S008,San Diego,Large,flagship,2024,3,3,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Wildlife Day,65,Spring,Showers
+625,1/21/2024,1,Female,42,Beauty,1,30,30,S008,San Diego,Large,flagship,2024,1,21,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Religion Day,78,Winter,Snow
+626,10/26/2024,1,Female,57,Beauty,1,50,50,S008,San Diego,Large,flagship,2024,10,26,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,78,Autumn,Windy
+627,2/7/2024,1,Female,24,Beauty,3,500,1500,S008,San Diego,Large,flagship,2024,2,7,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,National Girls and Women in Sports Day,58,Winter,Foggy
+628,2/5/2024,1,Female,47,Clothing,1,25,25,S008,San Diego,Large,flagship,2024,2,5,Monday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,65,Winter,Snow
+629,5/26/2024,1,Female,53,Clothing,2,500,1000,S008,San Diego,Large,flagship,2024,5,26,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,Trinity Sunday,70,Spring,Showers
+630,5/16/2024,1,Female,48,Clothing,2,300,600,S008,San Diego,Large,flagship,2024,5,16,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Living Together in Peace,74,Spring,Sunny
+631,1/27/2024,1,Male,53,Clothing,2,30,60,S008,San Diego,Large,flagship,2024,1,27,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Commemoration in Memory of the Victims of the Holocaust,54,Winter,Snow
+632,2/17/2024,1,Male,53,Electronics,4,500,2000,S008,San Diego,Large,flagship,2024,2,17,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,52,Winter,Overcast
+633,5/15/2024,1,Female,55,Electronics,4,30,120,S008,San Diego,Large,flagship,2024,5,15,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Families,67,Spring,Hazy
+634,12/20/2024,1,Female,30,Beauty,3,300,9000,S008,San Diego,Large,flagship,2024,12,20,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Human Solidarity Day,59,Winter,Sunny
+635,3/18/2024,1,Female,57,Clothing,4,30,120,S008,San Diego,Large,flagship,2024,3,18,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Evacuation Day observed,79,Spring,Sunny
+636,1/19/2024,1,Female,42,Clothing,1,30,30,S008,San Diego,Large,flagship,2024,1,19,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Robert E. Lee's Birthday,55,Winter,Overcast
+637,7/3/2024,1,Male,25,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,7,3,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,66,Summer,Heatwave
+638,11/14/2024,1,Female,39,Electronics,4,25,100,S008,San Diego,Large,flagship,2024,11,14,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Diabetes Day,70,Autumn,Windy
+639,5/2/2024,1,Male,40,Beauty,1,50,50,S008,San Diego,Large,flagship,2024,5,2,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Tuna Day,79,Spring,Cloudy
+640,6/20/2024,1,Male,63,Electronics,4,25,100,S008,San Diego,Large,flagship,2024,6,20,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Refugee Day,73,Summer,Heatwave
+641,1/13/2024,1,Female,19,Clothing,4,300,1200,S008,San Diego,Large,flagship,2024,1,13,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,Stephen Foster Memorial Day,63,Winter,Snow
+642,2/5/2024,1,Male,34,Clothing,3,50,150,S008,San Diego,Large,flagship,2024,2,5,Monday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,68,Winter,Snow
+643,9/18/2024,1,Female,42,Beauty,4,50,200,S008,San Diego,Large,flagship,2024,9,18,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Equal Pay Day,68,Autumn,Windy
+644,1/20/2024,1,Male,24,Beauty,1,50,50,S008,San Diego,Large,flagship,2024,1,20,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,59,Winter,Sunny
+645,5/11/2024,1,Female,40,Clothing,1,30,30,S008,San Diego,Large,flagship,2024,5,11,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Migratory Bird Day,78,Spring,Cloudy
+646,10/11/2024,1,Female,36,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,10,11,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of the Girl Child,51,Autumn,Windy
+647,3/7/2024,1,Male,63,Clothing,4,500,2000,S008,San Diego,Large,flagship,2024,3,7,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,59,Spring,Sunny
+648,6/4/2024,1,Female,18,Electronics,1,50,50,S008,San Diego,Large,flagship,2024,6,4,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Innocent Children Victims of Aggression,67,Summer,Clear Skies
+649,6/5/2024,1,Female,25,Electronics,1,50,50,S008,San Diego,Large,flagship,2024,6,5,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Environment Day,65,Summer,Hazy
+650,5/27/2024,1,Female,64,Clothing,4,500,2000,S008,San Diego,Large,flagship,2024,5,27,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Memorial Day,79,Spring,Showers
+651,8/9/2024,1,Male,20,Clothing,2,30,60,S008,San Diego,Large,flagship,2024,8,9,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of the World's Indigenous People,75,Summer,Sunny
+652,8/15/2024,1,Male,52,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,8,15,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Assumption of Mary,79,Summer,Heatwave
+653,12/4/2024,1,Female,33,Beauty,3,50,150,S008,San Diego,Large,flagship,2024,12,4,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Banks,52,Winter,Foggy
+654,12/6/2024,1,Female,31,Clothing,3,500,1500,S008,San Diego,Large,flagship,2024,12,6,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,St Nicholas Day,61,Winter,Overcast
+655,11/21/2024,1,Female,48,Beauty,2,30,60,S008,San Diego,Large,flagship,2024,11,21,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Television Day,61,Autumn,Cloudy
+656,7/16/2024,1,Female,40,Clothing,3,30,90,S008,San Diego,Large,flagship,2024,7,16,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Rural Transit Day,66,Summer,Sunny
+657,4/1/2024,1,Female,39,Beauty,4,300,1200,S008,San Diego,Large,flagship,2024,4,1,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,April Fool's Day,67,Spring,Cloudy
+658,1/26/2024,1,Female,27,Beauty,1,50,50,S008,San Diego,Large,flagship,2024,1,26,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Customs Day,65,Winter,Sunny
+659,10/14/2024,1,Male,57,Clothing,1,50,50,S008,San Diego,Large,flagship,2024,10,14,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Columbus Day,72,Autumn,Foggy
+660,9/1/2024,1,Male,43,Clothing,2,300,600,S008,San Diego,Large,flagship,2024,9,1,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,55,Autumn,Overcast
+661,11/23/2024,1,Female,40,Electronics,1,300,300,S008,San Diego,Large,flagship,2024,11,23,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,50,Autumn,Overcast
+662,5/21/2024,1,Male,59,Clothing,3,500,1500,S008,San Diego,Large,flagship,2024,5,21,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Day for Cultural Diversity for Dialogue and Development,51,Spring,Hazy
+663,8/14/2024,1,Male,53,Beauty,4,300,1200,S008,San Diego,Large,flagship,2024,8,14,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,68,Summer,Drizzle
+664,5/20/2024,1,Male,54,Clothing,3,25,75,S008,San Diego,Large,flagship,2024,5,20,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Whit Monday,64,Spring,Hazy
+665,8/1/2024,1,Female,29,Electronics,1,500,500,S008,San Diego,Large,flagship,2024,8,1,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Colorado Day,57,Summer,Heatwave
+666,7/28/2024,1,Female,62,Electronics,3,50,150,S008,San Diego,Large,flagship,2024,7,28,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,World Hepatitis Day,58,Summer,Drizzle
+667,9/2/2024,1,Male,46,Beauty,4,300,1200,S008,San Diego,Large,flagship,2024,9,2,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Labor Day,60,Autumn,Windy
+668,1/15/2024,1,Male,53,Clothing,1,500,500,S008,San Diego,Large,flagship,2024,1,15,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Martin Luther King Jr. Day,61,Winter,Overcast
+669,8/8/2024,1,Female,60,Clothing,4,300,1200,S008,San Diego,Large,flagship,2024,8,8,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,64,Summer,Heatwave
+670,6/17/2024,1,Male,47,Clothing,4,300,1200,S008,San Diego,Large,flagship,2024,6,17,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Eid al-Adha,69,Summer,Sunny
+671,1/27/2024,1,Male,29,Clothing,4,25,100,S008,San Diego,Large,flagship,2024,1,27,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Commemoration in Memory of the Victims of the Holocaust,52,Winter,Snow
+672,11/7/2024,1,Female,33,Clothing,1,500,500,S008,San Diego,Large,flagship,2024,11,7,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Return Day,58,Autumn,Rainy
+673,6/9/2024,1,Male,43,Clothing,4,50,200,S008,San Diego,Large,flagship,2024,6,9,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,FALSE,,78,Summer,Hazy
+674,2/25/2024,1,Male,38,Electronics,3,300,900,S008,San Diego,Large,flagship,2024,2,25,Sunday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,African-American Scientist and Inventor Day,51,Winter,Snow
+675,7/12/2024,1,Male,26,Electronics,1,30,30,S008,San Diego,Large,flagship,2024,7,12,Friday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,63,Summer,Drizzle
+676,6/4/2024,1,Male,59,Clothing,3,300,900,S008,San Diego,Large,flagship,2024,6,4,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Innocent Children Victims of Aggression,74,Summer,Drizzle
+677,11/22/2024,1,Male,39,Clothing,4,25,100,S008,San Diego,Large,flagship,2024,11,22,Friday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,79,Autumn,Rainy
+678,9/25/2024,1,Female,62,Beauty,2,50,100,S008,San Diego,Large,flagship,2024,9,25,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,72,Autumn,Cloudy
+679,11/30/2024,1,Male,59,Electronics,4,25,100,S008,San Diego,Large,flagship,2024,11,30,Saturday,TRUE,1,FALSE,32.7174202,-117.162772,TRUE,Day of Remembrance for all Victims of Chemical Warfare,53,Autumn,Foggy
+680,5/13/2024,1,Male,47,Electronics,2,300,600,S008,San Diego,Large,flagship,2024,5,13,Monday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,51,Spring,Light Rain
+681,4/24/2024,1,Female,30,Electronics,2,25,50,S008,San Diego,Large,flagship,2024,4,24,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Day of Multilateralism and Diplomacy for Peace,59,Spring,Light Rain
+682,6/6/2024,1,Male,21,Electronics,1,500,500,S008,San Diego,Large,flagship,2024,6,6,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Day of the Russian Language,55,Summer,Sunny
+683,9/26/2024,1,Female,64,Electronics,2,50,100,S008,San Diego,Large,flagship,2024,9,26,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Maritime Day,50,Autumn,Overcast
+684,2/28/2024,1,Female,45,Beauty,4,25,100,S008,San Diego,Large,flagship,2024,2,28,Wednesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Linus Pauling Day,79,Winter,Sunny
+685,8/19/2024,1,Male,30,Clothing,3,500,1500,S008,San Diego,Large,flagship,2024,8,19,Monday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Raksha Bandhan,55,Summer,Clear Skies
+686,10/29/2024,1,Female,42,Electronics,2,30,60,S008,San Diego,Large,flagship,2024,10,29,Tuesday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Stroke Day,50,Autumn,Rainy
+687,6/6/2024,1,Male,53,Beauty,4,50,200,S008,San Diego,Large,flagship,2024,6,6,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Day of the Russian Language,70,Summer,Drizzle
+688,4/19/2024,1,Female,40,Clothing,3,300,900,S008,San Diego,Large,flagship,2024,4,19,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,Arbor Day,72,Spring,Hazy
+689,12/5/2024,1,Female,27,Electronics,4,50,200,S008,San Diego,Large,flagship,2024,12,5,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,International Volunteer Day for Economic and Social Development,54,Winter,Overcast
+690,3/22/2024,1,Female,53,Clothing,3,50,150,S008,San Diego,Large,flagship,2024,3,22,Friday,FALSE,1,FALSE,32.7174202,-117.162772,TRUE,World Water Day,76,Spring,Hazy
+691,12/19/2024,1,Female,46,Beauty,3,30,90,S008,San Diego,Large,flagship,2024,12,19,Thursday,FALSE,1,FALSE,32.7174202,-117.162772,FALSE,,73,Winter,Overcast
+692,2/14/2024,1,Male,23,Clothing,2,50,100,S002,Los Angeles,Medium,outlet,2024,2,14,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Ash Wednesday,60,Winter,Overcast
+693,1/16/2024,1,Female,42,Electronics,4,500,2000,S002,Los Angeles,Medium,outlet,2024,1,16,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,53,Winter,Sunny
+694,9/16/2024,1,Female,62,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,9,16,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,The Prophet's Birthday,72,Autumn,Foggy
+695,6/24/2024,1,Male,52,Beauty,3,300,900,S002,Los Angeles,Medium,outlet,2024,6,24,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,62,Summer,Heatwave
+696,2/17/2024,1,Male,22,Clothing,3,300,900,S002,Los Angeles,Medium,outlet,2024,2,17,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,55,Winter,Sunny
+697,2/19/2024,1,Female,22,Clothing,1,25,25,S002,Los Angeles,Medium,outlet,2024,2,19,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Presidents' Day,86,Winter,Foggy
+698,7/13/2024,1,Male,34,Electronics,2,50,100,S002,Los Angeles,Medium,outlet,2024,7,13,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Nathan Bedford Forrest Day,64,Summer,Sunny
+699,10/23/2024,1,Male,30,Beauty,3,50,150,S002,Los Angeles,Medium,outlet,2024,10,23,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Last Day of Sukkot,77,Autumn,Windy
+700,1/24/2024,1,Male,49,Clothing,4,25,100,S002,Los Angeles,Medium,outlet,2024,1,24,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Education,88,Winter,Snow
+701,12/16/2024,1,Male,54,Electronics,2,50,100,S002,Los Angeles,Medium,outlet,2024,12,16,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,61,Winter,Sunny
+702,11/22/2024,1,Female,28,Beauty,2,50,100,S002,Los Angeles,Medium,outlet,2024,11,22,Friday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,64,Autumn,Cloudy
+703,10/1/2024,1,Female,55,Electronics,4,500,2000,S002,Los Angeles,Medium,outlet,2024,10,1,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Older Persons,87,Autumn,Windy
+704,5/19/2024,1,Female,47,Beauty,2,500,1000,S002,Los Angeles,Medium,outlet,2024,5,19,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Pentecost,56,Spring,Sunny
+705,6/11/2024,1,Female,34,Beauty,2,500,1000,S002,Los Angeles,Medium,outlet,2024,6,11,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Kamehameha Day,76,Summer,Clear Skies
+706,12/2/2024,1,Male,37,Clothing,3,500,1500,S002,Los Angeles,Medium,outlet,2024,12,2,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day for the Abolition of Slavery,76,Winter,Sunny
+707,2/26/2024,1,Male,20,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,2,26,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,88,Winter,Snow
+708,3/20/2024,1,Male,44,Electronics,2,300,600,S002,Los Angeles,Medium,outlet,2024,3,20,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,French Language Day,58,Spring,Hazy
+709,10/11/2024,1,Male,22,Clothing,3,25,75,S002,Los Angeles,Medium,outlet,2024,10,11,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of the Girl Child,60,Autumn,Overcast
+710,2/27/2024,1,Female,44,Electronics,2,300,600,S002,Los Angeles,Medium,outlet,2024,2,27,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,63,Winter,Snow
+711,6/2/2024,1,Female,25,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,6,2,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Native American Day,74,Summer,Drizzle
+712,9/17/2024,1,Male,32,Beauty,2,25,50,S002,Los Angeles,Medium,outlet,2024,9,17,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Patient Safety Day,64,Autumn,Cloudy
+713,11/3/2024,1,Male,19,Electronics,4,300,1200,S002,Los Angeles,Medium,outlet,2024,11,3,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,New York City Marathon,56,Autumn,Cloudy
+714,6/15/2024,1,Male,62,Beauty,4,30,120,S002,Los Angeles,Medium,outlet,2024,6,15,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Elder Abuse Awareness Day,75,Summer,Sunny
+715,9/30/2024,1,Female,32,Clothing,3,300,900,S002,Los Angeles,Medium,outlet,2024,9,30,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Translation Day,62,Autumn,Windy
+716,1/11/2024,1,Female,57,Beauty,4,25,100,S002,Los Angeles,Medium,outlet,2024,1,11,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,89,Winter,Foggy
+717,10/11/2024,1,Male,36,Electronics,2,50,100,S002,Los Angeles,Medium,outlet,2024,10,11,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of the Girl Child,87,Autumn,Cloudy
+718,1/4/2024,1,Female,23,Clothing,3,50,150,S002,Los Angeles,Medium,outlet,2024,1,4,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Braille Day,75,Winter,Overcast
+719,9/21/2024,1,Female,23,Electronics,3,25,75,S002,Los Angeles,Medium,outlet,2024,9,21,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Peace,81,Autumn,Windy
+720,3/9/2024,1,Male,26,Clothing,3,300,900,S002,Los Angeles,Medium,outlet,2024,3,9,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,85,Spring,Light Rain
+721,1/28/2024,1,Male,47,Clothing,3,300,900,S002,Los Angeles,Medium,outlet,2024,1,28,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Leprosy Day,74,Winter,Snow
+722,11/27/2024,1,Female,32,Beauty,3,30,90,S002,Los Angeles,Medium,outlet,2024,11,27,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,81,Autumn,Windy
+723,10/2/2024,1,Female,21,Beauty,4,25,100,S002,Los Angeles,Medium,outlet,2024,10,2,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Non-Violence,74,Autumn,Foggy
+724,4/20/2024,1,Male,27,Beauty,4,300,1200,S002,Los Angeles,Medium,outlet,2024,4,20,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Chinese Language Day,81,Spring,Cloudy
+725,4/8/2024,1,Male,52,Clothing,4,30,120,S002,Los Angeles,Medium,outlet,2024,4,8,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,69,Spring,Sunny
+726,4/22/2024,1,Female,48,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,4,22,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Passover Eve,77,Spring,Hazy
+727,10/5/2024,1,Male,31,Clothing,1,500,500,S002,Los Angeles,Medium,outlet,2024,10,5,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Teachers' Day,64,Autumn,Windy
+728,4/6/2024,1,Male,58,Electronics,4,300,1200,S002,Los Angeles,Medium,outlet,2024,4,6,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Sport for Development and Peace,52,Spring,Sunny
+729,2/4/2024,1,Female,47,Beauty,4,30,120,S002,Los Angeles,Medium,outlet,2024,2,4,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Human Fraternity,65,Winter,Foggy
+730,10/17/2024,1,Male,25,Beauty,3,25,75,S002,Los Angeles,Medium,outlet,2024,10,17,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,First Day of Sukkot,68,Autumn,Rainy
+731,5/14/2024,1,Male,31,Electronics,1,500,500,S002,Los Angeles,Medium,outlet,2024,5,14,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Yom Ha'atzmaut,59,Spring,Light Rain
+732,8/13/2024,1,Male,55,Clothing,1,500,500,S002,Los Angeles,Medium,outlet,2024,8,13,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Tisha B'Av,64,Summer,Clear Skies
+733,6/3/2024,1,Female,27,Clothing,1,500,500,S002,Los Angeles,Medium,outlet,2024,6,3,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Bicycle Day,81,Summer,Hazy
+734,10/11/2024,1,Female,62,Clothing,1,300,300,S002,Los Angeles,Medium,outlet,2024,10,11,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of the Girl Child,75,Autumn,Foggy
+735,8/15/2024,1,Male,25,Electronics,1,25,25,S002,Los Angeles,Medium,outlet,2024,8,15,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Assumption of Mary,60,Summer,Heatwave
+736,2/27/2024,1,Male,29,Beauty,4,50,200,S002,Los Angeles,Medium,outlet,2024,2,27,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,84,Winter,Foggy
+737,1/21/2024,1,Female,54,Beauty,2,30,60,S002,Los Angeles,Medium,outlet,2024,1,21,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Religion Day,89,Winter,Foggy
+738,5/17/2024,1,Female,57,Clothing,2,500,1000,S002,Los Angeles,Medium,outlet,2024,5,17,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Telecommunication and Information Society Day,84,Spring,Light Rain
+739,5/23/2024,1,Male,44,Electronics,1,30,30,S002,Los Angeles,Medium,outlet,2024,5,23,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day to End Obstetric Fistula,57,Spring,Hazy
+740,12/14/2024,1,Male,23,Clothing,2,300,600,S002,Los Angeles,Medium,outlet,2024,12,14,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,61,Winter,Snow
+741,5/16/2024,1,Female,38,Beauty,3,50,150,S002,Los Angeles,Medium,outlet,2024,5,16,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Living Together in Peace,58,Spring,Showers
+742,8/11/2024,1,Male,58,Beauty,2,300,600,S002,Los Angeles,Medium,outlet,2024,8,11,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,64,Summer,Hazy
+743,8/12/2024,1,Male,45,Beauty,2,50,100,S002,Los Angeles,Medium,outlet,2024,8,12,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Youth Day,71,Summer,Drizzle
+744,12/10/2024,1,Male,33,Clothing,2,50,100,S002,Los Angeles,Medium,outlet,2024,12,10,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Human Rights Day,74,Winter,Snow
+745,6/8/2024,1,Male,25,Beauty,1,500,500,S002,Los Angeles,Medium,outlet,2024,6,8,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Oceans Day,66,Summer,Sunny
+746,3/31/2024,1,Male,24,Clothing,4,300,1200,S002,Los Angeles,Medium,outlet,2024,3,31,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,International Transgender Day of Visibility,64,Spring,Light Rain
+747,10/19/2024,1,Male,25,Beauty,1,300,300,S002,Los Angeles,Medium,outlet,2024,10,19,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Sweetest Day,80,Autumn,Rainy
+748,9/19/2024,1,Male,49,Beauty,2,30,60,S002,Los Angeles,Medium,outlet,2024,9,19,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,82,Autumn,Foggy
+749,3/28/2024,1,Male,60,Clothing,2,50,100,S002,Los Angeles,Medium,outlet,2024,3,28,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Maundy Thursday,82,Spring,Light Rain
+750,11/14/2024,1,Male,35,Clothing,3,300,900,S002,Los Angeles,Medium,outlet,2024,11,14,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Diabetes Day,70,Autumn,Windy
+751,1/24/2024,1,Female,46,Beauty,4,500,2000,S002,Los Angeles,Medium,outlet,2024,1,24,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Education,52,Winter,Snow
+752,8/22/2024,1,Male,22,Beauty,4,300,1200,S002,Los Angeles,Medium,outlet,2024,8,22,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief,70,Summer,Sunny
+753,11/10/2024,1,Male,56,Electronics,3,30,90,S002,Los Angeles,Medium,outlet,2024,11,10,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Science Day for Peace and Development,88,Autumn,Rainy
+754,5/1/2024,1,Female,34,Beauty,2,50,100,S002,Los Angeles,Medium,outlet,2024,5,1,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Law Day,76,Spring,Cloudy
+755,3/19/2024,1,Female,39,Electronics,1,30,30,S002,Los Angeles,Medium,outlet,2024,3,19,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,66,Spring,Hazy
+756,6/19/2024,1,Male,24,Beauty,4,300,1200,S002,Los Angeles,Medium,outlet,2024,6,19,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day for the Elimination of Sexual Violence in Conflict,77,Summer,Drizzle
+757,8/1/2024,1,Female,34,Beauty,2,50,100,S002,Los Angeles,Medium,outlet,2024,8,1,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Colorado Day,69,Summer,Hazy
+758,10/7/2024,1,Male,57,Electronics,2,50,100,S002,Los Angeles,Medium,outlet,2024,10,7,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Habitat Day,83,Autumn,Foggy
+759,3/7/2024,1,Male,60,Electronics,2,25,50,S002,Los Angeles,Medium,outlet,2024,3,7,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,68,Spring,Sunny
+760,1/14/2024,1,Male,34,Beauty,3,25,75,S002,Los Angeles,Medium,outlet,2024,1,14,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Orthodox New Year,61,Winter,Snow
+761,6/17/2024,1,Female,54,Beauty,4,50,200,S002,Los Angeles,Medium,outlet,2024,6,17,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Eid al-Adha,56,Summer,Heatwave
+762,8/4/2024,1,Female,36,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,8,4,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Coast Guard Birthday,67,Summer,Sunny
+763,5/10/2024,1,Male,54,Clothing,4,500,2000,S002,Los Angeles,Medium,outlet,2024,5,10,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Argania,51,Spring,Cloudy
+764,11/29/2024,1,Male,36,Beauty,1,25,25,S002,Los Angeles,Medium,outlet,2024,11,29,Friday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Day of Solidarity with the Palestinian People,86,Autumn,Overcast
+765,1/21/2024,1,Female,38,Electronics,4,500,2000,S002,Los Angeles,Medium,outlet,2024,1,21,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,World Religion Day,58,Winter,Foggy
+766,6/9/2024,1,Female,31,Electronics,4,30,120,S002,Los Angeles,Medium,outlet,2024,6,9,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,78,Summer,Hazy
+767,12/17/2024,1,Female,56,Clothing,1,300,300,S002,Los Angeles,Medium,outlet,2024,12,17,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Pan American Aviation Day,79,Winter,Overcast
+768,6/24/2024,1,Male,43,Beauty,4,30,120,S002,Los Angeles,Medium,outlet,2024,6,24,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,61,Summer,Hazy
+769,2/24/2024,1,Male,32,Clothing,4,300,1200,S002,Los Angeles,Medium,outlet,2024,2,24,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,68,Winter,Foggy
+770,8/10/2024,1,Male,21,Clothing,4,50,200,S002,Los Angeles,Medium,outlet,2024,8,10,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,FALSE,,87,Summer,Heatwave
+771,7/5/2024,1,Female,46,Beauty,1,30,30,S002,Los Angeles,Medium,outlet,2024,7,5,Friday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,52,Summer,Heatwave
+772,8/19/2024,1,Female,56,Electronics,2,50,100,S002,Los Angeles,Medium,outlet,2024,8,19,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Raksha Bandhan,57,Summer,Heatwave
+773,12/26/2024,1,Female,47,Clothing,2,300,600,S002,Los Angeles,Medium,outlet,2024,12,26,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Chanukah/Hanukkah (first day),72,Winter,Sunny
+774,10/12/2024,1,Male,35,Clothing,3,50,150,S002,Los Angeles,Medium,outlet,2024,10,12,Saturday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,Dussehra,64,Autumn,Rainy
+775,8/6/2024,1,Female,51,Electronics,4,500,2000,S002,Los Angeles,Medium,outlet,2024,8,6,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,72,Summer,Hazy
+776,6/30/2024,1,Female,20,Clothing,1,30,30,S002,Los Angeles,Medium,outlet,2024,6,30,Sunday,TRUE,1,FALSE,34.0536909,-118.242766,TRUE,International Asteroid Day,82,Summer,Hazy
+777,1/8/2024,1,Female,45,Electronics,1,25,25,S002,Los Angeles,Medium,outlet,2024,1,8,Monday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Battle of New Orleans,62,Winter,Foggy
+778,5/21/2024,1,Male,42,Electronics,3,300,900,S002,Los Angeles,Medium,outlet,2024,5,21,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Day for Cultural Diversity for Dialogue and Development,70,Spring,Sunny
+779,10/21/2024,1,Male,41,Electronics,1,50,50,S002,Los Angeles,Medium,outlet,2024,10,21,Monday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,56,Autumn,Windy
+780,12/18/2024,1,Female,46,Electronics,1,300,300,S002,Los Angeles,Medium,outlet,2024,12,18,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Migrants Day,55,Winter,Foggy
+781,3/19/2024,1,Female,57,Clothing,2,25,50,S002,Los Angeles,Medium,outlet,2024,3,19,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,56,Spring,Hazy
+782,10/16/2024,1,Female,57,Clothing,4,300,1200,S002,Los Angeles,Medium,outlet,2024,10,16,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Food Day,52,Autumn,Overcast
+783,2/13/2024,1,Male,30,Beauty,1,25,25,S002,Los Angeles,Medium,outlet,2024,2,13,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Radio Day,74,Winter,Sunny
+784,8/15/2024,1,Female,60,Electronics,4,30,120,S002,Los Angeles,Medium,outlet,2024,8,15,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,Assumption of Mary,78,Summer,Sunny
+785,4/17/2024,1,Male,62,Beauty,1,25,25,S002,Los Angeles,Medium,outlet,2024,4,17,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,66,Spring,Sunny
+786,10/10/2024,1,Female,48,Beauty,2,300,600,S002,Los Angeles,Medium,outlet,2024,10,10,Thursday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Mental Health Day,69,Autumn,Windy
+787,1/2/2024,1,Female,19,Beauty,1,25,25,S002,Los Angeles,Medium,outlet,2024,1,2,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,FALSE,,79,Winter,Sunny
+788,12/18/2024,1,Female,51,Beauty,2,500,1000,S002,Los Angeles,Medium,outlet,2024,12,18,Wednesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,International Migrants Day,65,Winter,Snow
+789,10/29/2024,1,Female,23,Beauty,4,25,100,S002,Los Angeles,Medium,outlet,2024,10,29,Tuesday,FALSE,1,FALSE,34.0536909,-118.242766,TRUE,World Stroke Day,54,Autumn,Cloudy
+790,4/22/2024,1,Female,27,Clothing,4,25,100,S003,Chicago,Small,online,2024,4,22,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Passover Eve,48,Spring,Showers
+791,1/14/2024,1,Female,50,Beauty,1,500,500,S003,Chicago,Small,online,2024,1,14,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Orthodox New Year,20,Winter,Foggy
+792,8/3/2024,1,Female,38,Beauty,2,25,50,S003,Chicago,Small,online,2024,8,3,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,53,Summer,Drizzle
+793,4/21/2024,1,Male,23,Clothing,4,30,120,S003,Chicago,Small,online,2024,4,21,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,World Creativity and Innovation Day,53,Spring,Showers
+794,2/22/2024,1,Male,34,Clothing,2,25,50,S003,Chicago,Small,online,2024,2,22,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,31,Winter,Overcast
+795,7/3/2024,1,Female,55,Electronics,1,30,30,S003,Chicago,Small,online,2024,7,3,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,72,Summer,Hazy
+796,5/16/2024,1,Male,54,Electronics,3,300,900,S003,Chicago,Small,online,2024,5,16,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Living Together in Peace,57,Spring,Sunny
+797,11/18/2024,1,Female,63,Beauty,1,30,30,S003,Chicago,Small,online,2024,11,18,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,43,Autumn,Rainy
+798,11/13/2024,1,Male,18,Clothing,4,300,1200,S003,Chicago,Small,online,2024,11,13,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,71,Autumn,Overcast
+799,12/5/2024,1,Male,51,Electronics,4,500,2000,S003,Chicago,Small,online,2024,12,5,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Volunteer Day for Economic and Social Development,34,Winter,Snow
+800,5/29/2024,1,Female,48,Beauty,4,300,1200,S003,Chicago,Small,online,2024,5,29,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of United Nations Peacekeepers,74,Spring,Hazy
+801,11/8/2024,1,Male,19,Beauty,3,30,90,S003,Chicago,Small,online,2024,11,8,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,32,Autumn,Windy
+802,9/13/2024,1,Female,41,Electronics,2,25,50,S003,Chicago,Small,online,2024,9,13,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Friday the 13th,59,Autumn,Rainy
+803,7/22/2024,1,Female,22,Beauty,4,25,100,S003,Chicago,Small,online,2024,7,22,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,73,Summer,Hazy
+804,5/7/2024,1,Male,60,Beauty,1,50,50,S003,Chicago,Small,online,2024,5,7,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,National Teacher Appreciation Day,71,Spring,Light Rain
+805,10/27/2024,1,Male,33,Clothing,4,500,2000,S003,Chicago,Small,online,2024,10,27,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,World Day for Audiovisual Heritage,31,Autumn,Windy
+806,2/2/2024,1,Male,35,Electronics,4,300,1200,S003,Chicago,Small,online,2024,2,2,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Wetlands Day,50,Winter,Overcast
+807,9/28/2024,1,Male,23,Electronics,1,300,300,S003,Chicago,Small,online,2024,9,28,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day for Universal Access to Information,21,Autumn,Foggy
+808,12/15/2024,1,Male,29,Clothing,1,50,50,S003,Chicago,Small,online,2024,12,15,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Bill of Rights Day,48,Winter,Sunny
+809,1/2/2024,1,Female,64,Clothing,3,50,150,S003,Chicago,Small,online,2024,1,2,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,58,Winter,Foggy
+810,3/20/2024,1,Female,31,Electronics,4,25,100,S003,Chicago,Small,online,2024,3,20,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,French Language Day,57,Spring,Light Rain
+811,2/13/2024,1,Male,35,Beauty,3,500,1500,S003,Chicago,Small,online,2024,2,13,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Radio Day,38,Winter,Foggy
+812,2/5/2024,1,Male,52,Clothing,1,30,30,S003,Chicago,Small,online,2024,2,5,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,21,Winter,Sunny
+813,6/9/2024,1,Male,21,Clothing,3,500,1500,S003,Chicago,Small,online,2024,6,9,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,23,Summer,Clear Skies
+814,7/24/2024,1,Male,27,Beauty,3,500,1500,S003,Chicago,Small,online,2024,7,24,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Pioneer Day,36,Summer,Heatwave
+815,11/29/2024,1,Male,58,Clothing,3,500,1500,S003,Chicago,Small,online,2024,11,29,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Solidarity with the Palestinian People,61,Autumn,Cloudy
+816,8/13/2024,1,Female,35,Electronics,4,50,200,S003,Chicago,Small,online,2024,8,13,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Tisha B'Av,35,Summer,Heatwave
+817,4/23/2024,1,Male,54,Beauty,1,25,25,S003,Chicago,Small,online,2024,4,23,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Passover (first day),49,Spring,Sunny
+818,4/8/2024,1,Male,48,Clothing,1,30,30,S003,Chicago,Small,online,2024,4,8,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,22,Spring,Cloudy
+819,8/9/2024,1,Female,45,Clothing,4,50,200,S003,Chicago,Small,online,2024,8,9,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of the World's Indigenous People,20,Summer,Hazy
+820,12/11/2024,1,Male,55,Clothing,3,300,900,S003,Chicago,Small,online,2024,12,11,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Mountain Day,25,Winter,Snow
+821,2/1/2024,1,Male,25,Clothing,4,500,2000,S003,Chicago,Small,online,2024,2,1,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,National Freedom Day,33,Winter,Foggy
+822,7/25/2024,1,Male,61,Electronics,2,500,1000,S003,Chicago,Small,online,2024,7,25,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Drowning Prevention Day,37,Summer,Heatwave
+823,3/26/2024,1,Male,30,Clothing,4,30,120,S003,Chicago,Small,online,2024,3,26,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Prince Jonah Kuhio Kalanianaole Day,63,Spring,Sunny
+824,9/2/2024,1,Female,52,Electronics,2,25,50,S003,Chicago,Small,online,2024,9,2,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Labor Day,45,Autumn,Foggy
+825,12/12/2024,1,Female,52,Beauty,3,50,150,S003,Chicago,Small,online,2024,12,12,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Neutrality,21,Winter,Sunny
+826,10/24/2024,1,Female,43,Clothing,4,500,2000,S003,Chicago,Small,online,2024,10,24,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Shmini Atzeret,47,Autumn,Cloudy
+827,4/15/2024,1,Female,49,Beauty,4,50,200,S003,Chicago,Small,online,2024,4,15,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Art Day,51,Spring,Showers
+828,12/10/2024,1,Female,34,Electronics,4,300,1200,S003,Chicago,Small,online,2024,12,10,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Human Rights Day,69,Winter,Overcast
+829,6/11/2024,1,Male,31,Clothing,1,300,300,S003,Chicago,Small,online,2024,6,11,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Kamehameha Day,37,Summer,Heatwave
+830,7/9/2024,1,Female,44,Clothing,4,25,100,S003,Chicago,Small,online,2024,7,9,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,63,Summer,Heatwave
+831,12/8/2024,1,Male,27,Clothing,2,300,600,S003,Chicago,Small,online,2024,12,8,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,25,Winter,Snow
+832,10/11/2024,1,Female,22,Beauty,2,500,1000,S003,Chicago,Small,online,2024,10,11,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of the Girl Child,60,Autumn,Cloudy
+833,3/21/2024,1,Female,41,Clothing,2,300,600,S003,Chicago,Small,online,2024,3,21,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day for the Elimination of Racial Discrimination,44,Spring,Sunny
+834,9/16/2024,1,Female,19,Electronics,4,500,2000,S003,Chicago,Small,online,2024,9,16,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,The Prophet's Birthday,67,Autumn,Rainy
+835,3/24/2024,1,Male,23,Electronics,3,50,150,S003,Chicago,Small,online,2024,3,24,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Palm Sunday,46,Spring,Showers
+836,1/13/2024,1,Male,38,Electronics,2,300,600,S003,Chicago,Small,online,2024,1,13,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Stephen Foster Memorial Day,46,Winter,Snow
+837,12/9/2024,1,Male,40,Electronics,1,25,25,S003,Chicago,Small,online,2024,12,9,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Feast of the Immaculate Conception,42,Winter,Foggy
+838,1/20/2024,1,Male,26,Clothing,3,25,75,S003,Chicago,Small,online,2024,1,20,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,63,Winter,Foggy
+839,8/29/2024,1,Female,27,Clothing,4,500,2000,S003,Chicago,Small,online,2024,8,29,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day against Nuclear Tests,26,Summer,Heatwave
+840,4/24/2024,1,Male,43,Clothing,4,30,120,S003,Chicago,Small,online,2024,4,24,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Multilateralism and Diplomacy for Peace,45,Spring,Sunny
+841,10/23/2024,1,Male,30,Beauty,4,25,100,S003,Chicago,Small,online,2024,10,23,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Last Day of Sukkot,36,Autumn,Overcast
+842,8/12/2024,1,Female,47,Clothing,4,30,120,S003,Chicago,Small,online,2024,8,12,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Youth Day,37,Summer,Hazy
+843,6/3/2024,1,Female,21,Beauty,1,500,500,S003,Chicago,Small,online,2024,6,3,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Bicycle Day,62,Summer,Drizzle
+844,6/17/2024,1,Female,20,Beauty,1,50,50,S003,Chicago,Small,online,2024,6,17,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Eid al-Adha,55,Summer,Hazy
+845,6/14/2024,1,Female,25,Clothing,3,300,900,S003,Chicago,Small,online,2024,6,14,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Blood Donor Day,56,Summer,Drizzle
+846,9/11/2024,1,Female,29,Electronics,4,50,200,S003,Chicago,Small,online,2024,9,11,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,First Responders Day,24,Autumn,Rainy
+847,2/24/2024,1,Male,51,Beauty,3,500,1500,S003,Chicago,Small,online,2024,2,24,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,47,Winter,Snow
+848,3/4/2024,1,Female,40,Beauty,2,500,1000,S003,Chicago,Small,online,2024,3,4,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Casimir Pulaski Day,21,Spring,Cloudy
+849,9/29/2024,1,Female,26,Clothing,4,500,2000,S003,Chicago,Small,online,2024,9,29,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Awareness of Food Loss and Waste,50,Autumn,Rainy
+850,9/24/2024,1,Female,28,Electronics,3,30,90,S003,Chicago,Small,online,2024,9,24,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,61,Autumn,Rainy
+851,5/3/2024,1,Male,38,Clothing,3,30,90,S003,Chicago,Small,online,2024,5,3,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Orthodox Good Friday,22,Spring,Sunny
+852,2/9/2024,1,Female,58,Clothing,2,300,600,S003,Chicago,Small,online,2024,2,9,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,66,Winter,Sunny
+853,4/20/2024,1,Male,57,Clothing,1,50,50,S003,Chicago,Small,online,2024,4,20,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Chinese Language Day,34,Spring,Cloudy
+854,10/22/2024,1,Female,53,Clothing,3,300,900,S003,Chicago,Small,online,2024,10,22,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,50,Autumn,Overcast
+855,1/4/2024,1,Male,38,Beauty,2,500,1000,S003,Chicago,Small,online,2024,1,4,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Braille Day,59,Winter,Overcast
+856,6/30/2024,1,Female,28,Clothing,2,500,1000,S003,Chicago,Small,online,2024,6,30,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Asteroid Day,40,Summer,Sunny
+857,7/19/2024,1,Female,28,Electronics,4,50,200,S003,Chicago,Small,online,2024,7,19,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,33,Summer,Heatwave
+858,10/3/2024,1,Male,56,Clothing,4,25,100,S003,Chicago,Small,online,2024,10,3,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Navratri,35,Autumn,Rainy
+859,1/10/2024,1,Female,27,Clothing,1,30,30,S003,Chicago,Small,online,2024,1,10,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,73,Winter,Snow
+860,1/16/2024,1,Female,34,Beauty,4,500,2000,S003,Chicago,Small,online,2024,1,16,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,51,Winter,Overcast
+861,5/7/2024,1,Male,40,Electronics,1,25,25,S003,Chicago,Small,online,2024,5,7,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,National Teacher Appreciation Day,28,Spring,Cloudy
+862,11/15/2024,1,Male,23,Beauty,1,30,30,S003,Chicago,Small,online,2024,11,15,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,66,Autumn,Windy
+863,8/31/2024,1,Female,42,Clothing,2,25,50,S003,Chicago,Small,online,2024,8,31,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day for People of African Descent,40,Summer,Sunny
+864,12/9/2024,1,Male,29,Clothing,2,50,100,S003,Chicago,Small,online,2024,12,9,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Feast of the Immaculate Conception,28,Winter,Overcast
+865,12/25/2024,1,Female,43,Electronics,4,300,1200,S003,Chicago,Small,online,2024,12,25,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Christmas Day,37,Winter,Snow
+866,5/12/2024,1,Male,64,Clothing,4,25,100,S003,Chicago,Small,online,2024,5,12,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Nurses Day,69,Spring,Cloudy
+867,10/22/2024,1,Male,32,Clothing,1,50,50,S003,Chicago,Small,online,2024,10,22,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,29,Autumn,Cloudy
+868,6/27/2024,1,Female,52,Beauty,3,300,900,S003,Chicago,Small,online,2024,6,27,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,"Micro-, Small and Medium-sized Enterprises Day",62,Summer,Drizzle
+869,9/30/2024,1,Female,61,Clothing,4,500,2000,S003,Chicago,Small,online,2024,9,30,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Translation Day,24,Autumn,Foggy
+870,5/19/2024,1,Male,61,Beauty,2,25,50,S003,Chicago,Small,online,2024,5,19,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Pentecost,37,Spring,Cloudy
+871,8/27/2024,1,Female,51,Clothing,3,25,75,S003,Chicago,Small,online,2024,8,27,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Lyndon Baines Johnson Day,61,Summer,Heatwave
+872,7/14/2024,1,Male,61,Beauty,3,30,90,S003,Chicago,Small,online,2024,7,14,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Bastille Day,43,Summer,Drizzle
+873,9/8/2024,1,Male,32,Electronics,2,25,50,S003,Chicago,Small,online,2024,9,8,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,International Literacy Day,39,Autumn,Windy
+874,7/8/2024,1,Female,46,Electronics,4,30,120,S003,Chicago,Small,online,2024,7,8,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Muharram,46,Summer,Sunny
+875,5/9/2024,1,Male,40,Electronics,1,500,500,S003,Chicago,Small,online,2024,5,9,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Ascension Day,24,Spring,Sunny
+876,3/3/2024,1,Female,52,Electronics,4,25,100,S003,Chicago,Small,online,2024,3,3,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,World Wildlife Day,44,Spring,Hazy
+877,10/2/2024,1,Female,35,Electronics,1,50,50,S003,Chicago,Small,online,2024,10,2,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Non-Violence,64,Autumn,Windy
+878,4/21/2024,1,Male,49,Electronics,1,50,50,S003,Chicago,Small,online,2024,4,21,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,World Creativity and Innovation Day,40,Spring,Light Rain
+879,5/25/2024,1,Male,26,Clothing,2,300,600,S003,Chicago,Small,online,2024,5,25,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,African Liberation Day,64,Spring,Sunny
+880,12/29/2024,1,Male,46,Beauty,4,300,1200,S003,Chicago,Small,online,2024,12,29,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,61,Winter,Sunny
+881,5/26/2024,1,Male,32,Beauty,3,300,900,S003,Chicago,Small,online,2024,5,26,Sunday,TRUE,1,FALSE,41.8755616,-87.6244212,TRUE,Trinity Sunday,22,Spring,Sunny
+882,9/2/2024,1,Male,30,Beauty,4,30,120,S003,Chicago,Small,online,2024,9,2,Monday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Labor Day,34,Autumn,Windy
+883,2/3/2024,1,Male,22,Beauty,1,30,30,S003,Chicago,Small,online,2024,2,3,Saturday,TRUE,1,FALSE,41.8755616,-87.6244212,FALSE,,31,Winter,Foggy
+884,2/7/2024,1,Male,57,Beauty,4,50,200,S003,Chicago,Small,online,2024,2,7,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,National Girls and Women in Sports Day,39,Winter,Snow
+885,6/5/2024,1,Male,44,Clothing,2,25,50,S003,Chicago,Small,online,2024,6,5,Wednesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,World Environment Day,60,Summer,Hazy
+886,8/2/2024,1,Female,41,Electronics,2,25,50,S003,Chicago,Small,online,2024,8,2,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,47,Summer,Hazy
+887,11/7/2024,1,Male,36,Clothing,3,300,900,S003,Chicago,Small,online,2024,11,7,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Return Day,37,Autumn,Cloudy
+888,8/8/2024,1,Male,59,Clothing,2,30,60,S003,Chicago,Small,online,2024,8,8,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,FALSE,,30,Summer,Clear Skies
+889,8/29/2024,1,Male,56,Clothing,1,500,500,S003,Chicago,Small,online,2024,8,29,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day against Nuclear Tests,35,Summer,Drizzle
+890,12/26/2024,1,Female,34,Clothing,2,50,100,S003,Chicago,Small,online,2024,12,26,Thursday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Chanukah/Hanukkah (first day),35,Winter,Snow
+891,4/30/2024,1,Female,41,Clothing,1,30,30,S003,Chicago,Small,online,2024,4,30,Tuesday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,Last Day of Passover,74,Spring,Hazy
+892,4/12/2024,1,Male,47,Electronics,4,30,120,S003,Chicago,Small,online,2024,4,12,Friday,FALSE,1,FALSE,41.8755616,-87.6244212,TRUE,International Day of Human Space Flight,40,Spring,Cloudy
+893,12/26/2024,1,Female,64,Beauty,1,50,50,S004,Texas,Large,outlet,2024,12,26,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Chanukah/Hanukkah (first day),68,Winter,Snow
+894,6/26/2024,1,Female,20,Electronics,4,300,1200,S004,Texas,Large,outlet,2024,6,26,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day Against Drug Abuse and Illicit Trafficking,85,Summer,Heatwave
+895,8/24/2024,1,Female,27,Beauty,3,25,75,S004,Texas,Large,outlet,2024,8,24,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,96,Summer,Hazy
+896,12/27/2024,1,Male,18,Beauty,2,50,100,S004,Texas,Large,outlet,2024,12,27,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Epidemic Preparedness,99,Winter,Sunny
+897,4/27/2024,1,Female,45,Electronics,1,30,30,S004,Texas,Large,outlet,2024,4,27,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,90,Spring,Hazy
+898,8/21/2024,1,Male,29,Electronics,3,30,90,S004,Texas,Large,outlet,2024,8,21,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,63,Summer,Hazy
+899,11/28/2024,1,Female,38,Electronics,3,30,9000,S004,Texas,Large,outlet,2024,11,28,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Thanksgiving Day,96,Autumn,Foggy
+900,5/6/2024,1,Female,51,Electronics,1,30,30,S004,Texas,Large,outlet,2024,5,6,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Yom HaShoah,43,Spring,Light Rain
+901,1/29/2024,1,Male,32,Clothing,2,300,600,S004,Texas,Large,outlet,2024,1,29,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Kansas Day,81,Winter,Overcast
+902,4/19/2024,1,Female,34,Electronics,3,500,1500,S004,Texas,Large,outlet,2024,4,19,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Arbor Day,47,Spring,Hazy
+903,5/15/2024,1,Female,40,Electronics,2,30,60,S004,Texas,Large,outlet,2024,5,15,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Families,59,Spring,Light Rain
+904,7/5/2024,1,Male,25,Beauty,1,500,500,S004,Texas,Large,outlet,2024,7,5,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,79,Summer,Drizzle
+905,2/16/2024,1,Male,20,Electronics,3,300,900,S004,Texas,Large,outlet,2024,2,16,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Elizabeth Peratrovich Day,65,Winter,Sunny
+906,7/15/2024,1,Female,59,Beauty,3,500,1500,S004,Texas,Large,outlet,2024,7,15,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Youth Skills Day,73,Summer,Drizzle
+907,1/6/2024,1,Female,58,Electronics,4,30,120,S004,Texas,Large,outlet,2024,1,6,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Epiphany,96,Winter,Overcast
+908,5/31/2024,1,Male,26,Clothing,4,50,200,S004,Texas,Large,outlet,2024,5,31,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World No Tobacco Day,74,Spring,Sunny
+909,9/29/2024,1,Male,31,Electronics,1,300,300,S004,Texas,Large,outlet,2024,9,29,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Awareness of Food Loss and Waste,72,Autumn,Rainy
+910,6/7/2024,1,Female,64,Clothing,2,50,100,S004,Texas,Large,outlet,2024,6,7,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Food Safety Day,91,Summer,Sunny
+911,1/30/2024,1,Male,63,Beauty,1,50,50,S004,Texas,Large,outlet,2024,1,30,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,72,Winter,Sunny
+912,4/13/2024,1,Male,37,Electronics,4,50,200,S004,Texas,Large,outlet,2024,4,13,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Thomas Jefferson's Birthday,63,Spring,Hazy
+913,6/23/2024,1,Female,25,Clothing,1,50,50,S004,Texas,Large,outlet,2024,6,23,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Public Service Day,77,Summer,Hazy
+914,10/29/2024,1,Male,58,Beauty,3,30,90,S004,Texas,Large,outlet,2024,10,29,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Stroke Day,66,Autumn,Foggy
+915,2/6/2024,1,Female,43,Beauty,1,25,25,S004,Texas,Large,outlet,2024,2,6,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Zero Tolerance for Female Genital Mutilation,88,Winter,Overcast
+916,1/31/2024,1,Female,23,Electronics,2,500,1000,S004,Texas,Large,outlet,2024,1,31,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,91,Winter,Overcast
+917,1/17/2024,1,Female,39,Beauty,1,500,500,S004,Texas,Large,outlet,2024,1,17,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,92,Winter,Snow
+918,12/9/2024,1,Male,28,Beauty,2,50,100,S004,Texas,Large,outlet,2024,12,9,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Feast of the Immaculate Conception,83,Winter,Snow
+919,8/5/2024,1,Male,21,Clothing,2,25,50,S004,Texas,Large,outlet,2024,8,5,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,47,Summer,Sunny
+920,2/25/2024,1,Female,61,Electronics,2,50,1100,S004,Texas,Large,outlet,2024,2,25,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,African-American Scientist and Inventor Day,43,Winter,Sunny
+921,5/8/2024,1,Female,22,Beauty,1,50,50,S004,Texas,Large,outlet,2024,5,8,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,64,Spring,Showers
+922,1/31/2024,1,Female,19,Electronics,4,50,200,S004,Texas,Large,outlet,2024,1,31,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,43,Winter,Foggy
+923,8/21/2024,1,Male,54,Electronics,1,50,50,S004,Texas,Large,outlet,2024,8,21,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,56,Summer,Sunny
+924,5/27/2024,1,Female,26,Electronics,2,25,50,S004,Texas,Large,outlet,2024,5,27,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Memorial Day,91,Spring,Sunny
+925,12/5/2024,1,Female,32,Beauty,4,25,100,S004,Texas,Large,outlet,2024,12,5,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Volunteer Day for Economic and Social Development,70,Winter,Snow
+926,3/21/2024,1,Female,55,Beauty,3,500,1500,S004,Texas,Large,outlet,2024,3,21,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day for the Elimination of Racial Discrimination,74,Spring,Cloudy
+927,6/1/2024,1,Male,47,Clothing,2,30,60,S004,Texas,Large,outlet,2024,6,1,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Global Day of Parents,54,Summer,Sunny
+928,10/19/2024,1,Female,36,Clothing,4,300,1200,S004,Texas,Large,outlet,2024,10,19,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Sweetest Day,90,Autumn,Overcast
+929,8/23/2024,1,Female,19,Beauty,1,500,500,S004,Texas,Large,outlet,2024,8,23,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day for the Remembrance of the Slave Trade and its Abolition,66,Summer,Sunny
+930,12/18/2024,1,Female,21,Electronics,3,300,900,S004,Texas,Large,outlet,2024,12,18,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Migrants Day,83,Winter,Foggy
+931,9/8/2024,1,Female,44,Beauty,3,25,75,S004,Texas,Large,outlet,2024,9,8,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Literacy Day,59,Autumn,Rainy
+932,1/2/2024,1,Female,37,Clothing,3,500,1500,S004,Texas,Large,outlet,2024,1,2,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,59,Winter,Snow
+933,2/8/2024,1,Female,43,Electronics,2,25,50,S004,Texas,Large,outlet,2024,2,8,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Isra and Mi'raj,45,Winter,Foggy
+934,3/17/2024,1,Female,60,Clothing,4,25,100,S004,Texas,Large,outlet,2024,3,17,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,St. Patrick's Day,91,Spring,Sunny
+935,12/8/2024,1,Female,26,Clothing,2,500,1000,S004,Texas,Large,outlet,2024,12,8,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,53,Winter,Snow
+936,4/1/2024,1,Male,63,Electronics,4,300,1200,S004,Texas,Large,outlet,2024,4,1,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,April Fool's Day,98,Spring,Showers
+937,7/31/2024,1,Female,54,Beauty,3,500,1500,S004,Texas,Large,outlet,2024,7,31,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,47,Summer,Heatwave
+938,4/2/2024,1,Male,43,Electronics,3,50,150,S004,Texas,Large,outlet,2024,4,2,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Autism Awareness Day,50,Spring,Showers
+939,10/25/2024,1,Male,45,Beauty,4,500,2000,S004,Texas,Large,outlet,2024,10,25,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Simchat Torah,40,Autumn,Cloudy
+940,3/1/2024,1,Female,18,Electronics,1,300,300,S004,Texas,Large,outlet,2024,3,1,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Zero Discrimination Day,43,Spring,Showers
+941,10/3/2024,1,Male,46,Beauty,4,300,1200,S004,Texas,Large,outlet,2024,10,3,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Navratri,40,Autumn,Rainy
+942,12/18/2024,1,Female,47,Beauty,2,25,50,S004,Texas,Large,outlet,2024,12,18,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Migrants Day,68,Winter,Snow
+943,7/6/2024,1,Female,36,Clothing,2,30,60,S004,Texas,Large,outlet,2024,7,6,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Cooperatives,57,Summer,Hazy
+944,8/9/2024,1,Female,35,Clothing,3,50,150,S004,Texas,Large,outlet,2024,8,9,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of the World's Indigenous People,96,Summer,Heatwave
+945,12/8/2024,1,Female,46,Electronics,3,300,900,S004,Texas,Large,outlet,2024,12,8,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,61,Winter,Overcast
+946,7/29/2024,1,Male,56,Beauty,1,500,500,S004,Texas,Large,outlet,2024,7,29,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,95,Summer,Clear Skies
+947,4/18/2024,1,Male,54,Electronics,2,25,50,S004,Texas,Large,outlet,2024,4,18,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day for Monuments and Sites,65,Spring,Cloudy
+948,12/12/2024,1,Female,41,Electronics,1,50,50,S004,Texas,Large,outlet,2024,12,12,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Neutrality,93,Winter,Snow
+949,8/31/2024,1,Female,63,Electronics,2,25,50,S004,Texas,Large,outlet,2024,8,31,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day for People of African Descent,81,Summer,Clear Skies
+950,5/1/2024,1,Female,24,Clothing,1,25,2255,S004,Texas,Large,outlet,2024,5,1,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Law Day,76,Spring,Showers
+951,4/10/2024,1,Male,19,Clothing,1,30,30,S004,Texas,Large,outlet,2024,4,10,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Eid al-Fitr,92,Spring,Sunny
+952,7/24/2024,1,Male,37,Electronics,2,500,1000,S004,Texas,Large,outlet,2024,7,24,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Pioneer Day,57,Summer,Sunny
+953,8/26/2024,1,Male,34,Electronics,1,30,30,S004,Texas,Large,outlet,2024,8,26,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Janmashtami,88,Summer,Heatwave
+954,9/16/2024,1,Female,26,Electronics,4,25,100,S004,Texas,Large,outlet,2024,9,16,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,The Prophet's Birthday,51,Autumn,Foggy
+955,5/7/2024,1,Female,51,Electronics,4,30,120,S004,Texas,Large,outlet,2024,5,7,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,National Teacher Appreciation Day,89,Spring,Showers
+956,3/12/2024,1,Male,59,Clothing,1,25,25,S004,Texas,Large,outlet,2024,3,12,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Ramadan Starts,85,Spring,Hazy
+957,4/29/2024,1,Female,38,Beauty,2,500,1000,S004,Texas,Large,outlet,2024,4,29,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Arbor Day,79,Spring,Hazy
+958,7/16/2024,1,Female,44,Clothing,4,25,100,S004,Texas,Large,outlet,2024,7,16,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Rural Transit Day,74,Summer,Sunny
+959,7/14/2024,1,Female,43,Electronics,2,30,60,S004,Texas,Large,outlet,2024,7,14,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Bastille Day,86,Summer,Clear Skies
+960,8/3/2024,1,Female,53,Electronics,1,300,300,S004,Texas,Large,outlet,2024,8,3,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,41,Summer,Heatwave
+961,9/7/2024,1,Female,64,Clothing,2,50,100,S004,Texas,Large,outlet,2024,9,7,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Clean Air for Blue Skies,48,Autumn,Overcast
+962,7/27/2024,1,Female,60,Clothing,2,300,600,S004,Texas,Large,outlet,2024,7,27,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Korean War Veteran Recognition Day,74,Summer,Heatwave
+963,3/26/2024,1,Male,34,Electronics,2,50,100,S004,Texas,Large,outlet,2024,3,26,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Prince Jonah Kuhio Kalanianaole Day,62,Spring,Sunny
+964,10/1/2024,1,Female,26,Clothing,1,500,500,S004,Texas,Large,outlet,2024,10,1,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Older Persons,47,Autumn,Overcast
+965,7/21/2024,1,Female,19,Electronics,2,500,1000,S004,Texas,Large,outlet,2024,7,21,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,50,Summer,Hazy
+966,10/31/2024,1,Female,26,Electronics,3,500,1500,S004,Texas,Large,outlet,2024,10,31,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Diwali/Deepavali,54,Autumn,Windy
+967,4/4/2024,1,Female,42,Clothing,2,30,60,S004,Texas,Large,outlet,2024,4,4,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,United Nations' Mine Awareness Day,41,Spring,Light Rain
+968,5/14/2024,1,Female,52,Clothing,1,500,500,S004,Texas,Large,outlet,2024,5,14,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Yom Ha'atzmaut,94,Spring,Cloudy
+969,8/21/2024,1,Male,61,Electronics,1,300,300,S004,Texas,Large,outlet,2024,8,21,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Remembrance of and Tribute to the Victims of Terrorism,90,Summer,Drizzle
+970,4/13/2024,1,Male,54,Beauty,2,50,100,S004,Texas,Large,outlet,2024,4,13,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Thomas Jefferson's Birthday,84,Spring,Hazy
+971,3/20/2024,1,Male,25,Clothing,3,50,150,S004,Texas,Large,outlet,2024,3,20,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,French Language Day,53,Spring,Showers
+972,3/25/2024,1,Female,40,Clothing,1,25,2250,S004,Texas,Large,outlet,2024,3,25,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Holi,70,Spring,Sunny
+973,12/13/2024,1,Male,24,Electronics,2,25,50,S004,Texas,Large,outlet,2024,12,13,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Friday the 13th,61,Winter,Sunny
+974,7/23/2024,1,Male,25,Electronics,4,500,2000,S004,Texas,Large,outlet,2024,7,23,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,71,Summer,Sunny
+975,9/17/2024,1,Female,60,Beauty,1,300,300,S004,Texas,Large,outlet,2024,9,17,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Patient Safety Day,88,Autumn,Rainy
+976,1/7/2024,1,Male,40,Clothing,3,25,75,S004,Texas,Large,outlet,2024,1,7,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Orthodox Christmas Day,85,Winter,Foggy
+977,8/24/2024,1,Male,42,Electronics,1,30,30,S004,Texas,Large,outlet,2024,8,24,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,91,Summer,Clear Skies
+978,3/20/2024,1,Female,35,Beauty,3,300,900,S004,Texas,Large,outlet,2024,3,20,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,French Language Day,49,Spring,Cloudy
+979,4/1/2024,1,Male,33,Beauty,4,500,2000,S004,Texas,Large,outlet,2024,4,1,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,April Fool's Day,40,Spring,Sunny
+980,8/12/2024,1,Male,47,Beauty,2,500,1000,S004,Texas,Large,outlet,2024,8,12,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Youth Day,40,Summer,Hazy
+981,5/18/2024,1,Male,30,Electronics,1,500,500,S004,Texas,Large,outlet,2024,5,18,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Public Lands Day,77,Spring,Hazy
+982,10/19/2024,1,Female,46,Clothing,1,300,300,S004,Texas,Large,outlet,2024,10,19,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Sweetest Day,92,Autumn,Cloudy
+983,7/1/2024,1,Male,18,Beauty,3,30,90,S004,Texas,Large,outlet,2024,7,1,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,51,Summer,Drizzle
+984,6/24/2024,1,Female,20,Electronics,4,300,1200,S004,Texas,Large,outlet,2024,6,24,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,51,Summer,Hazy
+985,2/13/2024,1,Female,63,Clothing,3,25,75,S004,Texas,Large,outlet,2024,2,13,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,World Radio Day,69,Winter,Sunny
+986,5/4/2024,1,Male,21,Beauty,2,500,1000,S004,Texas,Large,outlet,2024,5,4,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,Orthodox Holy Saturday,75,Spring,Sunny
+987,6/6/2024,1,Female,64,Electronics,2,25,50,S004,Texas,Large,outlet,2024,6,6,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Day of the Russian Language,41,Summer,Sunny
+988,4/5/2024,1,Male,41,Electronics,3,300,900,S004,Texas,Large,outlet,2024,4,5,Friday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Lailat al-Qadr,56,Spring,Cloudy
+989,4/9/2024,1,Male,20,Electronics,1,50,50,S004,Texas,Large,outlet,2024,4,9,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,National Library Workers' Day,96,Spring,Light Rain
+990,2/21/2024,1,Male,21,Clothing,2,30,60,S004,Texas,Large,outlet,2024,2,21,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Mother Language Day,72,Winter,Foggy
+991,9/3/2024,1,Male,25,Electronics,1,300,300,S004,Texas,Large,outlet,2024,9,3,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,64,Autumn,Cloudy
+992,10/23/2024,1,Female,62,Beauty,1,500,500,S004,Texas,Large,outlet,2024,10,23,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Last Day of Sukkot,67,Autumn,Rainy
+993,3/18/2024,1,Male,51,Clothing,3,500,1500,S004,Texas,Large,outlet,2024,3,18,Monday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Evacuation Day observed,63,Spring,Cloudy
+994,5/8/2024,1,Male,62,Electronics,4,500,2000,S004,Texas,Large,outlet,2024,5,8,Wednesday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,77,Spring,Hazy
+995,11/9/2024,1,Male,22,Clothing,4,50,200,S004,Texas,Large,outlet,2024,11,9,Saturday,TRUE,1,FALSE,31.2638905,-98.5456116,FALSE,,71,Autumn,Cloudy
+996,11/17/2024,1,Female,48,Clothing,3,300,900,S004,Texas,Large,outlet,2024,11,17,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,World Day of Remembrance for Road Traffic Victims,50,Autumn,Overcast
+997,2/11/2024,1,Male,49,Beauty,4,25,100,S004,Texas,Large,outlet,2024,2,11,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,International Day of Women and Girls in Science,68,Winter,Overcast
+998,5/28/2024,1,Female,63,Clothing,3,25,75,S004,Texas,Large,outlet,2024,5,28,Tuesday,FALSE,1,FALSE,31.2638905,-98.5456116,FALSE,,46,Spring,Hazy
+999,11/17/2024,1,Male,52,Beauty,3,30,90,S004,Texas,Large,outlet,2024,11,17,Sunday,TRUE,1,FALSE,31.2638905,-98.5456116,TRUE,World Day of Remembrance for Road Traffic Victims,84,Autumn,Overcast
+1000,12/5/2024,1,Female,36,Electronics,3,50,1150,S004,Texas,Large,outlet,2024,12,5,Thursday,FALSE,1,FALSE,31.2638905,-98.5456116,TRUE,International Volunteer Day for Economic and Social Development,72,Winter,Snow

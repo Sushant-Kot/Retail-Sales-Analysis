@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount,Store_ID,Location,Size,Category
+1,11/24/2024,CUST001,Male,34,Beauty,3,50,150,S010,New Orleans,Large,Online
+8,2/22/2024,CUST008,Male,30,Electronics,4,25,100,S010,New Orleans,Large,Online
+17,4/22/2024,CUST017,Female,27,Clothing,4,25,100,S010,New Orleans,Large,Online
+21,1/14/2024,CUST021,Female,50,Beauty,1,500,500,S010,New Orleans,Large,Online
+27,8/3/2024,CUST027,Female,38,Beauty,2,25,50,S010,New Orleans,Large,Online
+32,1/4/2024,CUST032,Male,30,Beauty,3,30,90,S010,New Orleans,Large,Online
+34,12/24/2024,CUST034,Female,51,Clothing,3,50,150,S010,New Orleans,Large,Online
+40,6/22/2024,CUST040,Male,45,Beauty,1,50,50,S010,New Orleans,Large,Online
+43,7/14/2024,CUST043,Female,48,Clothing,1,300,300,S010,New Orleans,Large,Online
+56,5/31/2024,CUST056,Female,26,Clothing,3,300,900,S010,New Orleans,Large,Online
+60,10/23/2024,CUST060,Male,30,Beauty,3,50,150,S010,New Orleans,Large,Online
+77,7/9/2024,CUST077,Female,47,Clothing,2,50,100,S010,New Orleans,Large,Online
+78,7/1/2024,CUST078,Female,47,Clothing,3,500,1500,S010,New Orleans,Large,Online
+85,2/6/2024,CUST085,Male,31,Clothing,3,50,150,S010,New Orleans,Large,Online
+98,4/23/2024,CUST098,Female,55,Beauty,2,50,100,S010,New Orleans,Large,Online
+99,12/17/2024,CUST099,Female,50,Electronics,4,300,1200,S010,New Orleans,Large,Online
+100,6/16/2024,CUST100,Male,41,Electronics,1,30,30,S010,New Orleans,Large,Online
+104,6/11/2024,CUST104,Female,34,Beauty,2,500,1000,S010,New Orleans,Large,Online
+112,12/2/2024,CUST112,Male,37,Clothing,3,500,1500,S010,New Orleans,Large,Online
+117,3/15/2024,CUST117,Male,19,Electronics,2,500,1000,S010,New Orleans,Large,Online
+146,8/28/2024,CUST146,Male,38,Clothing,4,50,200,S010,New Orleans,Large,Online
+155,5/17/2024,CUST155,Male,31,Electronics,4,500,2000,S010,New Orleans,Large,Online
+184,1/10/2024,CUST184,Male,31,Electronics,4,50,200,S010,New Orleans,Large,Online
+194,9/6/2024,CUST194,Male,55,Clothing,4,50,200,S010,New Orleans,Large,Online
+195,2/5/2024,CUST195,Male,52,Clothing,1,30,30,S010,New Orleans,Large,Online
+216,7/11/2024,CUST216,Male,62,Electronics,2,50,100,S010,New Orleans,Large,Online
+237,2/4/2024,CUST237,Female,50,Beauty,2,500,1000,S010,New Orleans,Large,Online
+243,5/23/2024,CUST243,Female,47,Electronics,3,300,900,S010,New Orleans,Large,Online
+293,5/2/2024,CUST293,Male,50,Electronics,3,30,90,S010,New Orleans,Large,Online
+297,9/4/2024,CUST297,Female,40,Electronics,2,500,1000,S010,New Orleans,Large,Online
+305,5/16/2024,CUST305,Female,18,Beauty,1,30,30,S010,New Orleans,Large,Online
+322,1/30/2024,CUST322,Male,51,Electronics,1,500,500,S010,New Orleans,Large,Online
+324,10/27/2024,CUST324,Female,52,Electronics,3,50,150,S010,New Orleans,Large,Online
+332,4/6/2024,CUST332,Male,58,Electronics,4,300,1200,S010,New Orleans,Large,Online
+342,10/24/2024,CUST342,Female,43,Clothing,4,500,2000,S010,New Orleans,Large,Online
+344,1/21/2024,CUST344,Female,42,Beauty,1,30,30,S010,New Orleans,Large,Online
+380,5/6/2024,CUST380,Male,56,Electronics,2,300,600,S010,New Orleans,Large,Online
+392,12/8/2024,CUST392,Male,27,Clothing,2,300,600,S010,New Orleans,Large,Online
+404,5/25/2024,CUST404,Male,46,Electronics,2,500,1000,S010,New Orleans,Large,Online
+411,5/16/2024,CUST411,Male,62,Electronics,4,50,200,S010,New Orleans,Large,Online
+415,1/27/2024,CUST415,Male,53,Clothing,2,30,60,S010,New Orleans,Large,Online
+427,8/15/2024,CUST427,Male,25,Electronics,1,25,25,S010,New Orleans,Large,Online
+432,1/5/2024,CUST432,Female,60,Electronics,2,500,1000,S010,New Orleans,Large,Online
+440,10/26/2024,CUST440,Male,64,Clothing,2,300,600,S010,New Orleans,Large,Online
+442,3/17/2024,CUST442,Female,60,Clothing,4,25,100,S010,New Orleans,Large,Online
+448,1/21/2024,CUST448,Female,54,Beauty,2,30,60,S010,New Orleans,Large,Online
+451,12/16/2024,CUST451,Female,45,Electronics,1,30,30,S010,New Orleans,Large,Online
+455,7/1/2024,CUST455,Male,31,Electronics,4,25,100,S010,New Orleans,Large,Online
+467,7/30/2024,CUST467,Female,53,Electronics,3,50,150,S010,New Orleans,Large,Online
+479,8/24/2024,CUST479,Male,52,Electronics,4,300,1200,S010,New Orleans,Large,Online
+480,6/29/2024,CUST480,Female,42,Beauty,4,500,2000,S010,New Orleans,Large,Online
+484,1/13/2024,CUST484,Female,19,Clothing,4,300,1200,S010,New Orleans,Large,Online
+505,1/20/2024,CUST505,Male,24,Beauty,1,50,50,S010,New Orleans,Large,Online
+525,12/18/2024,CUST525,Female,47,Beauty,2,25,50,S010,New Orleans,Large,Online
+526,12/10/2024,CUST526,Male,33,Clothing,2,50,100,S010,New Orleans,Large,Online
+546,10/11/2024,CUST546,Female,36,Electronics,4,50,200,S010,New Orleans,Large,Online
+549,8/4/2024,CUST549,Female,50,Beauty,2,50,100,S010,New Orleans,Large,Online
+555,10/19/2024,CUST555,Male,25,Beauty,1,300,300,S010,New Orleans,Large,Online
+584,2/17/2024,CUST584,Female,27,Beauty,4,50,200,S010,New Orleans,Large,Online
+589,4/12/2024,CUST589,Female,36,Beauty,2,500,1000,S010,New Orleans,Large,Online
+599,11/19/2024,CUST599,Female,28,Beauty,2,50,100,S010,New Orleans,Large,Online
+609,12/19/2024,CUST609,Female,47,Clothing,2,50,100,S010,New Orleans,Large,Online
+618,1/26/2024,CUST618,Female,27,Beauty,1,50,50,S010,New Orleans,Large,Online
+626,9/29/2024,CUST626,Female,26,Clothing,4,500,2000,S010,New Orleans,Large,Online
+636,3/23/2024,CUST636,Female,21,Beauty,3,500,1500,S010,New Orleans,Large,Online
+637,9/1/2024,CUST637,Male,43,Clothing,2,300,600,S010,New Orleans,Large,Online
+639,5/13/2024,CUST639,Female,62,Beauty,4,50,200,S010,New Orleans,Large,Online
+654,6/21/2024,CUST654,Male,42,Clothing,3,25,75,S010,New Orleans,Large,Online
+657,2/11/2024,CUST657,Male,40,Clothing,1,25,25,S010,New Orleans,Large,Online
+658,3/12/2024,CUST658,Male,59,Clothing,1,25,25,S010,New Orleans,Large,Online
+665,4/20/2024,CUST665,Male,57,Clothing,1,50,50,S010,New Orleans,Large,Online
+670,10/5/2024,CUST670,Male,27,Beauty,1,30,30,S010,New Orleans,Large,Online
+705,3/7/2024,CUST705,Male,60,Electronics,2,25,50,S010,New Orleans,Large,Online
+708,1/14/2024,CUST708,Female,43,Beauty,3,300,900,S010,New Orleans,Large,Online
+719,4/4/2024,CUST719,Female,42,Clothing,2,30,60,S010,New Orleans,Large,Online
+724,4/19/2024,CUST724,Male,61,Clothing,3,50,150,S010,New Orleans,Large,Online
+744,5/7/2024,CUST744,Male,40,Electronics,1,25,25,S010,New Orleans,Large,Online
+749,5/3/2024,CUST749,Male,42,Beauty,1,30,30,S010,New Orleans,Large,Online
+755,4/22/2024,CUST755,Female,58,Clothing,3,25,75,S010,New Orleans,Large,Online
+758,5/12/2024,CUST758,Male,64,Clothing,4,25,100,S010,New Orleans,Large,Online
+763,2/28/2024,CUST763,Male,34,Clothing,2,25,50,S010,New Orleans,Large,Online
+770,10/22/2024,CUST770,Male,32,Clothing,1,50,50,S010,New Orleans,Large,Online
+786,10/17/2024,CUST786,Male,48,Clothing,4,25,100,S010,New Orleans,Large,Online
+801,8/10/2024,CUST801,Male,21,Clothing,4,50,200,S010,New Orleans,Large,Online
+810,11/30/2024,CUST810,Male,59,Electronics,4,25,100,S010,New Orleans,Large,Online
+812,11/12/2024,CUST812,Male,19,Electronics,3,25,75,S010,New Orleans,Large,Online
+814,9/5/2024,CUST814,Female,59,Clothing,1,500,500,S010,New Orleans,Large,Online
+845,1/6/2024,CUST845,Male,54,Clothing,1,500,500,S010,New Orleans,Large,Online
+856,11/27/2024,CUST856,Male,54,Electronics,4,30,120,S010,New Orleans,Large,Online
+862,5/31/2024,CUST862,Male,28,Electronics,4,300,1200,S010,New Orleans,Large,Online
+869,10/25/2024,CUST869,Male,37,Beauty,3,500,1500,S010,New Orleans,Large,Online
+871,8/31/2024,CUST871,Male,62,Beauty,2,30,60,S010,New Orleans,Large,Online
+872,10/11/2024,CUST872,Female,63,Beauty,3,25,75,S010,New Orleans,Large,Online
+887,6/11/2024,CUST887,Male,59,Clothing,4,25,100,S010,New Orleans,Large,Online
+892,4/9/2024,CUST892,Male,20,Electronics,1,50,50,S010,New Orleans,Large,Online
+894,9/5/2024,CUST894,Male,52,Electronics,1,30,30,S010,New Orleans,Large,Online
+901,4/10/2024,CUST901,Male,31,Electronics,1,30,30,S010,New Orleans,Large,Online
+914,10/11/2024,CUST914,Female,59,Electronics,1,500,500,S010,New Orleans,Large,Online
+925,9/3/2024,CUST925,Male,25,Electronics,1,300,300,S010,New Orleans,Large,Online
+933,2/3/2024,CUST933,Male,22,Beauty,1,30,30,S010,New Orleans,Large,Online
+936,2/7/2024,CUST936,Male,57,Beauty,4,50,200,S010,New Orleans,Large,Online
+938,11/19/2024,CUST938,Male,49,Clothing,4,50,200,S010,New Orleans,Large,Online
+949,8/2/2024,CUST949,Female,41,Electronics,2,25,50,S010,New Orleans,Large,Online
+951,11/2/2024,CUST951,Male,33,Beauty,2,50,100,S010,New Orleans,Large,Online
+960,8/8/2024,CUST960,Male,59,Clothing,2,30,60,S010,New Orleans,Large,Online
+961,6/6/2024,CUST961,Male,53,Beauty,4,50,200,S010,New Orleans,Large,Online
+968,11/17/2024,CUST968,Female,48,Clothing,3,300,900,S010,New Orleans,Large,Online
+978,3/22/2024,CUST978,Female,53,Clothing,3,50,150,S010,New Orleans,Large,Online
+987,4/29/2024,CUST987,Female,30,Clothing,3,300,900,S010,New Orleans,Large,Online
+997,11/17/2024,CUST997,Male,52,Beauty,3,30,90,S010,New Orleans,Large,Online
+2,2/27/2024,CUST002,Female,26,Clothing,2,500,1000,S005,Atlanta,Medium,Flagship
+5,5/6/2024,CUST005,Male,30,Beauty,2,50,100,S005,Atlanta,Medium,Flagship
+6,4/25/2024,CUST006,Female,45,Beauty,1,30,30,S005,Atlanta,Medium,Flagship
+7,3/13/2024,CUST007,Male,46,Clothing,2,25,50,S005,Atlanta,Medium,Flagship
+36,6/24/2024,CUST036,Male,52,Beauty,3,300,900,S005,Atlanta,Medium,Flagship
+44,2/19/2024,CUST044,Female,22,Clothing,1,25,25,S005,Atlanta,Medium,Flagship
+52,3/5/2024,CUST052,Female,36,Beauty,1,300,300,S005,Atlanta,Medium,Flagship
+58,11/13/2024,CUST058,Male,18,Clothing,4,300,1200,S005,Atlanta,Medium,Flagship
+64,1/24/2024,CUST064,Male,49,Clothing,4,25,100,S005,Atlanta,Medium,Flagship
+65,12/5/2024,CUST065,Male,51,Electronics,4,500,2000,S005,Atlanta,Medium,Flagship
+87,11/22/2024,CUST087,Female,28,Beauty,2,50,100,S005,Atlanta,Medium,Flagship
+97,10/13/2024,CUST097,Female,51,Beauty,2,500,1000,S005,Atlanta,Medium,Flagship
+135,2/26/2024,CUST135,Male,20,Clothing,2,25,50,S005,Atlanta,Medium,Flagship
+143,7/17/2024,CUST143,Female,45,Clothing,1,50,50,S005,Atlanta,Medium,Flagship
+144,7/15/2024,CUST144,Female,59,Beauty,3,500,1500,S005,Atlanta,Medium,Flagship
+152,2/28/2024,CUST152,Male,43,Electronics,4,500,2000,S005,Atlanta,Medium,Flagship
+160,8/11/2024,CUST160,Female,43,Clothing,2,50,100,S005,Atlanta,Medium,Flagship
+189,1/30/2024,CUST189,Male,63,Beauty,1,50,50,S005,Atlanta,Medium,Flagship
+190,5/4/2024,CUST190,Female,60,Beauty,3,30,90,S005,Atlanta,Medium,Flagship
+202,3/26/2024,CUST202,Female,34,Clothing,4,300,1200,S005,Atlanta,Medium,Flagship
+219,8/20/2024,CUST219,Female,53,Electronics,3,30,90,S005,Atlanta,Medium,Flagship
+239,6/19/2024,CUST239,Male,38,Electronics,3,500,1500,S005,Atlanta,Medium,Flagship
+241,9/21/2024,CUST241,Female,23,Electronics,3,25,75,S005,Atlanta,Medium,Flagship
+244,12/9/2024,CUST244,Male,28,Beauty,2,50,100,S005,Atlanta,Medium,Flagship
+256,2/18/2024,CUST256,Male,23,Clothing,2,500,1000,S005,Atlanta,Medium,Flagship
+259,8/9/2024,CUST259,Female,45,Clothing,4,50,200,S005,Atlanta,Medium,Flagship
+269,2/1/2024,CUST269,Male,25,Clothing,4,500,2000,S005,Atlanta,Medium,Flagship
+274,4/9/2024,CUST274,Female,23,Clothing,2,500,1000,S005,Atlanta,Medium,Flagship
+278,3/13/2024,CUST278,Female,37,Clothing,4,25,100,S005,Atlanta,Medium,Flagship
+292,2/17/2024,CUST292,Male,20,Beauty,4,300,1200,S005,Atlanta,Medium,Flagship
+294,3/27/2024,CUST294,Female,23,Clothing,3,30,90,S005,Atlanta,Medium,Flagship
+307,5/27/2024,CUST307,Female,26,Electronics,2,25,50,S005,Atlanta,Medium,Flagship
+316,4/22/2024,CUST316,Female,48,Clothing,2,25,50,S005,Atlanta,Medium,Flagship
+343,11/1/2024,CUST343,Male,21,Electronics,2,25,50,S005,Atlanta,Medium,Flagship
+354,4/15/2024,CUST354,Female,49,Beauty,4,50,200,S005,Atlanta,Medium,Flagship
+365,6/11/2024,CUST365,Male,31,Clothing,1,300,300,S005,Atlanta,Medium,Flagship
+381,7/9/2024,CUST381,Female,44,Clothing,4,25,100,S005,Atlanta,Medium,Flagship
+394,6/3/2024,CUST394,Female,27,Clothing,1,500,500,S005,Atlanta,Medium,Flagship
+400,2/24/2024,CUST400,Male,53,Clothing,4,50,200,S005,Atlanta,Medium,Flagship
+414,5/9/2024,CUST414,Male,48,Beauty,4,25,100,S005,Atlanta,Medium,Flagship
+457,7/28/2024,CUST457,Female,58,Beauty,3,300,900,S005,Atlanta,Medium,Flagship
+474,7/15/2024,CUST474,Female,26,Clothing,3,500,1500,S005,Atlanta,Medium,Flagship
+478,4/13/2024,CUST478,Female,58,Clothing,2,30,60,S005,Atlanta,Medium,Flagship
+500,3/1/2024,CUST500,Female,60,Beauty,4,25,100,S005,Atlanta,Medium,Flagship
+503,10/25/2024,CUST503,Male,45,Beauty,4,500,2000,S005,Atlanta,Medium,Flagship
+519,1/23/2024,CUST519,Female,36,Electronics,4,30,120,S005,Atlanta,Medium,Flagship
+522,1/1/2024,CUST522,Male,46,Beauty,3,500,1500,S005,Atlanta,Medium,Flagship
+523,9/24/2024,CUST523,Female,62,Electronics,1,300,300,S005,Atlanta,Medium,Flagship
+541,7/29/2024,CUST541,Male,56,Beauty,1,500,500,S005,Atlanta,Medium,Flagship
+542,6/17/2024,CUST542,Female,20,Beauty,1,50,50,S005,Atlanta,Medium,Flagship
+558,10/8/2024,CUST558,Female,41,Clothing,1,25,25,S005,Atlanta,Medium,Flagship
+559,1/1/2024,CUST559,Female,40,Clothing,4,300,1200,S005,Atlanta,Medium,Flagship
+562,4/18/2024,CUST562,Male,54,Electronics,2,25,50,S005,Atlanta,Medium,Flagship
+586,12/11/2024,CUST586,Male,50,Electronics,1,50,50,S005,Atlanta,Medium,Flagship
+598,8/1/2024,CUST598,Male,37,Beauty,4,30,120,S005,Atlanta,Medium,Flagship
+606,5/5/2024,CUST606,Male,22,Electronics,1,50,50,S005,Atlanta,Medium,Flagship
+610,1/3/2024,CUST610,Female,26,Beauty,2,300,600,S005,Atlanta,Medium,Flagship
+612,8/6/2024,CUST612,Female,61,Electronics,1,500,500,S005,Atlanta,Medium,Flagship
+614,4/1/2024,CUST614,Female,39,Beauty,4,300,1200,S005,Atlanta,Medium,Flagship
+627,10/14/2024,CUST627,Male,57,Clothing,1,50,50,S005,Atlanta,Medium,Flagship
+653,5/20/2024,CUST653,Male,54,Clothing,3,25,75,S005,Atlanta,Medium,Flagship
+680,10/22/2024,CUST680,Female,53,Clothing,3,300,900,S005,Atlanta,Medium,Flagship
+683,1/4/2024,CUST683,Male,38,Beauty,2,500,1000,S005,Atlanta,Medium,Flagship
+684,6/30/2024,CUST684,Female,28,Clothing,2,500,1000,S005,Atlanta,Medium,Flagship
+688,10/3/2024,CUST688,Male,56,Clothing,4,25,100,S005,Atlanta,Medium,Flagship
+689,10/7/2024,CUST689,Male,57,Electronics,2,50,100,S005,Atlanta,Medium,Flagship
+704,8/28/2024,CUST704,Female,62,Clothing,3,30,90,S005,Atlanta,Medium,Flagship
+727,6/22/2024,CUST727,Male,55,Beauty,3,300,900,S005,Atlanta,Medium,Flagship
+728,7/14/2024,CUST728,Male,51,Electronics,3,50,150,S005,Atlanta,Medium,Flagship
+741,11/30/2024,CUST741,Male,48,Clothing,1,300,300,S005,Atlanta,Medium,Flagship
+743,1/16/2024,CUST743,Female,34,Beauty,4,500,2000,S005,Atlanta,Medium,Flagship
+746,1/11/2024,CUST746,Female,33,Clothing,3,30,90,S005,Atlanta,Medium,Flagship
+747,11/15/2024,CUST747,Male,23,Beauty,1,30,30,S005,Atlanta,Medium,Flagship
+751,8/31/2024,CUST751,Female,42,Clothing,2,25,50,S005,Atlanta,Medium,Flagship
+767,10/24/2024,CUST767,Male,39,Beauty,3,25,75,S005,Atlanta,Medium,Flagship
+791,12/5/2024,CUST791,Female,51,Beauty,1,25,25,S005,Atlanta,Medium,Flagship
+795,11/28/2024,CUST795,Male,57,Electronics,1,300,300,S005,Atlanta,Medium,Flagship
+804,8/24/2024,CUST804,Male,42,Electronics,1,30,30,S005,Atlanta,Medium,Flagship
+826,10/19/2024,CUST826,Female,46,Clothing,1,300,300,S005,Atlanta,Medium,Flagship
+832,9/11/2024,CUST832,Male,47,Beauty,4,500,2000,S005,Atlanta,Medium,Flagship
+836,4/19/2024,CUST836,Female,22,Clothing,1,50,50,S005,Atlanta,Medium,Flagship
+839,6/24/2024,CUST839,Female,20,Electronics,4,300,1200,S005,Atlanta,Medium,Flagship
+842,12/26/2024,CUST842,Female,47,Clothing,2,300,600,S005,Atlanta,Medium,Flagship
+854,12/20/2024,CUST854,Male,29,Clothing,1,50,50,S005,Atlanta,Medium,Flagship
+855,9/1/2024,CUST855,Male,54,Beauty,1,25,25,S005,Atlanta,Medium,Flagship
+866,5/5/2024,CUST866,Male,24,Electronics,1,50,50,S005,Atlanta,Medium,Flagship
+889,10/2/2024,CUST889,Female,35,Electronics,1,50,50,S005,Atlanta,Medium,Flagship
+891,4/5/2024,CUST891,Male,41,Electronics,3,300,900,S005,Atlanta,Medium,Flagship
+904,7/4/2024,CUST904,Male,28,Clothing,1,500,500,S005,Atlanta,Medium,Flagship
+921,1/7/2024,CUST921,Male,51,Electronics,3,25,75,S005,Atlanta,Medium,Flagship
+929,1/27/2024,CUST929,Female,23,Beauty,3,25,75,S005,Atlanta,Medium,Flagship
+930,5/10/2024,CUST930,Male,54,Clothing,4,50,200,S005,Atlanta,Medium,Flagship
+946,5/8/2024,CUST946,Male,62,Electronics,4,500,2000,S005,Atlanta,Medium,Flagship
+962,10/19/2024,CUST962,Male,44,Clothing,2,30,60,S005,Atlanta,Medium,Flagship
+963,11/14/2024,CUST963,Female,55,Beauty,1,50,50,S005,Atlanta,Medium,Flagship
+982,12/19/2024,CUST982,Female,46,Beauty,3,30,90,S005,Atlanta,Medium,Flagship
+983,11/1/2024,CUST983,Female,29,Clothing,1,300,300,S005,Atlanta,Medium,Flagship
+984,8/29/2024,CUST984,Male,56,Clothing,1,500,500,S005,Atlanta,Medium,Flagship
+992,8/21/2024,CUST992,Female,57,Electronics,2,30,60,S005,Atlanta,Medium,Flagship
+3,1/13/2024,CUST003,Male,50,Electronics,1,30,30,S009,Oregon,Small,Outlet
+14,1/17/2024,CUST014,Male,64,Clothing,4,30,120,S009,Oregon,Small,Outlet
+15,1/16/2024,CUST015,Female,42,Electronics,4,500,2000,S009,Oregon,Small,Outlet
+18,4/30/2024,CUST018,Female,47,Electronics,2,25,50,S009,Oregon,Small,Outlet
+22,10/15/2024,CUST022,Male,18,Clothing,2,50,100,S009,Oregon,Small,Outlet
+29,8/18/2024,CUST029,Female,42,Electronics,1,30,30,S009,Oregon,Small,Outlet
+37,5/23/2024,CUST037,Female,18,Beauty,3,25,75,S009,Oregon,Small,Outlet
+41,2/22/2024,CUST041,Male,34,Clothing,2,25,50,S009,Oregon,Small,Outlet
+48,5/16/2024,CUST048,Male,54,Electronics,3,300,900,S009,Oregon,Small,Outlet
+61,4/9/2024,CUST061,Male,21,Beauty,4,50,200,S009,Oregon,Small,Outlet
+75,7/6/2024,CUST075,Male,61,Beauty,4,50,200,S009,Oregon,Small,Outlet
+114,7/22/2024,CUST114,Female,22,Beauty,4,25,100,S009,Oregon,Small,Outlet
+124,10/27/2024,CUST124,Male,33,Clothing,4,500,2000,S009,Oregon,Small,Outlet
+138,3/23/2024,CUST138,Male,49,Clothing,4,50,200,S009,Oregon,Small,Outlet
+147,9/28/2024,CUST147,Male,23,Electronics,1,300,300,S009,Oregon,Small,Outlet
+158,2/27/2024,CUST158,Female,44,Electronics,2,300,600,S009,Oregon,Small,Outlet
+167,9/17/2024,CUST167,Female,43,Clothing,3,50,150,S009,Oregon,Small,Outlet
+175,3/20/2024,CUST175,Female,31,Electronics,4,25,100,S009,Oregon,Small,Outlet
+185,2/27/2024,CUST185,Male,24,Clothing,1,25,25,S009,Oregon,Small,Outlet
+196,9/30/2024,CUST196,Female,32,Clothing,3,300,900,S009,Oregon,Small,Outlet
+228,4/28/2024,CUST228,Female,59,Electronics,2,30,60,S009,Oregon,Small,Outlet
+251,8/31/2024,CUST251,Female,57,Beauty,4,50,200,S009,Oregon,Small,Outlet
+255,4/8/2024,CUST255,Male,48,Clothing,1,30,30,S009,Oregon,Small,Outlet
+258,12/4/2024,CUST258,Female,37,Clothing,1,50,50,S009,Oregon,Small,Outlet
+263,8/28/2024,CUST263,Male,23,Beauty,2,30,60,S009,Oregon,Small,Outlet
+281,5/23/2024,CUST281,Female,29,Beauty,4,500,2000,S009,Oregon,Small,Outlet
+286,10/9/2024,CUST286,Male,55,Electronics,2,25,50,S009,Oregon,Small,Outlet
+287,2/20/2024,CUST287,Male,54,Clothing,4,25,100,S009,Oregon,Small,Outlet
+289,11/30/2024,CUST289,Male,53,Electronics,2,30,60,S009,Oregon,Small,Outlet
+317,1/30/2024,CUST317,Male,22,Electronics,3,30,90,S009,Oregon,Small,Outlet
+319,10/5/2024,CUST319,Male,31,Clothing,1,500,500,S009,Oregon,Small,Outlet
+323,1/26/2024,CUST323,Female,29,Beauty,3,300,900,S009,Oregon,Small,Outlet
+339,3/3/2024,CUST339,Female,22,Electronics,2,25,50,S009,Oregon,Small,Outlet
+340,10/19/2024,CUST340,Female,36,Clothing,4,300,1200,S009,Oregon,Small,Outlet
+362,11/27/2024,CUST362,Male,50,Clothing,1,25,25,S009,Oregon,Small,Outlet
+367,1/5/2024,CUST367,Female,57,Electronics,1,50,50,S009,Oregon,Small,Outlet
+384,8/13/2024,CUST384,Male,55,Clothing,1,500,500,S009,Oregon,Small,Outlet
+387,6/4/2024,CUST387,Male,44,Beauty,1,30,30,S009,Oregon,Small,Outlet
+408,4/15/2024,CUST408,Female,64,Beauty,1,500,500,S009,Oregon,Small,Outlet
+422,6/20/2024,CUST422,Female,28,Clothing,3,30,90,S009,Oregon,Small,Outlet
+435,12/20/2024,CUST435,Female,30,Beauty,3,300,900,S009,Oregon,Small,Outlet
+443,8/9/2024,CUST443,Male,29,Clothing,2,300,600,S009,Oregon,Small,Outlet
+456,10/14/2024,CUST456,Male,57,Electronics,2,30,60,S009,Oregon,Small,Outlet
+476,8/29/2024,CUST476,Female,27,Clothing,4,500,2000,S009,Oregon,Small,Outlet
+477,4/24/2024,CUST477,Male,43,Clothing,4,30,120,S009,Oregon,Small,Outlet
+488,6/18/2024,CUST488,Female,51,Electronics,3,300,900,S009,Oregon,Small,Outlet
+492,6/29/2024,CUST492,Male,61,Beauty,4,25,100,S009,Oregon,Small,Outlet
+506,2/25/2024,CUST506,Male,34,Beauty,3,500,1500,S009,Oregon,Small,Outlet
+537,6/3/2024,CUST537,Female,21,Beauty,1,500,500,S009,Oregon,Small,Outlet
+543,7/26/2024,CUST543,Male,49,Beauty,2,300,600,S009,Oregon,Small,Outlet
+557,7/27/2024,CUST557,Female,20,Beauty,3,30,90,S009,Oregon,Small,Outlet
+560,6/5/2024,CUST560,Female,25,Electronics,1,50,50,S009,Oregon,Small,Outlet
+564,10/24/2024,CUST564,Male,50,Electronics,2,50,100,S009,Oregon,Small,Outlet
+590,3/17/2024,CUST590,Male,36,Clothing,3,300,900,S009,Oregon,Small,Outlet
+592,1/24/2024,CUST592,Female,46,Beauty,4,500,2000,S009,Oregon,Small,Outlet
+594,9/1/2024,CUST594,Female,19,Electronics,2,300,600,S009,Oregon,Small,Outlet
+607,3/17/2024,CUST607,Male,54,Clothing,3,25,75,S009,Oregon,Small,Outlet
+620,5/8/2024,CUST620,Male,63,Electronics,3,25,75,S009,Oregon,Small,Outlet
+631,11/10/2024,CUST631,Male,56,Electronics,3,30,90,S009,Oregon,Small,Outlet
+643,9/24/2024,CUST643,Female,28,Electronics,3,30,90,S009,Oregon,Small,Outlet
+645,11/17/2024,CUST645,Female,35,Electronics,4,30,120,S009,Oregon,Small,Outlet
+649,2/9/2024,CUST649,Female,58,Clothing,2,300,600,S009,Oregon,Small,Outlet
+652,5/1/2024,CUST652,Female,34,Beauty,2,50,100,S009,Oregon,Small,Outlet
+661,7/16/2024,CUST661,Female,44,Clothing,4,25,100,S009,Oregon,Small,Outlet
+663,3/20/2024,CUST663,Male,23,Clothing,4,300,1200,S009,Oregon,Small,Outlet
+675,8/4/2024,CUST675,Female,45,Clothing,2,30,60,S009,Oregon,Small,Outlet
+679,1/11/2024,CUST679,Female,18,Beauty,3,30,90,S009,Oregon,Small,Outlet
+731,5/10/2024,CUST731,Male,54,Clothing,4,500,2000,S009,Oregon,Small,Outlet
+750,3/6/2024,CUST750,Female,35,Clothing,3,25,75,S009,Oregon,Small,Outlet
+752,12/9/2024,CUST752,Male,29,Clothing,2,50,100,S009,Oregon,Small,Outlet
+773,7/23/2024,CUST773,Male,25,Electronics,4,500,2000,S009,Oregon,Small,Outlet
+793,2/5/2024,CUST793,Male,54,Beauty,1,30,30,S009,Oregon,Small,Outlet
+798,8/4/2024,CUST798,Male,61,Clothing,1,50,50,S009,Oregon,Small,Outlet
+829,7/14/2024,CUST829,Male,61,Beauty,3,30,90,S009,Oregon,Small,Outlet
+851,9/8/2024,CUST851,Male,32,Electronics,2,25,50,S009,Oregon,Small,Outlet
+858,9/9/2024,CUST858,Male,23,Electronics,2,50,100,S009,Oregon,Small,Outlet
+877,6/19/2024,CUST877,Female,58,Clothing,1,25,25,S009,Oregon,Small,Outlet
+902,6/1/2024,CUST902,Female,54,Beauty,1,50,50,S009,Oregon,Small,Outlet
+907,1/8/2024,CUST907,Female,45,Electronics,1,25,25,S009,Oregon,Small,Outlet
+923,5/26/2024,CUST923,Male,32,Beauty,3,300,900,S009,Oregon,Small,Outlet
+928,4/5/2024,CUST928,Female,35,Clothing,4,300,1200,S009,Oregon,Small,Outlet
+939,12/18/2024,CUST939,Female,46,Electronics,1,300,300,S009,Oregon,Small,Outlet
+948,10/13/2024,CUST948,Female,23,Electronics,3,25,75,S009,Oregon,Small,Outlet
+957,8/15/2024,CUST957,Female,60,Electronics,4,30,120,S009,Oregon,Small,Outlet
+958,6/2/2024,CUST958,Male,62,Electronics,2,25,50,S009,Oregon,Small,Outlet
+959,10/29/2024,CUST959,Female,42,Electronics,2,30,60,S009,Oregon,Small,Outlet
+965,11/9/2024,CUST965,Male,22,Clothing,4,50,200,S009,Oregon,Small,Outlet
+985,5/30/2024,CUST985,Female,19,Electronics,2,25,50,S009,Oregon,Small,Outlet
+996,5/16/2024,CUST996,Male,62,Clothing,1,50,50,S009,Oregon,Small,Outlet
+4,5/21/2024,CUST004,Male,37,Clothing,1,500,500,S003,Chicago,Small,Online
+13,8/5/2024,CUST013,Male,22,Electronics,3,500,1500,S003,Chicago,Small,Online
+26,10/7/2024,CUST026,Female,28,Electronics,2,500,1000,S003,Chicago,Small,Online
+42,2/17/2024,CUST042,Male,22,Clothing,3,300,900,S003,Chicago,Small,Online
+54,2/10/2024,CUST054,Female,38,Electronics,3,500,1500,S003,Chicago,Small,Online
+55,10/10/2024,CUST055,Male,31,Beauty,4,30,120,S003,Chicago,Small,Online
+76,3/25/2024,CUST076,Female,22,Electronics,2,50,100,S003,Chicago,Small,Online
+92,8/25/2024,CUST092,Female,51,Electronics,4,30,120,S003,Chicago,Small,Online
+94,5/19/2024,CUST094,Female,47,Beauty,2,500,1000,S003,Chicago,Small,Online
+105,7/25/2024,CUST105,Female,22,Electronics,1,500,500,S003,Chicago,Small,Online
+113,9/13/2024,CUST113,Female,41,Electronics,2,25,50,S003,Chicago,Small,Online
+126,10/26/2024,CUST126,Female,28,Clothing,3,30,90,S003,Chicago,Small,Online
+127,7/24/2024,CUST127,Female,33,Clothing,2,25,50,S003,Chicago,Small,Online
+142,2/2/2024,CUST142,Male,35,Electronics,4,300,1200,S003,Chicago,Small,Online
+153,12/16/2024,CUST153,Male,63,Electronics,2,500,1000,S003,Chicago,Small,Online
+154,10/2/2024,CUST154,Male,51,Electronics,3,300,900,S003,Chicago,Small,Online
+159,5/31/2024,CUST159,Male,26,Clothing,4,50,200,S003,Chicago,Small,Online
+164,5/15/2024,CUST164,Female,47,Beauty,3,500,1500,S003,Chicago,Small,Online
+169,11/17/2024,CUST169,Male,18,Beauty,3,500,1500,S003,Chicago,Small,Online
+199,12/4/2024,CUST199,Male,45,Beauty,3,500,1500,S003,Chicago,Small,Online
+205,11/7/2024,CUST205,Female,43,Clothing,1,25,25,S003,Chicago,Small,Online
+212,6/9/2024,CUST212,Male,21,Clothing,3,500,1500,S003,Chicago,Small,Online
+218,9/22/2024,CUST218,Male,64,Beauty,3,30,90,S003,Chicago,Small,Online
+229,10/29/2024,CUST229,Male,58,Beauty,3,30,90,S003,Chicago,Small,Online
+234,11/20/2024,CUST234,Female,62,Electronics,2,25,50,S003,Chicago,Small,Online
+254,7/28/2024,CUST254,Male,41,Electronics,1,500,500,S003,Chicago,Small,Online
+262,7/30/2024,CUST262,Female,32,Beauty,4,30,120,S003,Chicago,Small,Online
+277,8/18/2024,CUST277,Male,36,Clothing,4,25,100,S003,Chicago,Small,Online
+310,10/12/2024,CUST310,Female,28,Beauty,1,25,25,S003,Chicago,Small,Online
+314,4/8/2024,CUST314,Male,52,Clothing,4,30,120,S003,Chicago,Small,Online
+318,10/24/2024,CUST318,Male,61,Clothing,1,25,25,S003,Chicago,Small,Online
+321,6/10/2024,CUST321,Female,26,Electronics,2,25,50,S003,Chicago,Small,Online
+336,12/12/2024,CUST336,Female,52,Beauty,3,50,150,S003,Chicago,Small,Online
+348,12/3/2024,CUST348,Female,35,Electronics,2,300,600,S003,Chicago,Small,Online
+357,5/3/2024,CUST357,Female,40,Electronics,3,25,75,S003,Chicago,Small,Online
+360,3/9/2024,CUST360,Male,42,Clothing,4,25,100,S003,Chicago,Small,Online
+369,11/15/2024,CUST369,Male,23,Electronics,3,500,1500,S003,Chicago,Small,Online
+370,10/16/2024,CUST370,Male,23,Electronics,2,30,60,S003,Chicago,Small,Online
+371,2/21/2024,CUST371,Female,20,Beauty,1,25,25,S003,Chicago,Small,Online
+372,2/7/2024,CUST372,Female,24,Beauty,3,500,1500,S003,Chicago,Small,Online
+382,5/26/2024,CUST382,Female,53,Clothing,2,500,1000,S003,Chicago,Small,Online
+383,3/22/2024,CUST383,Female,46,Beauty,3,30,90,S003,Chicago,Small,Online
+389,12/1/2024,CUST389,Male,21,Clothing,2,25,50,S003,Chicago,Small,Online
+391,1/5/2024,CUST391,Male,19,Beauty,2,25,50,S003,Chicago,Small,Online
+399,3/1/2024,CUST399,Female,64,Beauty,2,30,60,S003,Chicago,Small,Online
+405,11/6/2024,CUST405,Female,25,Clothing,4,300,1200,S003,Chicago,Small,Online
+416,2/17/2024,CUST416,Male,53,Electronics,4,500,2000,S003,Chicago,Small,Online
+419,5/22/2024,CUST419,Female,44,Clothing,3,30,90,S003,Chicago,Small,Online
+430,8/7/2024,CUST430,Female,43,Electronics,3,300,900,S003,Chicago,Small,Online
+431,10/15/2024,CUST431,Male,63,Electronics,4,300,1200,S003,Chicago,Small,Online
+433,2/27/2024,CUST433,Male,29,Beauty,4,50,200,S003,Chicago,Small,Online
+434,2/8/2024,CUST434,Female,43,Electronics,2,25,50,S003,Chicago,Small,Online
+437,10/7/2024,CUST437,Female,35,Electronics,4,300,1200,S003,Chicago,Small,Online
+449,7/3/2024,CUST449,Male,25,Electronics,4,50,200,S003,Chicago,Small,Online
+453,12/8/2024,CUST453,Female,26,Clothing,2,500,1000,S003,Chicago,Small,Online
+461,3/25/2024,CUST461,Female,18,Beauty,2,500,1000,S003,Chicago,Small,Online
+471,3/23/2024,CUST471,Male,32,Clothing,3,50,150,S003,Chicago,Small,Online
+472,12/26/2024,CUST472,Female,38,Beauty,3,300,900,S003,Chicago,Small,Online
+483,4/25/2024,CUST483,Male,55,Clothing,1,30,30,S003,Chicago,Small,Online
+504,5/16/2024,CUST504,Female,38,Beauty,3,50,150,S003,Chicago,Small,Online
+507,11/2/2024,CUST507,Female,37,Electronics,3,500,1500,S003,Chicago,Small,Online
+508,8/11/2024,CUST508,Male,58,Beauty,2,300,600,S003,Chicago,Small,Online
+509,6/26/2024,CUST509,Female,37,Electronics,3,300,900,S003,Chicago,Small,Online
+510,6/10/2024,CUST510,Female,39,Beauty,4,50,200,S003,Chicago,Small,Online
+511,8/12/2024,CUST511,Male,45,Beauty,2,50,100,S003,Chicago,Small,Online
+514,3/1/2024,CUST514,Female,18,Electronics,1,300,300,S003,Chicago,Small,Online
+516,10/23/2024,CUST516,Male,30,Beauty,4,25,100,S003,Chicago,Small,Online
+533,11/16/2024,CUST533,Male,19,Electronics,3,500,1500,S003,Chicago,Small,Online
+554,11/12/2024,CUST554,Female,46,Beauty,3,50,150,S003,Chicago,Small,Online
+556,6/4/2024,CUST556,Female,18,Electronics,1,50,50,S003,Chicago,Small,Online
+574,8/31/2024,CUST574,Female,63,Electronics,2,25,50,S003,Chicago,Small,Online
+578,5/26/2024,CUST578,Female,54,Clothing,4,30,120,S003,Chicago,Small,Online
+588,4/26/2024,CUST588,Male,38,Electronics,2,30,60,S003,Chicago,Small,Online
+593,5/6/2024,CUST593,Male,35,Electronics,2,30,60,S003,Chicago,Small,Online
+600,10/22/2024,CUST600,Female,59,Beauty,2,500,1000,S003,Chicago,Small,Online
+603,7/16/2024,CUST603,Female,40,Clothing,3,30,90,S003,Chicago,Small,Online
+608,12/2/2024,CUST608,Female,55,Electronics,3,500,1500,S003,Chicago,Small,Online
+619,10/13/2024,CUST619,Male,47,Electronics,4,25,100,S003,Chicago,Small,Online
+621,3/4/2024,CUST621,Female,40,Beauty,2,500,1000,S003,Chicago,Small,Online
+638,8/19/2024,CUST638,Male,46,Electronics,1,500,500,S003,Chicago,Small,Online
+640,5/7/2024,CUST640,Female,51,Electronics,4,30,120,S003,Chicago,Small,Online
+641,11/23/2024,CUST641,Female,40,Electronics,1,300,300,S003,Chicago,Small,Online
+655,6/13/2024,CUST655,Female,55,Clothing,1,500,500,S003,Chicago,Small,Online
+677,10/27/2024,CUST677,Female,19,Beauty,3,500,1500,S003,Chicago,Small,Online
+690,11/5/2024,CUST690,Female,52,Clothing,3,300,900,S003,Chicago,Small,Online
+693,4/23/2024,CUST693,Male,41,Beauty,3,500,1500,S003,Chicago,Small,Online
+697,1/15/2024,CUST697,Male,53,Clothing,1,500,500,S003,Chicago,Small,Online
+698,7/19/2024,CUST698,Female,64,Electronics,1,300,300,S003,Chicago,Small,Online
+700,12/9/2024,CUST700,Male,36,Electronics,4,500,2000,S003,Chicago,Small,Online
+702,7/27/2024,CUST702,Female,60,Clothing,2,300,600,S003,Chicago,Small,Online
+703,3/26/2024,CUST703,Male,34,Electronics,2,50,100,S003,Chicago,Small,Online
+714,2/12/2024,CUST714,Female,18,Clothing,1,500,500,S003,Chicago,Small,Online
+717,3/11/2024,CUST717,Male,57,Clothing,1,500,500,S003,Chicago,Small,Online
+721,5/14/2024,CUST721,Female,52,Clothing,1,500,500,S003,Chicago,Small,Online
+735,10/4/2024,CUST735,Female,64,Clothing,4,500,2000,S003,Chicago,Small,Online
+742,1/21/2024,CUST742,Female,38,Electronics,4,500,2000,S003,Chicago,Small,Online
+756,8/27/2024,CUST756,Female,62,Electronics,4,300,1200,S003,Chicago,Small,Online
+764,3/25/2024,CUST764,Female,40,Clothing,1,25,25,S003,Chicago,Small,Online
+772,7/12/2024,CUST772,Male,26,Electronics,1,30,30,S003,Chicago,Small,Online
+782,6/4/2024,CUST782,Male,59,Clothing,3,300,900,S003,Chicago,Small,Online
+789,9/30/2024,CUST789,Female,61,Clothing,4,500,2000,S003,Chicago,Small,Online
+813,10/3/2024,CUST813,Male,52,Electronics,3,50,150,S003,Chicago,Small,Online
+817,10/31/2024,CUST817,Male,30,Beauty,4,50,200,S003,Chicago,Small,Online
+825,8/26/2024,CUST825,Female,46,Beauty,1,25,25,S003,Chicago,Small,Online
+833,6/16/2024,CUST833,Male,42,Beauty,4,50,200,S003,Chicago,Small,Online
+838,5/13/2024,CUST838,Male,47,Electronics,2,300,600,S003,Chicago,Small,Online
+840,5/24/2024,CUST840,Male,62,Clothing,2,25,50,S003,Chicago,Small,Online
+848,2/13/2024,CUST848,Female,63,Clothing,3,25,75,S003,Chicago,Small,Online
+853,5/4/2024,CUST853,Male,21,Beauty,2,500,1000,S003,Chicago,Small,Online
+863,4/24/2024,CUST863,Female,30,Electronics,2,25,50,S003,Chicago,Small,Online
+864,7/27/2024,CUST864,Female,51,Electronics,1,500,500,S003,Chicago,Small,Online
+880,8/21/2024,CUST880,Male,22,Beauty,2,500,1000,S003,Chicago,Small,Online
+895,5/22/2024,CUST895,Female,55,Clothing,4,30,120,S003,Chicago,Small,Online
+900,2/21/2024,CUST900,Male,21,Clothing,2,30,60,S003,Chicago,Small,Online
+911,5/21/2024,CUST911,Male,42,Electronics,3,300,900,S003,Chicago,Small,Online
+913,1/28/2024,CUST913,Male,29,Electronics,3,30,90,S003,Chicago,Small,Online
+916,12/24/2024,CUST916,Female,32,Electronics,1,50,50,S003,Chicago,Small,Online
+917,3/6/2024,CUST917,Female,57,Electronics,4,50,200,S003,Chicago,Small,Online
+944,6/5/2024,CUST944,Male,44,Clothing,2,25,50,S003,Chicago,Small,Online
+954,9/25/2024,CUST954,Female,50,Electronics,3,300,900,S003,Chicago,Small,Online
+974,5/3/2024,CUST974,Male,47,Beauty,1,30,30,S003,Chicago,Small,Online
+9,12/13/2024,CUST009,Male,63,Electronics,2,300,600,S008,San Diego,Large,Flagship
+38,3/21/2024,CUST038,Male,38,Beauty,4,50,200,S008,San Diego,Large,Flagship
+45,7/3/2024,CUST045,Female,55,Electronics,1,30,30,S008,San Diego,Large,Flagship
+46,6/26/2024,CUST046,Female,20,Electronics,4,300,1200,S008,San Diego,Large,Flagship
+47,11/6/2024,CUST047,Female,40,Beauty,3,500,1500,S008,San Diego,Large,Flagship
+50,8/24/2024,CUST050,Female,27,Beauty,3,25,75,S008,San Diego,Large,Flagship
+53,7/13/2024,CUST053,Male,34,Electronics,2,50,100,S008,San Diego,Large,Flagship
+68,2/10/2024,CUST068,Male,25,Electronics,1,300,300,S008,San Diego,Large,Flagship
+88,3/29/2024,CUST088,Male,56,Clothing,1,500,500,S008,San Diego,Large,Flagship
+90,5/6/2024,CUST090,Female,51,Electronics,1,30,30,S008,San Diego,Large,Flagship
+106,5/18/2024,CUST106,Female,46,Clothing,1,50,50,S008,San Diego,Large,Flagship
+108,4/19/2024,CUST108,Female,27,Beauty,3,25,75,S008,San Diego,Large,Flagship
+115,11/26/2024,CUST115,Male,51,Clothing,3,500,1500,S008,San Diego,Large,Flagship
+119,3/13/2024,CUST119,Female,60,Clothing,3,50,150,S008,San Diego,Large,Flagship
+122,10/3/2024,CUST122,Male,64,Electronics,4,30,120,S008,San Diego,Large,Flagship
+125,8/8/2024,CUST125,Male,48,Clothing,2,50,100,S008,San Diego,Large,Flagship
+128,7/5/2024,CUST128,Male,25,Beauty,1,500,500,S008,San Diego,Large,Flagship
+136,3/20/2024,CUST136,Male,44,Electronics,2,300,600,S008,San Diego,Large,Flagship
+139,12/15/2024,CUST139,Male,36,Beauty,4,500,2000,S008,San Diego,Large,Flagship
+140,8/5/2024,CUST140,Male,38,Electronics,1,30,30,S008,San Diego,Large,Flagship
+165,9/14/2024,CUST165,Female,60,Clothing,4,300,1200,S008,San Diego,Large,Flagship
+166,4/2/2024,CUST166,Male,34,Clothing,4,500,2000,S008,San Diego,Large,Flagship
+172,9/17/2024,CUST172,Male,32,Beauty,2,25,50,S008,San Diego,Large,Flagship
+173,11/8/2024,CUST173,Male,64,Electronics,4,30,120,S008,San Diego,Large,Flagship
+174,4/12/2024,CUST174,Female,39,Beauty,1,300,300,S008,San Diego,Large,Flagship
+186,7/5/2024,CUST186,Male,20,Clothing,4,50,200,S008,San Diego,Large,Flagship
+191,10/18/2024,CUST191,Male,64,Beauty,1,25,25,S008,San Diego,Large,Flagship
+198,3/7/2024,CUST198,Female,54,Beauty,3,300,900,S008,San Diego,Large,Flagship
+203,5/16/2024,CUST203,Male,56,Clothing,2,500,1000,S008,San Diego,Large,Flagship
+206,8/5/2024,CUST206,Male,61,Clothing,1,25,25,S008,San Diego,Large,Flagship
+220,3/3/2024,CUST220,Male,64,Beauty,1,500,500,S008,San Diego,Large,Flagship
+222,4/26/2024,CUST222,Male,51,Clothing,4,30,120,S008,San Diego,Large,Flagship
+230,4/23/2024,CUST230,Male,54,Beauty,1,25,25,S008,San Diego,Large,Flagship
+246,4/20/2024,CUST246,Female,48,Electronics,2,25,50,S008,San Diego,Large,Flagship
+249,10/20/2024,CUST249,Male,20,Clothing,1,50,50,S008,San Diego,Large,Flagship
+260,7/1/2024,CUST260,Male,28,Beauty,2,30,60,S008,San Diego,Large,Flagship
+280,4/4/2024,CUST280,Female,37,Clothing,3,500,1500,S008,San Diego,Large,Flagship
+295,7/28/2024,CUST295,Female,27,Beauty,3,300,900,S008,San Diego,Large,Flagship
+299,7/25/2024,CUST299,Male,61,Electronics,2,500,1000,S008,San Diego,Large,Flagship
+302,7/14/2024,CUST302,Male,57,Beauty,2,300,600,S008,San Diego,Large,Flagship
+306,8/21/2024,CUST306,Male,54,Electronics,1,50,50,S008,San Diego,Large,Flagship
+313,3/21/2024,CUST313,Female,55,Beauty,3,500,1500,S008,San Diego,Large,Flagship
+326,9/15/2024,CUST326,Female,18,Clothing,3,25,75,S008,San Diego,Large,Flagship
+328,3/22/2024,CUST328,Male,39,Beauty,2,50,100,S008,San Diego,Large,Flagship
+338,7/26/2024,CUST338,Male,54,Beauty,2,50,100,S008,San Diego,Large,Flagship
+353,5/14/2024,CUST353,Male,31,Electronics,1,500,500,S008,San Diego,Large,Flagship
+356,6/10/2024,CUST356,Male,50,Electronics,3,500,1500,S008,San Diego,Large,Flagship
+397,3/10/2024,CUST397,Female,30,Beauty,1,25,25,S008,San Diego,Large,Flagship
+429,12/28/2024,CUST429,Male,64,Electronics,2,25,50,S008,San Diego,Large,Flagship
+446,6/7/2024,CUST446,Male,21,Electronics,1,50,50,S008,San Diego,Large,Flagship
+490,2/5/2024,CUST490,Male,34,Clothing,3,50,150,S008,San Diego,Large,Flagship
+496,12/14/2024,CUST496,Male,23,Clothing,2,300,600,S008,San Diego,Large,Flagship
+512,11/7/2024,CUST512,Female,57,Beauty,1,25,25,S008,San Diego,Large,Flagship
+513,9/19/2024,CUST513,Male,24,Electronics,4,25,100,S008,San Diego,Large,Flagship
+527,4/11/2024,CUST527,Male,57,Clothing,2,25,50,S008,San Diego,Large,Flagship
+531,12/7/2024,CUST531,Male,31,Electronics,1,500,500,S008,San Diego,Large,Flagship
+544,12/23/2024,CUST544,Female,27,Electronics,1,25,25,S008,San Diego,Large,Flagship
+550,12/7/2024,CUST550,Male,40,Clothing,3,300,900,S008,San Diego,Large,Flagship
+567,6/14/2024,CUST567,Female,25,Clothing,3,300,900,S008,San Diego,Large,Flagship
+569,8/15/2024,CUST569,Male,52,Electronics,4,50,200,S008,San Diego,Large,Flagship
+570,8/15/2024,CUST570,Male,49,Clothing,1,500,500,S008,San Diego,Large,Flagship
+571,12/12/2024,CUST571,Female,41,Electronics,1,50,50,S008,San Diego,Large,Flagship
+572,4/20/2024,CUST572,Male,31,Clothing,4,500,2000,S008,San Diego,Large,Flagship
+596,2/7/2024,CUST596,Female,64,Electronics,1,300,300,S008,San Diego,Large,Flagship
+605,7/24/2024,CUST605,Male,37,Electronics,2,500,1000,S008,San Diego,Large,Flagship
+615,12/23/2024,CUST615,Female,61,Clothing,4,25,100,S008,San Diego,Large,Flagship
+623,3/10/2024,CUST623,Male,34,Clothing,3,50,150,S008,San Diego,Large,Flagship
+625,12/8/2024,CUST625,Male,31,Clothing,1,300,300,S008,San Diego,Large,Flagship
+630,8/15/2024,CUST630,Male,42,Clothing,2,50,100,S008,San Diego,Large,Flagship
+633,8/7/2024,CUST633,Male,39,Beauty,4,30,120,S008,San Diego,Large,Flagship
+644,9/6/2024,CUST644,Male,23,Beauty,3,25,75,S008,San Diego,Large,Flagship
+664,12/28/2024,CUST664,Female,44,Clothing,4,500,2000,S008,San Diego,Large,Flagship
+685,6/2/2024,CUST685,Male,57,Electronics,2,25,50,S008,San Diego,Large,Flagship
+687,8/3/2024,CUST687,Female,53,Electronics,1,300,300,S008,San Diego,Large,Flagship
+691,4/23/2024,CUST691,Female,51,Clothing,3,30,90,S008,San Diego,Large,Flagship
+695,8/12/2024,CUST695,Female,22,Electronics,3,50,150,S008,San Diego,Large,Flagship
+699,6/22/2024,CUST699,Female,37,Clothing,4,30,120,S008,San Diego,Large,Flagship
+701,12/14/2024,CUST701,Female,52,Beauty,2,30,60,S008,San Diego,Large,Flagship
+706,11/15/2024,CUST706,Male,51,Electronics,4,25,100,S008,San Diego,Large,Flagship
+711,10/16/2024,CUST711,Male,26,Electronics,3,500,1500,S008,San Diego,Large,Flagship
+732,2/11/2024,CUST732,Male,61,Electronics,2,500,1000,S008,San Diego,Large,Flagship
+753,2/28/2024,CUST753,Female,32,Clothing,1,30,30,S008,San Diego,Large,Flagship
+766,2/25/2024,CUST766,Male,38,Electronics,3,300,900,S008,San Diego,Large,Flagship
+768,1/14/2024,CUST768,Female,24,Beauty,3,25,75,S008,San Diego,Large,Flagship
+775,2/8/2024,CUST775,Female,46,Electronics,4,25,100,S008,San Diego,Large,Flagship
+777,12/20/2024,CUST777,Male,48,Electronics,3,50,150,S008,San Diego,Large,Flagship
+783,12/17/2024,CUST783,Female,56,Clothing,1,300,300,S008,San Diego,Large,Flagship
+800,2/24/2024,CUST800,Male,32,Clothing,4,300,1200,S008,San Diego,Large,Flagship
+815,8/27/2024,CUST815,Female,51,Clothing,3,25,75,S008,San Diego,Large,Flagship
+818,5/18/2024,CUST818,Male,30,Electronics,1,500,500,S008,San Diego,Large,Flagship
+830,6/22/2024,CUST830,Female,64,Clothing,3,50,150,S008,San Diego,Large,Flagship
+831,1/15/2024,CUST831,Male,27,Electronics,4,25,100,S008,San Diego,Large,Flagship
+837,7/1/2024,CUST837,Male,18,Beauty,3,30,90,S008,San Diego,Large,Flagship
+874,6/26/2024,CUST874,Male,60,Beauty,1,30,30,S008,San Diego,Large,Flagship
+881,5/19/2024,CUST881,Male,22,Electronics,1,300,300,S008,San Diego,Large,Flagship
+884,4/29/2024,CUST884,Female,26,Clothing,2,30,60,S008,San Diego,Large,Flagship
+905,4/2/2024,CUST905,Male,58,Beauty,1,300,300,S008,San Diego,Large,Flagship
+909,10/1/2024,CUST909,Male,26,Electronics,1,300,300,S008,San Diego,Large,Flagship
+934,7/25/2024,CUST934,Male,30,Beauty,1,500,500,S008,San Diego,Large,Flagship
+935,9/9/2024,CUST935,Female,34,Beauty,1,50,50,S008,San Diego,Large,Flagship
+937,10/23/2024,CUST937,Female,62,Beauty,1,500,500,S008,San Diego,Large,Flagship
+941,3/19/2024,CUST941,Female,57,Clothing,2,25,50,S008,San Diego,Large,Flagship
+956,8/19/2024,CUST956,Male,30,Clothing,3,500,1500,S008,San Diego,Large,Flagship
+966,2/20/2024,CUST966,Male,60,Electronics,2,500,1000,S008,San Diego,Large,Flagship
+972,2/11/2024,CUST972,Male,49,Beauty,4,25,100,S008,San Diego,Large,Flagship
+976,10/10/2024,CUST976,Female,48,Beauty,2,300,600,S008,San Diego,Large,Flagship
+979,1/2/2024,CUST979,Female,19,Beauty,1,25,25,S008,San Diego,Large,Flagship
+10,10/7/2024,CUST010,Female,52,Clothing,4,50,200,S007,Colorado,Small,Outlet
+20,11/5/2024,CUST020,Male,22,Clothing,3,300,900,S007,Colorado,Small,Outlet
+23,4/12/2024,CUST023,Female,35,Clothing,4,30,120,S007,Colorado,Small,Outlet
+49,1/23/2024,CUST049,Female,54,Electronics,2,500,1000,S007,Colorado,Small,Outlet
+69,4/30/2024,CUST069,Female,56,Beauty,3,25,75,S007,Colorado,Small,Outlet
+80,12/10/2024,CUST080,Female,64,Clothing,2,30,60,S007,Colorado,Small,Outlet
+83,12/16/2024,CUST083,Male,54,Electronics,2,50,100,S007,Colorado,Small,Outlet
+86,11/8/2024,CUST086,Male,19,Beauty,3,30,90,S007,Colorado,Small,Outlet
+101,1/29/2024,CUST101,Male,32,Clothing,2,300,600,S007,Colorado,Small,Outlet
+102,4/28/2024,CUST102,Female,47,Beauty,2,25,50,S007,Colorado,Small,Outlet
+109,10/18/2024,CUST109,Female,34,Electronics,4,500,2000,S007,Colorado,Small,Outlet
+118,5/16/2024,CUST118,Female,30,Electronics,4,500,2000,S007,Colorado,Small,Outlet
+137,11/18/2024,CUST137,Male,46,Beauty,2,500,1000,S007,Colorado,Small,Outlet
+161,3/22/2024,CUST161,Male,64,Beauty,2,500,1000,S007,Colorado,Small,Outlet
+178,10/4/2024,CUST178,Male,40,Clothing,2,30,60,S007,Colorado,Small,Outlet
+207,4/19/2024,CUST207,Female,42,Beauty,2,25,50,S007,Colorado,Small,Outlet
+210,4/13/2024,CUST210,Male,37,Electronics,4,50,200,S007,Colorado,Small,Outlet
+224,6/23/2024,CUST224,Female,25,Clothing,1,50,50,S007,Colorado,Small,Outlet
+233,12/29/2024,CUST233,Female,51,Beauty,2,300,600,S007,Colorado,Small,Outlet
+240,2/6/2024,CUST240,Female,23,Beauty,1,300,300,S007,Colorado,Small,Outlet
+253,8/31/2024,CUST253,Female,53,Clothing,4,500,2000,S007,Colorado,Small,Outlet
+261,8/5/2024,CUST261,Male,21,Clothing,2,25,50,S007,Colorado,Small,Outlet
+266,12/1/2024,CUST266,Female,19,Electronics,2,30,60,S007,Colorado,Small,Outlet
+272,2/25/2024,CUST272,Female,61,Electronics,2,50,100,S007,Colorado,Small,Outlet
+279,8/5/2024,CUST279,Male,50,Clothing,1,500,500,S007,Colorado,Small,Outlet
+282,8/25/2024,CUST282,Female,64,Electronics,4,50,200,S007,Colorado,Small,Outlet
+285,8/15/2024,CUST285,Female,31,Electronics,1,25,25,S007,Colorado,Small,Outlet
+300,1/31/2024,CUST300,Female,19,Electronics,4,50,200,S007,Colorado,Small,Outlet
+308,8/5/2024,CUST308,Female,34,Beauty,4,300,1200,S007,Colorado,Small,Outlet
+331,2/11/2024,CUST331,Male,28,Electronics,3,30,90,S007,Colorado,Small,Outlet
+335,2/4/2024,CUST335,Female,47,Beauty,4,30,120,S007,Colorado,Small,Outlet
+337,5/1/2024,CUST337,Male,38,Clothing,1,500,500,S007,Colorado,Small,Outlet
+345,11/14/2024,CUST345,Male,62,Electronics,1,30,30,S007,Colorado,Small,Outlet
+351,9/25/2024,CUST351,Female,56,Clothing,3,30,90,S007,Colorado,Small,Outlet
+358,5/16/2024,CUST358,Female,32,Beauty,1,300,300,S007,Colorado,Small,Outlet
+364,8/23/2024,CUST364,Female,19,Beauty,1,500,500,S007,Colorado,Small,Outlet
+368,8/23/2024,CUST368,Female,56,Clothing,4,300,1200,S007,Colorado,Small,Outlet
+379,2/5/2024,CUST379,Female,47,Clothing,1,25,25,S007,Colorado,Small,Outlet
+390,9/28/2024,CUST390,Male,39,Electronics,2,50,100,S007,Colorado,Small,Outlet
+396,2/23/2024,CUST396,Female,55,Beauty,1,30,30,S007,Colorado,Small,Outlet
+418,8/5/2024,CUST418,Female,60,Electronics,2,500,1000,S007,Colorado,Small,Outlet
+421,1/2/2024,CUST421,Female,37,Clothing,3,500,1500,S007,Colorado,Small,Outlet
+428,10/10/2024,CUST428,Female,40,Electronics,4,50,200,S007,Colorado,Small,Outlet
+452,5/8/2024,CUST452,Female,48,Clothing,3,500,1500,S007,Colorado,Small,Outlet
+465,4/2/2024,CUST465,Female,43,Electronics,3,50,150,S007,Colorado,Small,Outlet
+466,6/20/2024,CUST466,Male,63,Electronics,4,25,100,S007,Colorado,Small,Outlet
+487,7/24/2024,CUST487,Male,44,Clothing,4,500,2000,S007,Colorado,Small,Outlet
+495,7/24/2024,CUST495,Male,24,Beauty,2,30,60,S007,Colorado,Small,Outlet
+521,8/12/2024,CUST521,Female,47,Clothing,4,30,120,S007,Colorado,Small,Outlet
+528,7/6/2024,CUST528,Female,36,Clothing,2,30,60,S007,Colorado,Small,Outlet
+535,12/6/2024,CUST535,Male,47,Beauty,3,30,90,S007,Colorado,Small,Outlet
+545,6/1/2024,CUST545,Male,27,Clothing,2,25,50,S007,Colorado,Small,Outlet
+561,5/27/2024,CUST561,Female,64,Clothing,4,500,2000,S007,Colorado,Small,Outlet
+565,11/7/2024,CUST565,Female,45,Beauty,2,30,60,S007,Colorado,Small,Outlet
+566,12/2/2024,CUST566,Female,64,Clothing,1,30,30,S007,Colorado,Small,Outlet
+582,11/14/2024,CUST582,Male,35,Clothing,3,300,900,S007,Colorado,Small,Outlet
+585,5/1/2024,CUST585,Female,24,Clothing,1,25,25,S007,Colorado,Small,Outlet
+601,4/10/2024,CUST601,Male,19,Clothing,1,30,30,S007,Colorado,Small,Outlet
+628,11/1/2024,CUST628,Female,19,Beauty,4,50,200,S007,Colorado,Small,Outlet
+632,9/16/2024,CUST632,Female,26,Electronics,4,25,100,S007,Colorado,Small,Outlet
+648,8/14/2024,CUST648,Male,53,Beauty,4,300,1200,S007,Colorado,Small,Outlet
+659,3/19/2024,CUST659,Female,39,Electronics,1,30,30,S007,Colorado,Small,Outlet
+660,4/29/2024,CUST660,Female,38,Beauty,2,500,1000,S007,Colorado,Small,Outlet
+736,1/27/2024,CUST736,Male,29,Clothing,4,25,100,S007,Colorado,Small,Outlet
+759,7/8/2024,CUST759,Male,49,Electronics,2,50,100,S007,Colorado,Small,Outlet
+760,3/27/2024,CUST760,Male,27,Beauty,1,500,500,S007,Colorado,Small,Outlet
+771,12/13/2024,CUST771,Male,24,Electronics,2,25,50,S007,Colorado,Small,Outlet
+778,11/18/2024,CUST778,Female,47,Beauty,4,25,100,S007,Colorado,Small,Outlet
+781,12/23/2024,CUST781,Male,35,Beauty,1,500,500,S007,Colorado,Small,Outlet
+784,11/4/2024,CUST784,Female,34,Electronics,1,500,500,S007,Colorado,Small,Outlet
+787,1/22/2024,CUST787,Male,41,Electronics,1,25,25,S007,Colorado,Small,Outlet
+820,5/6/2024,CUST820,Male,49,Electronics,4,50,200,S007,Colorado,Small,Outlet
+822,5/23/2024,CUST822,Female,52,Beauty,3,50,150,S007,Colorado,Small,Outlet
+828,12/9/2024,CUST828,Female,33,Electronics,4,300,1200,S007,Colorado,Small,Outlet
+843,5/22/2024,CUST843,Male,21,Beauty,3,500,1500,S007,Colorado,Small,Outlet
+865,12/21/2024,CUST865,Female,42,Clothing,1,300,300,S007,Colorado,Small,Outlet
+886,4/9/2024,CUST886,Male,37,Electronics,3,300,900,S007,Colorado,Small,Outlet
+888,3/3/2024,CUST888,Female,52,Electronics,4,25,100,S007,Colorado,Small,Outlet
+890,12/20/2024,CUST890,Male,34,Electronics,2,25,50,S007,Colorado,Small,Outlet
+910,3/6/2024,CUST910,Female,20,Beauty,3,50,150,S007,Colorado,Small,Outlet
+919,9/9/2024,CUST919,Female,22,Beauty,2,25,50,S007,Colorado,Small,Outlet
+955,7/14/2024,CUST955,Male,58,Clothing,1,25,25,S007,Colorado,Small,Outlet
+986,1/17/2024,CUST986,Female,49,Clothing,2,500,1000,S007,Colorado,Small,Outlet
+991,12/26/2024,CUST991,Female,34,Clothing,2,50,100,S007,Colorado,Small,Outlet
+11,2/14/2024,CUST011,Male,23,Clothing,2,50,100,S002,Los Angeles,Medium,Outlet
+19,9/16/2024,CUST019,Female,62,Clothing,2,25,50,S002,Los Angeles,Medium,Outlet
+25,12/26/2024,CUST025,Female,64,Beauty,1,50,50,S002,Los Angeles,Medium,Outlet
+31,5/23/2024,CUST031,Male,44,Electronics,4,300,1200,S002,Los Angeles,Medium,Outlet
+35,8/5/2024,CUST035,Female,58,Beauty,3,300,900,S002,Los Angeles,Medium,Outlet
+39,4/21/2024,CUST039,Male,23,Clothing,4,30,120,S002,Los Angeles,Medium,Outlet
+67,5/29/2024,CUST067,Female,48,Beauty,4,300,1200,S002,Los Angeles,Medium,Outlet
+81,5/17/2024,CUST081,Male,40,Electronics,1,50,50,S002,Los Angeles,Medium,Outlet
+84,11/28/2024,CUST084,Female,38,Electronics,3,30,90,S002,Los Angeles,Medium,Outlet
+103,1/17/2024,CUST103,Female,59,Clothing,1,25,25,S002,Los Angeles,Medium,Outlet
+110,6/11/2024,CUST110,Male,27,Clothing,3,300,900,S002,Los Angeles,Medium,Outlet
+130,3/12/2024,CUST130,Female,57,Clothing,1,500,500,S002,Los Angeles,Medium,Outlet
+131,9/18/2024,CUST131,Female,21,Beauty,2,300,600,S002,Los Angeles,Medium,Outlet
+141,11/2/2024,CUST141,Female,22,Electronics,1,50,50,S002,Los Angeles,Medium,Outlet
+156,11/25/2024,CUST156,Female,43,Clothing,4,25,100,S002,Los Angeles,Medium,Outlet
+176,7/11/2024,CUST176,Female,43,Beauty,2,50,100,S002,Los Angeles,Medium,Outlet
+183,9/8/2024,CUST183,Female,43,Beauty,3,300,900,S002,Los Angeles,Medium,Outlet
+187,6/7/2024,CUST187,Female,64,Clothing,2,50,100,S002,Los Angeles,Medium,Outlet
+193,2/13/2024,CUST193,Male,35,Beauty,3,500,1500,S002,Los Angeles,Medium,Outlet
+197,3/6/2024,CUST197,Female,42,Clothing,4,50,200,S002,Los Angeles,Medium,Outlet
+204,9/28/2024,CUST204,Male,39,Beauty,1,25,25,S002,Los Angeles,Medium,Outlet
+226,10/29/2024,CUST226,Female,61,Clothing,1,50,50,S002,Los Angeles,Medium,Outlet
+227,10/11/2024,CUST227,Male,36,Electronics,2,50,100,S002,Los Angeles,Medium,Outlet
+236,4/28/2024,CUST236,Female,54,Clothing,1,25,25,S002,Los Angeles,Medium,Outlet
+242,5/2/2024,CUST242,Male,21,Clothing,1,25,25,S002,Los Angeles,Medium,Outlet
+268,2/20/2024,CUST268,Female,28,Electronics,1,30,30,S002,Los Angeles,Medium,Outlet
+296,9/6/2024,CUST296,Female,22,Clothing,4,300,1200,S002,Los Angeles,Medium,Outlet
+301,3/26/2024,CUST301,Male,30,Clothing,4,30,120,S002,Los Angeles,Medium,Outlet
+363,6/3/2024,CUST363,Male,64,Beauty,1,25,25,S002,Los Angeles,Medium,Outlet
+386,12/27/2024,CUST386,Female,54,Electronics,2,300,600,S002,Los Angeles,Medium,Outlet
+406,4/18/2024,CUST406,Female,22,Beauty,4,25,100,S002,Los Angeles,Medium,Outlet
+407,6/25/2024,CUST407,Female,46,Electronics,3,300,900,S002,Los Angeles,Medium,Outlet
+409,12/18/2024,CUST409,Female,21,Electronics,3,300,900,S002,Los Angeles,Medium,Outlet
+410,11/21/2024,CUST410,Female,29,Clothing,2,50,100,S002,Los Angeles,Medium,Outlet
+412,9/16/2024,CUST412,Female,19,Electronics,4,500,2000,S002,Los Angeles,Medium,Outlet
+420,1/23/2024,CUST420,Female,22,Clothing,4,500,2000,S002,Los Angeles,Medium,Outlet
+439,7/9/2024,CUST439,Male,50,Clothing,3,25,75,S002,Los Angeles,Medium,Outlet
+444,3/7/2024,CUST444,Female,61,Clothing,3,30,90,S002,Los Angeles,Medium,Outlet
+447,7/6/2024,CUST447,Male,22,Beauty,4,500,2000,S002,Los Angeles,Medium,Outlet
+450,4/18/2024,CUST450,Female,59,Beauty,2,25,50,S002,Los Angeles,Medium,Outlet
+459,3/21/2024,CUST459,Male,28,Clothing,4,300,1200,S002,Los Angeles,Medium,Outlet
+470,5/17/2024,CUST470,Female,57,Clothing,2,500,1000,S002,Los Angeles,Medium,Outlet
+475,1/20/2024,CUST475,Male,26,Clothing,3,25,75,S002,Los Angeles,Medium,Outlet
+485,12/4/2024,CUST485,Male,24,Electronics,1,30,30,S002,Los Angeles,Medium,Outlet
+497,10/2/2024,CUST497,Male,41,Clothing,4,30,120,S002,Los Angeles,Medium,Outlet
+502,4/2/2024,CUST502,Male,43,Electronics,3,50,150,S002,Los Angeles,Medium,Outlet
+517,4/8/2024,CUST517,Female,47,Clothing,4,25,100,S002,Los Angeles,Medium,Outlet
+530,2/5/2024,CUST530,Female,18,Electronics,4,30,120,S002,Los Angeles,Medium,Outlet
+536,3/5/2024,CUST536,Female,55,Beauty,4,30,120,S002,Los Angeles,Medium,Outlet
+547,3/7/2024,CUST547,Male,63,Clothing,4,500,2000,S002,Los Angeles,Medium,Outlet
+551,7/14/2024,CUST551,Male,45,Electronics,3,300,900,S002,Los Angeles,Medium,Outlet
+553,3/31/2024,CUST553,Male,24,Clothing,4,300,1200,S002,Los Angeles,Medium,Outlet
+613,4/23/2024,CUST613,Female,52,Clothing,3,30,90,S002,Los Angeles,Medium,Outlet
+622,8/22/2024,CUST622,Female,49,Beauty,3,25,75,S002,Los Angeles,Medium,Outlet
+642,5/22/2024,CUST642,Female,54,Clothing,4,25,100,S002,Los Angeles,Medium,Outlet
+650,1/1/2024,CUST650,Male,55,Electronics,1,30,30,S002,Los Angeles,Medium,Outlet
+668,7/28/2024,CUST668,Female,62,Electronics,3,50,150,S002,Los Angeles,Medium,Outlet
+669,6/19/2024,CUST669,Male,24,Beauty,4,300,1200,S002,Los Angeles,Medium,Outlet
+676,7/19/2024,CUST676,Male,63,Electronics,3,500,1500,S002,Los Angeles,Medium,Outlet
+681,7/14/2024,CUST681,Female,43,Electronics,2,30,60,S002,Los Angeles,Medium,Outlet
+686,7/19/2024,CUST686,Female,28,Electronics,4,50,200,S002,Los Angeles,Medium,Outlet
+707,10/1/2024,CUST707,Female,26,Clothing,1,500,500,S002,Los Angeles,Medium,Outlet
+720,1/26/2024,CUST720,Female,56,Beauty,3,500,1500,S002,Los Angeles,Medium,Outlet
+725,8/21/2024,CUST725,Male,61,Electronics,1,300,300,S002,Los Angeles,Medium,Outlet
+726,6/17/2024,CUST726,Male,47,Clothing,4,300,1200,S002,Los Angeles,Medium,Outlet
+734,1/10/2024,CUST734,Female,27,Clothing,1,30,30,S002,Los Angeles,Medium,Outlet
+737,6/29/2024,CUST737,Female,33,Clothing,1,50,50,S002,Los Angeles,Medium,Outlet
+748,3/20/2024,CUST748,Male,25,Clothing,3,50,150,S002,Los Angeles,Medium,Outlet
+754,10/16/2024,CUST754,Female,43,Electronics,4,25,100,S002,Los Angeles,Medium,Outlet
+757,12/25/2024,CUST757,Female,43,Electronics,4,300,1200,S002,Los Angeles,Medium,Outlet
+774,4/12/2024,CUST774,Female,40,Clothing,2,25,50,S002,Los Angeles,Medium,Outlet
+788,6/27/2024,CUST788,Female,52,Beauty,3,300,900,S002,Los Angeles,Medium,Outlet
+790,8/8/2024,CUST790,Male,62,Clothing,1,25,25,S002,Los Angeles,Medium,Outlet
+803,11/22/2024,CUST803,Male,39,Clothing,4,25,100,S002,Los Angeles,Medium,Outlet
+807,8/11/2024,CUST807,Female,50,Electronics,4,50,200,S002,Los Angeles,Medium,Outlet
+823,8/19/2024,CUST823,Female,56,Electronics,2,50,100,S002,Los Angeles,Medium,Outlet
+846,9/22/2024,CUST846,Male,42,Beauty,1,50,50,S002,Los Angeles,Medium,Outlet
+870,7/8/2024,CUST870,Female,46,Electronics,4,30,120,S002,Los Angeles,Medium,Outlet
+873,9/29/2024,CUST873,Female,27,Electronics,4,25,100,S002,Los Angeles,Medium,Outlet
+876,10/9/2024,CUST876,Male,43,Clothing,4,30,120,S002,Los Angeles,Medium,Outlet
+882,6/6/2024,CUST882,Female,64,Electronics,2,25,50,S002,Los Angeles,Medium,Outlet
+896,10/29/2024,CUST896,Female,30,Electronics,2,25,50,S002,Los Angeles,Medium,Outlet
+908,12/29/2024,CUST908,Male,46,Beauty,4,300,1200,S002,Los Angeles,Medium,Outlet
+918,11/23/2024,CUST918,Female,42,Electronics,3,30,90,S002,Los Angeles,Medium,Outlet
+945,2/13/2024,CUST945,Male,30,Beauty,1,25,25,S002,Los Angeles,Medium,Outlet
+967,4/17/2024,CUST967,Male,62,Beauty,1,25,25,S002,Los Angeles,Medium,Outlet
+973,3/22/2024,CUST973,Male,60,Clothing,1,50,50,S002,Los Angeles,Medium,Outlet
+989,12/28/2024,CUST989,Female,44,Electronics,1,25,25,S002,Los Angeles,Medium,Outlet
+12,10/30/2024,CUST012,Male,35,Beauty,3,25,75,S001,New York,Large,Flagship
+28,4/23/2024,CUST028,Female,43,Beauty,1,500,500,S001,New York,Large,Flagship
+33,3/23/2024,CUST033,Female,50,Electronics,2,50,100,S001,New York,Large,Flagship
+51,10/2/2024,CUST051,Male,27,Beauty,3,25,75,S001,New York,Large,Flagship
+62,12/27/2024,CUST062,Male,18,Beauty,2,50,100,S001,New York,Large,Flagship
+66,4/27/2024,CUST066,Female,45,Electronics,1,30,30,S001,New York,Large,Flagship
+71,7/14/2024,CUST071,Female,51,Beauty,4,25,100,S001,New York,Large,Flagship
+72,5/23/2024,CUST072,Female,20,Electronics,4,500,2000,S001,New York,Large,Flagship
+79,4/18/2024,CUST079,Male,34,Beauty,1,300,300,S001,New York,Large,Flagship
+82,12/26/2024,CUST082,Female,32,Beauty,4,50,200,S001,New York,Large,Flagship
+111,4/19/2024,CUST111,Female,34,Electronics,3,500,1500,S001,New York,Large,Flagship
+116,8/23/2024,CUST116,Female,23,Clothing,1,30,30,S001,New York,Large,Flagship
+123,5/15/2024,CUST123,Female,40,Electronics,2,30,60,S001,New York,Large,Flagship
+134,1/25/2024,CUST134,Male,49,Electronics,1,50,50,S001,New York,Large,Flagship
+145,11/2/2024,CUST145,Female,39,Clothing,3,25,75,S001,New York,Large,Flagship
+150,1/6/2024,CUST150,Female,58,Electronics,4,30,120,S001,New York,Large,Flagship
+151,12/15/2024,CUST151,Male,29,Clothing,1,50,50,S001,New York,Large,Flagship
+171,11/24/2024,CUST171,Female,52,Clothing,3,300,900,S001,New York,Large,Flagship
+177,3/24/2024,CUST177,Male,45,Beauty,2,50,100,S001,New York,Large,Flagship
+181,11/3/2024,CUST181,Male,19,Electronics,4,300,1200,S001,New York,Large,Flagship
+188,5/3/2024,CUST188,Male,40,Clothing,3,25,75,S001,New York,Large,Flagship
+208,10/4/2024,CUST208,Female,34,Electronics,4,50,200,S001,New York,Large,Flagship
+213,7/24/2024,CUST213,Male,27,Beauty,3,500,1500,S001,New York,Large,Flagship
+221,5/7/2024,CUST221,Male,39,Beauty,2,300,600,S001,New York,Large,Flagship
+245,9/6/2024,CUST245,Male,47,Clothing,3,30,90,S001,New York,Large,Flagship
+247,10/4/2024,CUST247,Male,41,Electronics,2,30,60,S001,New York,Large,Flagship
+264,1/28/2024,CUST264,Male,47,Clothing,3,300,900,S001,New York,Large,Flagship
+267,11/27/2024,CUST267,Female,32,Beauty,3,30,90,S001,New York,Large,Flagship
+270,7/26/2024,CUST270,Male,43,Electronics,1,300,300,S001,New York,Large,Flagship
+273,5/8/2024,CUST273,Female,22,Beauty,1,50,50,S001,New York,Large,Flagship
+276,10/2/2024,CUST276,Female,21,Beauty,4,25,100,S001,New York,Large,Flagship
+283,5/8/2024,CUST283,Female,18,Electronics,1,500,500,S001,New York,Large,Flagship
+284,2/8/2024,CUST284,Male,43,Clothing,4,50,200,S001,New York,Large,Flagship
+288,1/26/2024,CUST288,Male,28,Clothing,4,30,120,S001,New York,Large,Flagship
+303,1/2/2024,CUST303,Male,19,Electronics,3,30,90,S001,New York,Large,Flagship
+311,12/5/2024,CUST311,Female,32,Beauty,4,25,100,S001,New York,Large,Flagship
+330,9/18/2024,CUST330,Female,25,Beauty,4,50,200,S001,New York,Large,Flagship
+355,12/9/2024,CUST355,Female,55,Electronics,1,500,500,S001,New York,Large,Flagship
+377,3/9/2024,CUST377,Female,46,Clothing,4,50,200,S001,New York,Large,Flagship
+388,11/10/2024,CUST388,Male,50,Electronics,1,25,25,S001,New York,Large,Flagship
+393,10/11/2024,CUST393,Female,22,Beauty,2,500,1000,S001,New York,Large,Flagship
+398,5/16/2024,CUST398,Female,48,Clothing,2,300,600,S001,New York,Large,Flagship
+401,10/11/2024,CUST401,Female,62,Clothing,1,300,300,S001,New York,Large,Flagship
+403,5/20/2024,CUST403,Male,32,Clothing,2,300,600,S001,New York,Large,Flagship
+413,9/8/2024,CUST413,Female,44,Beauty,3,25,75,S001,New York,Large,Flagship
+425,5/15/2024,CUST425,Female,55,Electronics,4,30,120,S001,New York,Large,Flagship
+426,3/24/2024,CUST426,Male,23,Electronics,3,50,150,S001,New York,Large,Flagship
+469,5/8/2024,CUST469,Male,18,Beauty,3,25,75,S001,New York,Large,Flagship
+473,2/25/2024,CUST473,Male,64,Beauty,1,50,50,S001,New York,Large,Flagship
+486,4/9/2024,CUST486,Female,35,Electronics,1,25,25,S001,New York,Large,Flagship
+494,9/18/2024,CUST494,Female,42,Beauty,4,50,200,S001,New York,Large,Flagship
+498,6/19/2024,CUST498,Female,50,Clothing,4,25,100,S001,New York,Large,Flagship
+515,7/17/2024,CUST515,Female,49,Clothing,3,300,900,S001,New York,Large,Flagship
+518,5/11/2024,CUST518,Female,40,Clothing,1,30,30,S001,New York,Large,Flagship
+529,8/9/2024,CUST529,Female,35,Clothing,3,50,150,S001,New York,Large,Flagship
+538,9/17/2024,CUST538,Male,18,Clothing,3,50,150,S001,New York,Large,Flagship
+568,8/27/2024,CUST568,Female,51,Electronics,1,300,300,S001,New York,Large,Flagship
+573,9/19/2024,CUST573,Male,49,Beauty,2,30,60,S001,New York,Large,Flagship
+587,6/8/2024,CUST587,Female,40,Beauty,4,300,1200,S001,New York,Large,Flagship
+591,1/13/2024,CUST591,Male,53,Electronics,4,25,100,S001,New York,Large,Flagship
+597,8/22/2024,CUST597,Male,22,Beauty,4,300,1200,S001,New York,Large,Flagship
+604,9/11/2024,CUST604,Female,29,Electronics,4,50,200,S001,New York,Large,Flagship
+611,2/24/2024,CUST611,Male,51,Beauty,3,500,1500,S001,New York,Large,Flagship
+635,8/17/2024,CUST635,Female,63,Electronics,3,300,900,S001,New York,Large,Flagship
+662,12/22/2024,CUST662,Male,48,Beauty,2,500,1000,S001,New York,Large,Flagship
+671,8/27/2024,CUST671,Male,62,Electronics,3,50,150,S001,New York,Large,Flagship
+674,4/16/2024,CUST674,Female,38,Clothing,1,300,300,S001,New York,Large,Flagship
+682,9/2/2024,CUST682,Male,46,Beauty,4,300,1200,S001,New York,Large,Flagship
+709,7/21/2024,CUST709,Female,19,Electronics,2,500,1000,S001,New York,Large,Flagship
+715,11/26/2024,CUST715,Female,42,Beauty,4,25,100,S001,New York,Large,Flagship
+733,8/29/2024,CUST733,Male,34,Beauty,1,30,30,S001,New York,Large,Flagship
+739,11/29/2024,CUST739,Male,36,Beauty,1,25,25,S001,New York,Large,Flagship
+762,11/7/2024,CUST762,Female,24,Electronics,2,25,50,S001,New York,Large,Flagship
+765,6/9/2024,CUST765,Male,43,Clothing,4,50,200,S001,New York,Large,Flagship
+776,10/31/2024,CUST776,Male,35,Clothing,3,30,90,S001,New York,Large,Flagship
+785,3/3/2024,CUST785,Female,31,Beauty,4,50,200,S001,New York,Large,Flagship
+799,9/8/2024,CUST799,Male,56,Electronics,2,50,100,S001,New York,Large,Flagship
+802,7/5/2024,CUST802,Female,46,Beauty,1,30,30,S001,New York,Large,Flagship
+805,12/29/2024,CUST805,Female,30,Beauty,3,500,1500,S001,New York,Large,Flagship
+806,3/20/2024,CUST806,Female,35,Beauty,3,300,900,S001,New York,Large,Flagship
+816,8/12/2024,CUST816,Male,47,Beauty,2,500,1000,S001,New York,Large,Flagship
+819,6/15/2024,CUST819,Female,35,Beauty,2,50,100,S001,New York,Large,Flagship
+821,2/14/2024,CUST821,Male,49,Electronics,1,300,300,S001,New York,Large,Flagship
+834,4/4/2024,CUST834,Female,56,Beauty,2,30,60,S001,New York,Large,Flagship
+835,9/7/2024,CUST835,Male,37,Clothing,4,50,200,S001,New York,Large,Flagship
+847,4/8/2024,CUST847,Female,18,Electronics,4,300,1200,S001,New York,Large,Flagship
+860,1/9/2024,CUST860,Male,63,Clothing,4,50,200,S001,New York,Large,Flagship
+875,8/6/2024,CUST875,Female,51,Electronics,4,500,2000,S001,New York,Large,Flagship
+885,3/3/2024,CUST885,Female,52,Clothing,4,30,120,S001,New York,Large,Flagship
+893,4/21/2024,CUST893,Male,49,Electronics,1,50,50,S001,New York,Large,Flagship
+898,11/2/2024,CUST898,Female,42,Clothing,3,30,90,S001,New York,Large,Flagship
+899,5/25/2024,CUST899,Male,26,Clothing,2,300,600,S001,New York,Large,Flagship
+906,6/4/2024,CUST906,Female,20,Clothing,1,50,50,S001,New York,Large,Flagship
+915,5/30/2024,CUST915,Female,26,Beauty,3,30,90,S001,New York,Large,Flagship
+922,10/21/2024,CUST922,Male,41,Electronics,1,50,50,S001,New York,Large,Flagship
+926,8/14/2024,CUST926,Male,22,Electronics,1,30,30,S001,New York,Large,Flagship
+932,2/28/2024,CUST932,Female,45,Beauty,4,25,100,S001,New York,Large,Flagship
+940,1/28/2024,CUST940,Female,20,Electronics,1,30,30,S001,New York,Large,Flagship
+964,1/31/2024,CUST964,Male,24,Clothing,3,300,900,S001,New York,Large,Flagship
+971,12/5/2024,CUST971,Female,27,Electronics,4,50,200,S001,New York,Large,Flagship
+975,3/30/2024,CUST975,Female,56,Clothing,4,50,200,S001,New York,Large,Flagship
+977,2/8/2024,CUST977,Female,35,Electronics,3,25,75,S001,New York,Large,Flagship
+980,7/29/2024,CUST980,Female,31,Electronics,3,25,75,S001,New York,Large,Flagship
+981,8/19/2024,CUST981,Female,30,Electronics,2,30,60,S001,New York,Large,Flagship
+990,5/25/2024,CUST990,Female,58,Beauty,2,500,1000,S001,New York,Large,Flagship
+994,12/18/2024,CUST994,Female,51,Beauty,2,500,1000,S001,New York,Large,Flagship
+1000,4/12/2024,CUST1000,Male,47,Electronics,4,30,120,S001,New York,Large,Flagship
+16,2/17/2024,CUST016,Male,19,Clothing,3,500,1500,S004,Texas,Large,Outlet
+24,11/29/2024,CUST024,Female,49,Clothing,1,300,300,S004,Texas,Large,Outlet
+30,10/29/2024,CUST030,Female,39,Beauty,3,300,900,S004,Texas,Large,Outlet
+59,7/5/2024,CUST059,Male,62,Clothing,1,50,50,S004,Texas,Large,Outlet
+70,2/21/2024,CUST070,Female,43,Clothing,1,300,300,S004,Texas,Large,Outlet
+73,8/21/2024,CUST073,Male,29,Electronics,3,30,90,S004,Texas,Large,Outlet
+74,11/22/2024,CUST074,Female,18,Beauty,4,500,2000,S004,Texas,Large,Outlet
+93,7/14/2024,CUST093,Female,35,Beauty,4,500,2000,S004,Texas,Large,Outlet
+95,11/24/2024,CUST095,Female,32,Clothing,2,30,60,S004,Texas,Large,Outlet
+96,12/19/2024,CUST096,Female,44,Clothing,2,300,600,S004,Texas,Large,Outlet
+107,2/3/2024,CUST107,Female,21,Clothing,4,300,1200,S004,Texas,Large,Outlet
+129,4/23/2024,CUST129,Female,21,Beauty,2,300,600,S004,Texas,Large,Outlet
+132,9/10/2024,CUST132,Male,42,Electronics,4,50,200,S004,Texas,Large,Outlet
+149,10/11/2024,CUST149,Male,22,Clothing,3,25,75,S004,Texas,Large,Outlet
+157,6/24/2024,CUST157,Male,62,Electronics,4,500,2000,S004,Texas,Large,Outlet
+162,8/21/2024,CUST162,Male,39,Clothing,2,30,60,S004,Texas,Large,Outlet
+168,2/24/2024,CUST168,Male,53,Clothing,1,300,300,S004,Texas,Large,Outlet
+235,1/31/2024,CUST235,Female,23,Electronics,2,500,1000,S004,Texas,Large,Outlet
+238,1/17/2024,CUST238,Female,39,Beauty,1,500,500,S004,Texas,Large,Outlet
+248,3/9/2024,CUST248,Male,26,Clothing,3,300,900,S004,Texas,Large,Outlet
+252,5/5/2024,CUST252,Male,54,Electronics,1,300,300,S004,Texas,Large,Outlet
+257,2/19/2024,CUST257,Male,19,Beauty,4,500,2000,S004,Texas,Large,Outlet
+265,12/11/2024,CUST265,Male,55,Clothing,3,300,900,S004,Texas,Large,Outlet
+271,6/23/2024,CUST271,Female,62,Beauty,4,30,120,S004,Texas,Large,Outlet
+275,4/8/2024,CUST275,Male,43,Clothing,2,500,1000,S004,Texas,Large,Outlet
+290,10/4/2024,CUST290,Female,30,Beauty,2,300,600,S004,Texas,Large,Outlet
+291,1/8/2024,CUST291,Male,60,Clothing,2,300,600,S004,Texas,Large,Outlet
+298,4/20/2024,CUST298,Male,27,Beauty,4,300,1200,S004,Texas,Large,Outlet
+309,12/23/2024,CUST309,Female,26,Beauty,1,25,25,S004,Texas,Large,Outlet
+315,6/1/2024,CUST315,Male,47,Clothing,2,30,60,S004,Texas,Large,Outlet
+325,9/2/2024,CUST325,Female,52,Electronics,2,25,50,S004,Texas,Large,Outlet
+329,1/30/2024,CUST329,Female,46,Electronics,4,25,100,S004,Texas,Large,Outlet
+333,2/5/2024,CUST333,Female,54,Electronics,4,300,1200,S004,Texas,Large,Outlet
+341,5/7/2024,CUST341,Male,31,Clothing,4,50,200,S004,Texas,Large,Outlet
+347,8/3/2024,CUST347,Male,42,Electronics,1,25,25,S004,Texas,Large,Outlet
+361,12/10/2024,CUST361,Female,34,Electronics,4,300,1200,S004,Texas,Large,Outlet
+374,4/20/2024,CUST374,Female,59,Beauty,3,25,75,S004,Texas,Large,Outlet
+376,5/16/2024,CUST376,Female,64,Beauty,1,30,30,S004,Texas,Large,Outlet
+385,10/6/2024,CUST385,Male,50,Electronics,3,500,1500,S004,Texas,Large,Outlet
+402,3/21/2024,CUST402,Female,41,Clothing,2,300,600,S004,Texas,Large,Outlet
+417,11/21/2024,CUST417,Male,43,Electronics,3,300,900,S004,Texas,Large,Outlet
+438,1/19/2024,CUST438,Female,42,Clothing,1,30,30,S004,Texas,Large,Outlet
+441,10/10/2024,CUST441,Male,57,Beauty,4,300,1200,S004,Texas,Large,Outlet
+454,2/22/2024,CUST454,Female,46,Beauty,1,25,25,S004,Texas,Large,Outlet
+460,5/2/2024,CUST460,Male,40,Beauty,1,50,50,S004,Texas,Large,Outlet
+463,7/31/2024,CUST463,Female,54,Beauty,3,500,1500,S004,Texas,Large,Outlet
+464,1/13/2024,CUST464,Male,38,Electronics,2,300,600,S004,Texas,Large,Outlet
+468,12/9/2024,CUST468,Male,40,Electronics,1,25,25,S004,Texas,Large,Outlet
+481,6/6/2024,CUST481,Female,43,Electronics,4,300,1200,S004,Texas,Large,Outlet
+491,5/23/2024,CUST491,Female,60,Electronics,3,300,900,S004,Texas,Large,Outlet
+493,11/25/2024,CUST493,Male,41,Beauty,2,25,50,S004,Texas,Large,Outlet
+501,5/14/2024,CUST501,Male,39,Electronics,2,30,60,S004,Texas,Large,Outlet
+524,10/3/2024,CUST524,Male,46,Beauty,4,300,1200,S004,Texas,Large,Outlet
+540,12/8/2024,CUST540,Female,46,Electronics,3,300,900,S004,Texas,Large,Outlet
+548,4/9/2024,CUST548,Female,51,Clothing,2,30,60,S004,Texas,Large,Outlet
+576,12/4/2024,CUST576,Female,33,Beauty,3,50,150,S004,Texas,Large,Outlet
+577,2/13/2024,CUST577,Male,21,Beauty,4,500,2000,S004,Texas,Large,Outlet
+579,9/21/2024,CUST579,Female,38,Electronics,1,30,30,S004,Texas,Large,Outlet
+581,11/21/2024,CUST581,Female,48,Beauty,2,30,60,S004,Texas,Large,Outlet
+583,6/21/2024,CUST583,Female,24,Electronics,4,25,100,S004,Texas,Large,Outlet
+595,11/9/2024,CUST595,Female,18,Clothing,4,500,2000,S004,Texas,Large,Outlet
+602,12/23/2024,CUST602,Female,20,Electronics,1,300,300,S004,Texas,Large,Outlet
+617,8/26/2024,CUST617,Male,34,Electronics,1,30,30,S004,Texas,Large,Outlet
+624,8/26/2024,CUST624,Female,34,Beauty,3,300,900,S004,Texas,Large,Outlet
+667,8/1/2024,CUST667,Female,29,Electronics,1,500,500,S004,Texas,Large,Outlet
+696,9/6/2024,CUST696,Female,50,Clothing,4,50,200,S004,Texas,Large,Outlet
+713,1/14/2024,CUST713,Male,34,Beauty,3,25,75,S004,Texas,Large,Outlet
+718,8/25/2024,CUST718,Female,59,Beauty,3,25,75,S004,Texas,Large,Outlet
+738,4/25/2024,CUST738,Male,41,Clothing,2,50,100,S004,Texas,Large,Outlet
+740,2/5/2024,CUST740,Female,25,Beauty,4,50,200,S004,Texas,Large,Outlet
+761,11/7/2024,CUST761,Female,33,Clothing,1,500,500,S004,Texas,Large,Outlet
+779,5/5/2024,CUST779,Female,56,Electronics,2,500,1000,S004,Texas,Large,Outlet
+780,2/22/2024,CUST780,Male,52,Electronics,2,25,50,S004,Texas,Large,Outlet
+792,7/9/2024,CUST792,Female,20,Beauty,1,50,50,S004,Texas,Large,Outlet
+794,9/17/2024,CUST794,Female,60,Beauty,1,300,300,S004,Texas,Large,Outlet
+796,6/24/2024,CUST796,Male,43,Beauty,4,30,120,S004,Texas,Large,Outlet
+809,9/25/2024,CUST809,Female,62,Beauty,2,50,100,S004,Texas,Large,Outlet
+811,5/19/2024,CUST811,Male,61,Beauty,2,25,50,S004,Texas,Large,Outlet
+841,11/2/2024,CUST841,Male,31,Electronics,4,25,100,S004,Texas,Large,Outlet
+844,10/12/2024,CUST844,Male,35,Clothing,3,50,150,S004,Texas,Large,Outlet
+852,10/12/2024,CUST852,Female,41,Clothing,1,300,300,S004,Texas,Large,Outlet
+859,8/18/2024,CUST859,Female,56,Electronics,3,500,1500,S004,Texas,Large,Outlet
+878,6/30/2024,CUST878,Female,20,Clothing,1,30,30,S004,Texas,Large,Outlet
+879,12/26/2024,CUST879,Male,23,Clothing,1,30,30,S004,Texas,Large,Outlet
+912,1/24/2024,CUST912,Male,51,Beauty,3,50,150,S004,Texas,Large,Outlet
+920,2/22/2024,CUST920,Female,28,Beauty,3,25,75,S004,Texas,Large,Outlet
+924,8/29/2024,CUST924,Male,55,Beauty,2,50,100,S004,Texas,Large,Outlet
+927,6/24/2024,CUST927,Male,43,Electronics,4,500,2000,S004,Texas,Large,Outlet
+943,10/16/2024,CUST943,Female,57,Clothing,4,300,1200,S004,Texas,Large,Outlet
+952,11/13/2024,CUST952,Female,57,Clothing,1,25,25,S004,Texas,Large,Outlet
+953,4/26/2024,CUST953,Male,45,Beauty,3,30,90,S004,Texas,Large,Outlet
+988,5/28/2024,CUST988,Female,63,Clothing,3,25,75,S004,Texas,Large,Outlet
+995,4/30/2024,CUST995,Female,41,Clothing,1,30,30,S004,Texas,Large,Outlet
+998,10/29/2024,CUST998,Female,23,Beauty,4,25,100,S004,Texas,Large,Outlet
+999,12/5/2024,CUST999,Female,36,Electronics,3,50,150,S004,Texas,Large,Outlet
+57,11/18/2024,CUST057,Female,63,Beauty,1,30,30,S006,Miami,Large,Online
+63,2/5/2024,CUST063,Male,57,Electronics,2,25,50,S006,Miami,Large,Online
+89,10/1/2024,CUST089,Female,55,Electronics,4,500,2000,S006,Miami,Large,Online
+91,3/25/2024,CUST091,Female,55,Electronics,1,500,500,S006,Miami,Large,Online
+120,5/7/2024,CUST120,Male,60,Beauty,1,50,50,S006,Miami,Large,Online
+121,10/15/2024,CUST121,Female,28,Electronics,4,50,200,S006,Miami,Large,Online
+133,2/16/2024,CUST133,Male,20,Electronics,3,300,900,S006,Miami,Large,Online
+148,5/9/2024,CUST148,Male,18,Clothing,2,30,60,S006,Miami,Large,Online
+163,1/2/2024,CUST163,Female,64,Clothing,3,50,150,S006,Miami,Large,Online
+170,6/2/2024,CUST170,Female,25,Clothing,2,25,50,S006,Miami,Large,Online
+179,9/29/2024,CUST179,Male,31,Electronics,1,300,300,S006,Miami,Large,Online
+180,1/1/2024,CUST180,Male,41,Clothing,3,300,900,S006,Miami,Large,Online
+182,6/15/2024,CUST182,Male,62,Beauty,4,30,120,S006,Miami,Large,Online
+192,2/10/2024,CUST192,Male,62,Beauty,2,50,100,S006,Miami,Large,Online
+200,9/1/2024,CUST200,Male,27,Beauty,3,50,150,S006,Miami,Large,Online
+201,10/9/2024,CUST201,Male,56,Electronics,1,25,25,S006,Miami,Large,Online
+209,12/20/2024,CUST209,Female,30,Electronics,4,50,200,S006,Miami,Large,Online
+211,1/1/2024,CUST211,Male,42,Beauty,3,500,1500,S006,Miami,Large,Online
+214,12/10/2024,CUST214,Male,20,Beauty,2,30,60,S006,Miami,Large,Online
+215,11/29/2024,CUST215,Male,58,Clothing,3,500,1500,S006,Miami,Large,Online
+217,8/13/2024,CUST217,Female,35,Electronics,4,50,200,S006,Miami,Large,Online
+223,2/2/2024,CUST223,Female,64,Clothing,1,25,25,S006,Miami,Large,Online
+225,1/11/2024,CUST225,Female,57,Beauty,4,25,100,S006,Miami,Large,Online
+231,1/4/2024,CUST231,Female,23,Clothing,3,50,150,S006,Miami,Large,Online
+232,2/6/2024,CUST232,Female,43,Beauty,1,25,25,S006,Miami,Large,Online
+250,10/23/2024,CUST250,Male,48,Electronics,1,50,50,S006,Miami,Large,Online
+304,7/19/2024,CUST304,Female,37,Electronics,2,30,60,S006,Miami,Large,Online
+312,9/7/2024,CUST312,Male,41,Clothing,4,30,120,S006,Miami,Large,Online
+320,2/1/2024,CUST320,Female,28,Electronics,4,300,1200,S006,Miami,Large,Online
+327,9/29/2024,CUST327,Male,57,Electronics,3,50,150,S006,Miami,Large,Online
+334,11/1/2024,CUST334,Male,31,Electronics,3,300,900,S006,Miami,Large,Online
+346,2/11/2024,CUST346,Male,59,Clothing,2,500,1000,S006,Miami,Large,Online
+349,10/26/2024,CUST349,Female,57,Beauty,1,50,50,S006,Miami,Large,Online
+350,10/17/2024,CUST350,Male,25,Beauty,3,25,75,S006,Miami,Large,Online
+352,6/11/2024,CUST352,Male,57,Electronics,2,500,1000,S006,Miami,Large,Online
+359,7/22/2024,CUST359,Male,50,Clothing,1,50,50,S006,Miami,Large,Online
+366,2/7/2024,CUST366,Male,57,Clothing,2,50,100,S006,Miami,Large,Online
+373,10/3/2024,CUST373,Female,25,Beauty,2,300,600,S006,Miami,Large,Online
+375,9/17/2024,CUST375,Male,32,Clothing,1,50,50,S006,Miami,Large,Online
+378,6/28/2024,CUST378,Male,50,Beauty,1,300,300,S006,Miami,Large,Online
+395,12/6/2024,CUST395,Male,50,Electronics,2,500,1000,S006,Miami,Large,Online
+423,3/8/2024,CUST423,Female,27,Clothing,1,25,25,S006,Miami,Large,Online
+424,11/23/2024,CUST424,Male,57,Beauty,4,300,1200,S006,Miami,Large,Online
+436,3/18/2024,CUST436,Female,57,Clothing,4,30,120,S006,Miami,Large,Online
+445,1/22/2024,CUST445,Female,53,Electronics,1,300,300,S006,Miami,Large,Online
+458,11/14/2024,CUST458,Female,39,Electronics,4,25,100,S006,Miami,Large,Online
+462,4/1/2024,CUST462,Male,63,Electronics,4,300,1200,S006,Miami,Large,Online
+482,4/27/2024,CUST482,Female,28,Clothing,4,300,1200,S006,Miami,Large,Online
+489,5/23/2024,CUST489,Male,44,Electronics,1,30,30,S006,Miami,Large,Online
+499,1/15/2024,CUST499,Male,46,Beauty,2,30,60,S006,Miami,Large,Online
+520,12/29/2024,CUST520,Female,49,Electronics,4,25,100,S006,Miami,Large,Online
+532,6/19/2024,CUST532,Female,64,Clothing,4,30,120,S006,Miami,Large,Online
+534,6/10/2024,CUST534,Male,45,Clothing,2,500,1000,S006,Miami,Large,Online
+539,6/8/2024,CUST539,Male,25,Beauty,1,500,500,S006,Miami,Large,Online
+552,12/13/2024,CUST552,Female,49,Electronics,3,25,75,S006,Miami,Large,Online
+563,8/9/2024,CUST563,Male,20,Clothing,2,30,60,S006,Miami,Large,Online
+575,3/28/2024,CUST575,Male,60,Clothing,2,50,100,S006,Miami,Large,Online
+580,12/6/2024,CUST580,Female,31,Clothing,3,500,1500,S006,Miami,Large,Online
+616,9/23/2024,CUST616,Male,41,Clothing,2,50,100,S006,Miami,Large,Online
+629,6/12/2024,CUST629,Male,62,Electronics,2,25,50,S006,Miami,Large,Online
+634,10/8/2024,CUST634,Male,60,Electronics,4,500,2000,S006,Miami,Large,Online
+646,5/3/2024,CUST646,Male,38,Clothing,3,30,90,S006,Miami,Large,Online
+647,5/21/2024,CUST647,Male,59,Clothing,3,500,1500,S006,Miami,Large,Online
+651,5/27/2024,CUST651,Male,51,Clothing,3,50,150,S006,Miami,Large,Online
+656,10/4/2024,CUST656,Male,29,Beauty,3,30,90,S006,Miami,Large,Online
+666,2/2/2024,CUST666,Male,51,Electronics,3,50,150,S006,Miami,Large,Online
+672,8/1/2024,CUST672,Female,34,Beauty,2,50,100,S006,Miami,Large,Online
+673,2/1/2024,CUST673,Female,43,Clothing,3,500,1500,S006,Miami,Large,Online
+678,12/23/2024,CUST678,Female,60,Electronics,3,300,900,S006,Miami,Large,Online
+692,9/7/2024,CUST692,Female,64,Clothing,2,50,100,S006,Miami,Large,Online
+694,5/20/2024,CUST694,Female,39,Electronics,2,25,50,S006,Miami,Large,Online
+710,10/31/2024,CUST710,Female,26,Electronics,3,500,1500,S006,Miami,Large,Online
+712,12/6/2024,CUST712,Female,57,Beauty,2,25,50,S006,Miami,Large,Online
+716,8/8/2024,CUST716,Female,60,Clothing,4,300,1200,S006,Miami,Large,Online
+722,7/14/2024,CUST722,Male,20,Beauty,3,300,900,S006,Miami,Large,Online
+723,6/17/2024,CUST723,Female,54,Beauty,4,50,200,S006,Miami,Large,Online
+729,5/23/2024,CUST729,Male,29,Clothing,4,300,1200,S006,Miami,Large,Online
+730,8/4/2024,CUST730,Female,36,Clothing,2,25,50,S006,Miami,Large,Online
+745,4/13/2024,CUST745,Male,54,Beauty,2,50,100,S006,Miami,Large,Online
+769,6/9/2024,CUST769,Female,31,Electronics,4,30,120,S006,Miami,Large,Online
+797,1/7/2024,CUST797,Male,40,Clothing,3,25,75,S006,Miami,Large,Online
+808,4/1/2024,CUST808,Male,33,Beauty,4,500,2000,S006,Miami,Large,Online
+824,5/5/2024,CUST824,Male,63,Clothing,4,30,120,S006,Miami,Large,Online
+827,11/9/2024,CUST827,Male,61,Beauty,3,300,900,S006,Miami,Large,Online
+849,5/4/2024,CUST849,Male,32,Clothing,2,25,50,S006,Miami,Large,Online
+850,7/28/2024,CUST850,Female,26,Beauty,2,500,1000,S006,Miami,Large,Online
+857,12/31/2024,CUST857,Male,60,Electronics,2,25,50,S006,Miami,Large,Online
+861,2/17/2024,CUST861,Female,41,Clothing,3,30,90,S006,Miami,Large,Online
+867,6/6/2024,CUST867,Male,21,Electronics,1,500,500,S006,Miami,Large,Online
+868,12/6/2024,CUST868,Female,25,Electronics,1,300,300,S006,Miami,Large,Online
+883,5/9/2024,CUST883,Male,40,Electronics,1,500,500,S006,Miami,Large,Online
+897,9/26/2024,CUST897,Female,64,Electronics,2,50,100,S006,Miami,Large,Online
+903,4/27/2024,CUST903,Female,51,Beauty,4,50,200,S006,Miami,Large,Online
+931,9/2/2024,CUST931,Male,30,Beauty,4,30,120,S006,Miami,Large,Online
+942,3/18/2024,CUST942,Male,51,Clothing,3,500,1500,S006,Miami,Large,Online
+947,3/2/2024,CUST947,Male,50,Beauty,1,300,300,S006,Miami,Large,Online
+950,11/7/2024,CUST950,Male,36,Clothing,3,300,900,S006,Miami,Large,Online
+969,4/19/2024,CUST969,Female,40,Clothing,3,300,900,S006,Miami,Large,Online
+970,5/16/2024,CUST970,Male,59,Electronics,4,500,2000,S006,Miami,Large,Online
+993,2/6/2024,CUST993,Female,48,Electronics,3,50,150,S006,Miami,Large,Online
